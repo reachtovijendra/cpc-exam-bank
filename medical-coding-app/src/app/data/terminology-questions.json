@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "A physician documents that a patient has bilateral knee pain. The coder needs to understand the prefix to assign the correct modifier.",
+    "questionText": "The prefix 'bi-' means:",
+    "answers": [
+      {"id": "A", "text": "One"},
+      {"id": "B", "text": "Two"},
+      {"id": "C", "text": "Three"},
+      {"id": "D", "text": "Half"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The prefix 'bi-' means two or both. Bilateral means pertaining to both sides. In medical coding, bilateral procedures may require modifier -50 or separate codes for each side. 'Uni-' means one, 'tri-' means three, and 'hemi-' means half."
+  },
+  {
+    "id": 2,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "A pathology report describes a hyperplastic polyp found during colonoscopy. The coder must understand the terminology to select the correct diagnosis code.",
+    "questionText": "The prefix 'hyper-' means:",
+    "answers": [
+      {"id": "A", "text": "Below normal"},
+      {"id": "B", "text": "Above normal or excessive"},
+      {"id": "C", "text": "Around"},
+      {"id": "D", "text": "Without"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The prefix 'hyper-' means above normal, excessive, or beyond. Hyperplasia means excessive cell growth. Hypertension means elevated blood pressure. The opposite prefix 'hypo-' means below normal or deficient. 'Peri-' means around, and 'a-' or 'an-' means without."
+  },
+  {
+    "id": 3,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "A surgeon documents performing a subcutaneous injection. The coder needs to understand the anatomical location for proper code selection.",
+    "questionText": "The prefix 'sub-' means:",
+    "answers": [
+      {"id": "A", "text": "Above"},
+      {"id": "B", "text": "Around"},
+      {"id": "C", "text": "Below or under"},
+      {"id": "D", "text": "Between"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The prefix 'sub-' means below, under, or beneath. Subcutaneous means under the skin. Sublingual means under the tongue. Subdural means below the dura mater. 'Supra-' means above, 'peri-' means around, and 'inter-' means between."
+  },
+  {
+    "id": 4,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "An operative report describes a periarticular fracture of the knee. The coder must understand the prefix to determine the fracture location.",
+    "questionText": "The prefix 'peri-' means:",
+    "answers": [
+      {"id": "A", "text": "Within"},
+      {"id": "B", "text": "Around or surrounding"},
+      {"id": "C", "text": "Through"},
+      {"id": "D", "text": "Above"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The prefix 'peri-' means around or surrounding. Periarticular means around a joint. Pericardium means the membrane around the heart. Periosteum is the membrane around bone. 'Intra-' means within, 'trans-' means through or across, and 'supra-' means above."
+  },
+  {
+    "id": 5,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "A physician documents that a patient is postoperative day two following a cholecystectomy.",
+    "questionText": "The prefix 'post-' means:",
+    "answers": [
+      {"id": "A", "text": "Before"},
+      {"id": "B", "text": "During"},
+      {"id": "C", "text": "After"},
+      {"id": "D", "text": "Without"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The prefix 'post-' means after. Postoperative means after surgery. Postpartum means after childbirth. Postmortem means after death. 'Pre-' means before, 'intra-' can mean during (as in intraoperative), and 'a-' means without."
+  },
+  {
+    "id": 6,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "A radiology report describes a transhepatic cholangiogram. The coder needs to understand the approach described.",
+    "questionText": "The prefix 'trans-' means:",
+    "answers": [
+      {"id": "A", "text": "Below"},
+      {"id": "B", "text": "Around"},
+      {"id": "C", "text": "Through or across"},
+      {"id": "D", "text": "Within"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The prefix 'trans-' means through or across. Transhepatic means through the liver. Transurethral means through the urethra. Transcutaneous means through the skin. 'Sub-' means below, 'peri-' means around, and 'intra-' means within."
+  },
+  {
+    "id": 7,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "A patient is diagnosed with tachycardia. The physician documents a heart rate of 120 beats per minute.",
+    "questionText": "The prefix 'tachy-' means:",
+    "answers": [
+      {"id": "A", "text": "Slow"},
+      {"id": "B", "text": "Fast or rapid"},
+      {"id": "C", "text": "Irregular"},
+      {"id": "D", "text": "Absent"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The prefix 'tachy-' means fast or rapid. Tachycardia means rapid heart rate (typically >100 bpm). Tachypnea means rapid breathing. The opposite prefix 'brady-' means slow (bradycardia = slow heart rate). 'Dys-' can mean abnormal or difficult, and 'a-' means absent."
+  },
+  {
+    "id": 8,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "A physician documents that a patient has anemia. The coder needs to understand the prefix to properly code the condition.",
+    "questionText": "The prefix 'an-' (or 'a-') means:",
+    "answers": [
+      {"id": "A", "text": "Excessive"},
+      {"id": "B", "text": "Normal"},
+      {"id": "C", "text": "Without or absence of"},
+      {"id": "D", "text": "Painful"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The prefix 'an-' or 'a-' means without or absence of. Anemia means without (sufficient) blood. Apnea means without breathing. Anesthesia means without sensation. 'Hyper-' means excessive, 'eu-' means normal or good, and 'dys-' means painful or difficult."
+  },
+  {
+    "id": 9,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "A patient undergoes an intravenous pyelogram. The coder needs to understand the route of contrast administration.",
+    "questionText": "The prefix 'intra-' means:",
+    "answers": [
+      {"id": "A", "text": "Between"},
+      {"id": "B", "text": "Outside"},
+      {"id": "C", "text": "Within"},
+      {"id": "D", "text": "Above"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The prefix 'intra-' means within or inside. Intravenous means within a vein. Intramuscular means within a muscle. Intracranial means within the skull. 'Inter-' means between (e.g., intervertebral = between vertebrae). 'Extra-' means outside, and 'supra-' means above."
+  },
+  {
+    "id": 10,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "A physician documents that a patient has dysphagia following a stroke. The coder must identify the correct ICD-10 code.",
+    "questionText": "The prefix 'dys-' means:",
+    "answers": [
+      {"id": "A", "text": "Normal"},
+      {"id": "B", "text": "Painful, difficult, or abnormal"},
+      {"id": "C", "text": "Without"},
+      {"id": "D", "text": "Excessive"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The prefix 'dys-' means painful, difficult, or abnormal. Dysphagia means difficulty swallowing. Dyspnea means difficulty breathing. Dysuria means painful urination. Dysfunction means abnormal function. 'Eu-' means normal or good, 'a-' means without, and 'hyper-' means excessive."
+  },
+  {
+    "id": 11,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A surgeon performs a cholecystectomy. The coder must understand the suffix to determine what procedure was performed.",
+    "questionText": "The suffix '-ectomy' means:",
+    "answers": [
+      {"id": "A", "text": "Surgical repair"},
+      {"id": "B", "text": "Surgical removal or excision"},
+      {"id": "C", "text": "Incision into"},
+      {"id": "D", "text": "Visual examination"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The suffix '-ectomy' means surgical removal or excision. Cholecystectomy means removal of the gallbladder. Appendectomy means removal of the appendix. Tonsillectomy means removal of the tonsils. '-plasty' means surgical repair, '-otomy' means incision into, and '-oscopy' means visual examination."
+  },
+  {
+    "id": 12,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient undergoes a rhinoplasty. The coder needs to understand the suffix to determine the type of procedure.",
+    "questionText": "The suffix '-plasty' means:",
+    "answers": [
+      {"id": "A", "text": "Removal"},
+      {"id": "B", "text": "Binding or fixation"},
+      {"id": "C", "text": "Surgical repair or reconstruction"},
+      {"id": "D", "text": "Crushing"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The suffix '-plasty' means surgical repair or reconstruction. Rhinoplasty means surgical repair of the nose. Arthroplasty means joint repair/replacement. Angioplasty means vessel repair. '-ectomy' means removal, '-desis' means binding or fixation, and '-tripsy' means crushing."
+  },
+  {
+    "id": 13,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A gastroenterologist performs an esophagogastroduodenoscopy (EGD). The coder must understand the suffix to identify the procedure type.",
+    "questionText": "The suffix '-scopy' means:",
+    "answers": [
+      {"id": "A", "text": "Surgical removal"},
+      {"id": "B", "text": "Recording or image"},
+      {"id": "C", "text": "Visual examination"},
+      {"id": "D", "text": "Incision"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The suffix '-scopy' means visual examination. Endoscopy means visual examination of the interior. Arthroscopy means visual examination of a joint. Colonoscopy means visual examination of the colon. '-ectomy' means removal, '-graphy' means recording/image, and '-otomy' means incision."
+  },
+  {
+    "id": 14,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A pathology report describes cardiomegaly on a chest X-ray. The coder needs to understand the finding for diagnosis coding.",
+    "questionText": "The suffix '-megaly' means:",
+    "answers": [
+      {"id": "A", "text": "Pain"},
+      {"id": "B", "text": "Inflammation"},
+      {"id": "C", "text": "Enlargement"},
+      {"id": "D", "text": "Softening"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The suffix '-megaly' means enlargement. Cardiomegaly means enlargement of the heart. Hepatomegaly means enlargement of the liver. Splenomegaly means enlargement of the spleen. '-algia' means pain, '-itis' means inflammation, and '-malacia' means softening."
+  },
+  {
+    "id": 15,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient is diagnosed with appendicitis. The coder must understand the suffix to assign the correct diagnosis code.",
+    "questionText": "The suffix '-itis' means:",
+    "answers": [
+      {"id": "A", "text": "Condition of"},
+      {"id": "B", "text": "Inflammation"},
+      {"id": "C", "text": "Disease"},
+      {"id": "D", "text": "Tumor"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The suffix '-itis' means inflammation. Appendicitis means inflammation of the appendix. Arthritis means inflammation of a joint. Bronchitis means inflammation of the bronchi. '-osis' means condition of, '-pathy' means disease, and '-oma' means tumor."
+  },
+  {
+    "id": 16,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient undergoes a tracheotomy for airway management. The coder must distinguish this from a tracheostomy.",
+    "questionText": "The suffix '-otomy' means:",
+    "answers": [
+      {"id": "A", "text": "Surgical removal"},
+      {"id": "B", "text": "Creating a new opening"},
+      {"id": "C", "text": "Cutting into or incision"},
+      {"id": "D", "text": "Suturing"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The suffix '-otomy' means cutting into or incision. A tracheotomy is an incision into the trachea. A craniotomy is an incision into the skull. '-ectomy' means surgical removal, '-ostomy' means creating a new permanent opening (stoma), and '-rrhaphy' means suturing."
+  },
+  {
+    "id": 17,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient undergoes a colostomy after bowel resection. The coder needs to understand the suffix for correct procedure coding.",
+    "questionText": "The suffix '-ostomy' means:",
+    "answers": [
+      {"id": "A", "text": "Incision into"},
+      {"id": "B", "text": "Removal of"},
+      {"id": "C", "text": "Creating a new opening"},
+      {"id": "D", "text": "Binding together"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The suffix '-ostomy' means creating a new opening (stoma). A colostomy creates a new opening from the colon to the abdominal surface. A tracheostomy creates a permanent opening in the trachea. An ileostomy creates an opening from the ileum. '-otomy' means incision, '-ectomy' means removal, and '-desis' means binding."
+  },
+  {
+    "id": 18,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient is diagnosed with a hepatic adenoma. The pathology report describes a benign tumor of the liver.",
+    "questionText": "The suffix '-oma' means:",
+    "answers": [
+      {"id": "A", "text": "Inflammation"},
+      {"id": "B", "text": "Tumor or mass"},
+      {"id": "C", "text": "Blood condition"},
+      {"id": "D", "text": "Pain"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The suffix '-oma' means tumor or mass. Adenoma is a benign glandular tumor. Carcinoma is a malignant epithelial tumor. Melanoma is a tumor of melanocytes. Hematoma is a collection of blood (not a true neoplasm but uses the same suffix). '-itis' means inflammation, '-emia' means blood condition, and '-algia' means pain."
+  },
+  {
+    "id": 19,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient presents with arthralgia of the right hip. The physician documents pain without signs of inflammation.",
+    "questionText": "The suffix '-algia' means:",
+    "answers": [
+      {"id": "A", "text": "Weakness"},
+      {"id": "B", "text": "Inflammation"},
+      {"id": "C", "text": "Pain"},
+      {"id": "D", "text": "Swelling"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The suffix '-algia' means pain. Arthralgia means joint pain. Neuralgia means nerve pain. Myalgia means muscle pain. Cephalgia (cephalalgia) means headache. '-asthenia' means weakness, '-itis' means inflammation, and '-edema' means swelling."
+  },
+  {
+    "id": 20,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient undergoes an electrocardiogram (ECG/EKG). The coder needs to understand the suffix to classify the procedure.",
+    "questionText": "The suffix '-gram' means:",
+    "answers": [
+      {"id": "A", "text": "Instrument for recording"},
+      {"id": "B", "text": "Process of recording"},
+      {"id": "C", "text": "Record or image"},
+      {"id": "D", "text": "Visual examination"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The suffix '-gram' means a record or image. An electrocardiogram is the record of the heart's electrical activity. A mammogram is an image of the breast. '-graph' means the instrument used for recording, '-graphy' means the process of recording, and '-scopy' means visual examination."
+  },
+  {
+    "id": 21,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A physician documents a patient with nephritis. The coder must identify the organ system involved for proper code assignment.",
+    "questionText": "The root word 'nephr/o' refers to which organ?",
+    "answers": [
+      {"id": "A", "text": "Liver"},
+      {"id": "B", "text": "Kidney"},
+      {"id": "C", "text": "Lung"},
+      {"id": "D", "text": "Spleen"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The root word 'nephr/o' refers to the kidney. Nephritis means inflammation of the kidney. Nephrectomy means removal of a kidney. Nephrology is the study of kidney diseases. 'Hepat/o' refers to the liver, 'pneum/o' or 'pulmon/o' refers to the lung, and 'splen/o' refers to the spleen."
+  },
+  {
+    "id": 22,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A patient is diagnosed with hepatomegaly on abdominal ultrasound. The coder needs to identify the organ involved.",
+    "questionText": "The root word 'hepat/o' refers to which organ?",
+    "answers": [
+      {"id": "A", "text": "Heart"},
+      {"id": "B", "text": "Stomach"},
+      {"id": "C", "text": "Liver"},
+      {"id": "D", "text": "Pancreas"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The root word 'hepat/o' refers to the liver. Hepatomegaly means enlargement of the liver. Hepatitis means inflammation of the liver. Hepatectomy means removal of the liver (or part of it). 'Cardi/o' refers to the heart, 'gastr/o' refers to the stomach, and 'pancreat/o' refers to the pancreas."
+  },
+  {
+    "id": 23,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A patient undergoes an osteotomy of the tibia. The coder must understand the root word to classify the procedure.",
+    "questionText": "The root word 'oste/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Joint"},
+      {"id": "B", "text": "Muscle"},
+      {"id": "C", "text": "Bone"},
+      {"id": "D", "text": "Cartilage"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The root word 'oste/o' refers to bone. Osteotomy means cutting into bone. Osteoporosis means porous bone condition. Osteomyelitis means inflammation of bone and marrow. 'Arthr/o' refers to joint, 'my/o' refers to muscle, and 'chondr/o' refers to cartilage."
+  },
+  {
+    "id": 24,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A patient is diagnosed with gastroesophageal reflux disease (GERD). The physician documents chronic acid reflux from the stomach into the esophagus.",
+    "questionText": "The root word 'gastr/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Intestine"},
+      {"id": "B", "text": "Stomach"},
+      {"id": "C", "text": "Esophagus"},
+      {"id": "D", "text": "Gallbladder"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The root word 'gastr/o' refers to the stomach. Gastroesophageal means pertaining to the stomach and esophagus. Gastritis means inflammation of the stomach. Gastrectomy means removal of the stomach. 'Enter/o' refers to the intestine, 'esophag/o' refers to the esophagus, and 'cholecyst/o' refers to the gallbladder."
+  },
+  {
+    "id": 25,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A patient undergoes a pneumonectomy for lung cancer. The coder must identify the organ system for proper CPT code selection.",
+    "questionText": "The root word 'pneum/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Heart"},
+      {"id": "B", "text": "Air or lung"},
+      {"id": "C", "text": "Blood vessel"},
+      {"id": "D", "text": "Nerve"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The root word 'pneum/o' refers to air or lung. Pneumonectomy means removal of a lung. Pneumonia means infection/inflammation of the lung. Pneumothorax means air in the thoracic cavity. 'Cardi/o' refers to the heart, 'angi/o' refers to blood vessel, and 'neur/o' refers to nerve."
+  },
+  {
+    "id": 26,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A patient is diagnosed with dermatitis. The dermatologist prescribes topical corticosteroids for the skin condition.",
+    "questionText": "The root word 'derm/o' or 'dermat/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Hair"},
+      {"id": "B", "text": "Nail"},
+      {"id": "C", "text": "Skin"},
+      {"id": "D", "text": "Fat"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The root word 'derm/o' or 'dermat/o' refers to the skin. Dermatitis means inflammation of the skin. Dermatology is the study of skin diseases. Dermatome is an instrument for cutting skin. 'Trich/o' refers to hair, 'onych/o' refers to nail, and 'lip/o' or 'adip/o' refers to fat."
+  },
+  {
+    "id": 27,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A patient undergoes a cystoscopy for evaluation of hematuria. The urologist examines the interior of the bladder.",
+    "questionText": "The root word 'cyst/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Kidney"},
+      {"id": "B", "text": "Bladder or sac"},
+      {"id": "C", "text": "Ureter"},
+      {"id": "D", "text": "Urethra"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The root word 'cyst/o' refers to the bladder or a sac. Cystoscopy means visual examination of the bladder. Cystitis means inflammation of the bladder. Cholecystectomy means removal of the gallbladder (chole = bile + cyst = sac). 'Nephr/o' or 'ren/o' refers to the kidney, 'ureter/o' refers to the ureter."
+  },
+  {
+    "id": 28,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A patient is diagnosed with encephalitis. The neurologist orders an MRI of the brain.",
+    "questionText": "The root word 'encephal/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Spinal cord"},
+      {"id": "B", "text": "Brain"},
+      {"id": "C", "text": "Nerve"},
+      {"id": "D", "text": "Skull"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The root word 'encephal/o' refers to the brain. Encephalitis means inflammation of the brain. Encephalopathy means disease of the brain. Electroencephalogram (EEG) is a recording of brain electrical activity. 'Myel/o' refers to spinal cord (or bone marrow), 'neur/o' refers to nerve, and 'crani/o' refers to skull."
+  },
+  {
+    "id": 29,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A patient undergoes an angioplasty of the right coronary artery. The interventional cardiologist documents the procedure.",
+    "questionText": "The root word 'angi/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Heart"},
+      {"id": "B", "text": "Blood vessel"},
+      {"id": "C", "text": "Blood"},
+      {"id": "D", "text": "Artery only"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The root word 'angi/o' refers to blood vessel (both arteries and veins). Angioplasty means surgical repair of a blood vessel. Angiography means imaging of blood vessels. Angioma is a tumor of blood vessels. 'Cardi/o' refers to heart, 'hem/o' or 'hemat/o' refers to blood, and 'arteri/o' refers specifically to arteries."
+  },
+  {
+    "id": 30,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A patient is diagnosed with myocardial infarction. The cardiologist explains the condition involves death of heart muscle tissue.",
+    "questionText": "The root word 'my/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Bone"},
+      {"id": "B", "text": "Muscle"},
+      {"id": "C", "text": "Nerve"},
+      {"id": "D", "text": "Tendon"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The root word 'my/o' refers to muscle. Myocardial means pertaining to heart muscle. Myalgia means muscle pain. Myositis means inflammation of muscle. Myoma is a muscle tumor. 'Oste/o' refers to bone, 'neur/o' refers to nerve, and 'ten/o' or 'tendin/o' refers to tendon."
+  },
+  {
+    "id": 31,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A patient undergoes a hysterectomy for uterine fibroids. The gynecologist documents the surgical approach.",
+    "questionText": "The root word 'hyster/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Ovary"},
+      {"id": "B", "text": "Uterus"},
+      {"id": "C", "text": "Fallopian tube"},
+      {"id": "D", "text": "Vagina"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The root word 'hyster/o' refers to the uterus. Hysterectomy means removal of the uterus. Hysteroscopy means visual examination of the uterus. Another root for uterus is 'metr/o' or 'uter/o'. 'Oophor/o' refers to ovary, 'salping/o' refers to fallopian tube, and 'colp/o' or 'vagin/o' refers to vagina."
+  },
+  {
+    "id": 32,
+    "section": "medical-terminology",
+    "subsection": "Combining Forms",
+    "scenario": "A patient is diagnosed with thrombocytopenia. The hematologist explains that the patient has a low platelet count.",
+    "questionText": "The combining form 'thromb/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Red blood cell"},
+      {"id": "B", "text": "White blood cell"},
+      {"id": "C", "text": "Blood clot"},
+      {"id": "D", "text": "Plasma"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The combining form 'thromb/o' refers to a blood clot. Thrombocytopenia means deficiency of clot-forming cells (platelets). Thrombosis means formation of a blood clot. Thrombolysis means dissolution of a clot. 'Erythr/o' refers to red (red blood cell), 'leuk/o' refers to white (white blood cell)."
+  },
+  {
+    "id": 33,
+    "section": "medical-terminology",
+    "subsection": "Combining Forms",
+    "scenario": "A patient undergoes a cholecystectomy. The surgeon documents removing the gallbladder laparoscopically.",
+    "questionText": "The combining form 'chol/e' refers to:",
+    "answers": [
+      {"id": "A", "text": "Gallbladder"},
+      {"id": "B", "text": "Bile"},
+      {"id": "C", "text": "Liver"},
+      {"id": "D", "text": "Pancreas"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The combining form 'chol/e' refers to bile or gall. Cholecystectomy means removal of the bile sac (gallbladder). Cholelithiasis means gallstones (bile + stone + condition). Cholangiography means imaging of bile ducts. 'Cholecyst/o' specifically refers to the gallbladder. 'Hepat/o' refers to liver, 'pancreat/o' refers to pancreas."
+  },
+  {
+    "id": 34,
+    "section": "medical-terminology",
+    "subsection": "Combining Forms",
+    "scenario": "A patient is diagnosed with leukocytosis. The physician documents an elevated white blood cell count.",
+    "questionText": "The combining form 'leuk/o' means:",
+    "answers": [
+      {"id": "A", "text": "Red"},
+      {"id": "B", "text": "Blue"},
+      {"id": "C", "text": "White"},
+      {"id": "D", "text": "Yellow"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The combining form 'leuk/o' means white. Leukocyte means white blood cell. Leukocytosis means increased white blood cells. Leukemia means cancer of white blood cells. 'Erythr/o' means red, 'cyan/o' means blue, and 'xanth/o' means yellow."
+  },
+  {
+    "id": 35,
+    "section": "medical-terminology",
+    "subsection": "Combining Forms",
+    "scenario": "A patient undergoes a mammography for breast cancer screening. The radiologist documents the findings.",
+    "questionText": "The combining form 'mamm/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Chest"},
+      {"id": "B", "text": "Breast"},
+      {"id": "C", "text": "Rib"},
+      {"id": "D", "text": "Lung"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The combining form 'mamm/o' refers to the breast. Mammography means imaging of the breast. Mammoplasty means surgical repair of the breast. Another combining form for breast is 'mast/o' (mastectomy = removal of the breast). 'Thorac/o' or 'pector/o' refers to chest, 'cost/o' refers to rib."
+  },
+  {
+    "id": 36,
+    "section": "medical-terminology",
+    "subsection": "Combining Forms",
+    "scenario": "A patient is diagnosed with hematemesis. The gastroenterologist documents vomiting of blood.",
+    "questionText": "The combining form 'hem/o' or 'hemat/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Liver"},
+      {"id": "B", "text": "Blood"},
+      {"id": "C", "text": "Heart"},
+      {"id": "D", "text": "Vein"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The combining form 'hem/o' or 'hemat/o' refers to blood. Hematemesis means vomiting blood. Hematuria means blood in the urine. Hematoma means a collection of blood. Hemorrhage means excessive bleeding. 'Hepat/o' refers to liver, 'cardi/o' refers to heart, and 'phleb/o' or 'ven/o' refers to vein."
+  },
+  {
+    "id": 37,
+    "section": "medical-terminology",
+    "subsection": "Abbreviations",
+    "scenario": "A physician orders a CBC for a patient presenting with fatigue. The coder must understand the abbreviation for proper charge capture.",
+    "questionText": "The abbreviation 'CBC' stands for:",
+    "answers": [
+      {"id": "A", "text": "Complete blood chemistry"},
+      {"id": "B", "text": "Complete blood count"},
+      {"id": "C", "text": "Comprehensive blood culture"},
+      {"id": "D", "text": "Complete body CT"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "CBC stands for Complete Blood Count, a common laboratory test that measures red blood cells, white blood cells, hemoglobin, hematocrit, and platelets. It is one of the most frequently ordered lab tests and is coded under CPT 85025 (automated) or 85027 (automated with differential)."
+  },
+  {
+    "id": 38,
+    "section": "medical-terminology",
+    "subsection": "Abbreviations",
+    "scenario": "A surgeon documents performing a CABG procedure. The coder must identify the correct CPT codes for the operative report.",
+    "questionText": "The abbreviation 'CABG' stands for:",
+    "answers": [
+      {"id": "A", "text": "Cardiac arterial bypass graft"},
+      {"id": "B", "text": "Coronary artery bypass graft"},
+      {"id": "C", "text": "Carotid artery bypass graft"},
+      {"id": "D", "text": "Complete arterial bypass graft"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "CABG stands for Coronary Artery Bypass Graft, a surgical procedure to improve blood flow to the heart by bypassing blocked coronary arteries. The procedure uses grafts from the internal mammary artery, saphenous vein, or radial artery. CPT codes are in the 33510-33536 range depending on the number of grafts."
+  },
+  {
+    "id": 39,
+    "section": "medical-terminology",
+    "subsection": "Abbreviations",
+    "scenario": "A physician documents that a patient's BMI is 32. The coder needs to assign an appropriate ICD-10 code for obesity.",
+    "questionText": "The abbreviation 'BMI' stands for:",
+    "answers": [
+      {"id": "A", "text": "Body mass indicator"},
+      {"id": "B", "text": "Basal metabolic index"},
+      {"id": "C", "text": "Body mass index"},
+      {"id": "D", "text": "Blood measurement index"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "BMI stands for Body Mass Index, a measure of body fat based on height and weight. A BMI of 30 or greater indicates obesity. BMI categories: underweight (<18.5), normal (18.5-24.9), overweight (25-29.9), obese (30+). ICD-10 codes for BMI are in the Z68 category."
+  },
+  {
+    "id": 40,
+    "section": "medical-terminology",
+    "subsection": "Abbreviations",
+    "scenario": "A patient presents to the ED with chest pain. The physician orders a STAT ECG. The coder must understand the abbreviations used.",
+    "questionText": "The abbreviation 'ECG' (or 'EKG') stands for:",
+    "answers": [
+      {"id": "A", "text": "Echocardiogram"},
+      {"id": "B", "text": "Electrocardiogram"},
+      {"id": "C", "text": "Electrocorticogram"},
+      {"id": "D", "text": "Electroencephalogram"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "ECG (or EKG, from the German Elektrokardiogramm) stands for Electrocardiogram, a test that records the electrical activity of the heart. It is coded as CPT 93000 (with interpretation) or 93005 (tracing only). An echocardiogram is an ultrasound of the heart. An EEG is an electroencephalogram (brain waves)."
+  },
+  {
+    "id": 41,
+    "section": "medical-terminology",
+    "subsection": "Abbreviations",
+    "scenario": "A physician documents that a patient needs a CT scan of the abdomen and pelvis with contrast. The coder must select the correct radiology CPT code.",
+    "questionText": "The abbreviation 'CT' stands for:",
+    "answers": [
+      {"id": "A", "text": "Cardiac tomography"},
+      {"id": "B", "text": "Computed tomography"},
+      {"id": "C", "text": "Contrast testing"},
+      {"id": "D", "text": "Cranial topography"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "CT stands for Computed Tomography, an imaging technique that uses X-rays and computer processing to create cross-sectional images of the body. CT scans are coded based on body area and whether contrast is used (without contrast, with contrast, or both). Previously called CAT scan (Computed Axial Tomography)."
+  },
+  {
+    "id": 42,
+    "section": "medical-terminology",
+    "subsection": "Abbreviations",
+    "scenario": "A patient is admitted to the ICU following a motor vehicle accident. The coder must understand the level of care for E/M coding.",
+    "questionText": "The abbreviation 'ICU' stands for:",
+    "answers": [
+      {"id": "A", "text": "Intermediate care unit"},
+      {"id": "B", "text": "Intensive care unit"},
+      {"id": "C", "text": "Internal care unit"},
+      {"id": "D", "text": "Inpatient care unit"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "ICU stands for Intensive Care Unit, a specialized hospital unit providing critical care to seriously ill patients. Critical care E/M codes (99291-99292) are time-based and used for critically ill patients requiring constant physician attention, regardless of the physical location."
+  },
+  {
+    "id": 43,
+    "section": "medical-terminology",
+    "subsection": "Abbreviations",
+    "scenario": "A physician documents that a patient's HbA1c is 8.5%. The coder must understand this lab value for diabetes management coding.",
+    "questionText": "The abbreviation 'HbA1c' refers to:",
+    "answers": [
+      {"id": "A", "text": "Hemoglobin A1c (glycated hemoglobin)"},
+      {"id": "B", "text": "Hepatitis B antigen count"},
+      {"id": "C", "text": "High blood albumin concentration"},
+      {"id": "D", "text": "Heart block amplitude level 1c"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "HbA1c stands for Hemoglobin A1c (glycated hemoglobin), a blood test that reflects average blood sugar levels over the past 2-3 months. It is the standard test for monitoring diabetes management. A normal HbA1c is below 5.7%, prediabetes is 5.7-6.4%, and diabetes is 6.5% or higher."
+  },
+  {
+    "id": 44,
+    "section": "medical-terminology",
+    "subsection": "Combining Forms",
+    "scenario": "A patient is diagnosed with cholecystolithiasis. The surgeon recommends laparoscopic cholecystectomy.",
+    "questionText": "The combining form 'lith/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Fat"},
+      {"id": "B", "text": "Stone or calculus"},
+      {"id": "C", "text": "Fluid"},
+      {"id": "D", "text": "Tissue"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The combining form 'lith/o' refers to a stone or calculus. Cholelithiasis means gallstones. Nephrolithiasis means kidney stones. Lithotripsy means crushing of stones. Urolithiasis means urinary stones. 'Lip/o' or 'adip/o' refers to fat, 'hydr/o' refers to fluid or water."
+  },
+  {
+    "id": 45,
+    "section": "medical-terminology",
+    "subsection": "Combining Forms",
+    "scenario": "A patient undergoes a salpingo-oophorectomy. The coder must understand the combining forms to identify the structures removed.",
+    "questionText": "The combining form 'salping/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Ovary"},
+      {"id": "B", "text": "Uterus"},
+      {"id": "C", "text": "Fallopian tube (or eustachian tube)"},
+      {"id": "D", "text": "Vagina"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The combining form 'salping/o' refers to a tube, specifically the fallopian tube (uterine tube) or eustachian tube. Salpingectomy means removal of a fallopian tube. Salpingo-oophorectomy means removal of the fallopian tube and ovary. 'Oophor/o' refers to ovary, 'hyster/o' or 'metr/o' refers to uterus."
+  },
+  {
+    "id": 46,
+    "section": "medical-terminology",
+    "subsection": "Combining Forms",
+    "scenario": "A patient is diagnosed with cardiomyopathy. The cardiologist explains this is a disease of the heart muscle.",
+    "questionText": "The combining form 'cardi/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Blood"},
+      {"id": "B", "text": "Chest"},
+      {"id": "C", "text": "Heart"},
+      {"id": "D", "text": "Lung"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The combining form 'cardi/o' refers to the heart. Cardiomyopathy means disease of the heart muscle. Cardiology is the study of the heart. Cardiomegaly means enlargement of the heart. Tachycardia means rapid heart rate. 'Hem/o' refers to blood, 'thorac/o' refers to chest, 'pulmon/o' refers to lung."
+  },
+  {
+    "id": 47,
+    "section": "medical-terminology",
+    "subsection": "Combining Forms",
+    "scenario": "A patient undergoes a laparoscopic procedure. The surgeon documents using a camera inserted through a small abdominal incision.",
+    "questionText": "The combining form 'lapar/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Chest wall"},
+      {"id": "B", "text": "Abdominal wall"},
+      {"id": "C", "text": "Pelvis"},
+      {"id": "D", "text": "Back"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The combining form 'lapar/o' refers to the abdominal wall or abdomen. Laparoscopy means visual examination of the abdomen. Laparotomy means incision into the abdomen. Laparoscopic surgery uses small incisions in the abdominal wall. 'Thorac/o' refers to chest, 'pelv/o' refers to pelvis, 'dors/o' refers to back."
+  },
+  {
+    "id": 48,
+    "section": "medical-terminology",
+    "subsection": "Combining Forms",
+    "scenario": "A patient is diagnosed with polyneuropathy. The neurologist documents damage to multiple peripheral nerves.",
+    "questionText": "The combining form 'neur/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Brain"},
+      {"id": "B", "text": "Spinal cord"},
+      {"id": "C", "text": "Nerve"},
+      {"id": "D", "text": "Muscle"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The combining form 'neur/o' refers to nerve. Neuropathy means disease of the nerves. Neuralgia means nerve pain. Neurology is the study of the nervous system. Neuritis means inflammation of a nerve. 'Encephal/o' refers to brain, 'myel/o' refers to spinal cord (or bone marrow), 'my/o' refers to muscle."
+  },
+  {
+    "id": 49,
+    "section": "medical-terminology",
+    "subsection": "Abbreviations",
+    "scenario": "A physician documents that a patient needs an MRI of the lumbar spine. The coder must select the appropriate radiology code.",
+    "questionText": "The abbreviation 'MRI' stands for:",
+    "answers": [
+      {"id": "A", "text": "Magnetic resonance imaging"},
+      {"id": "B", "text": "Medical radiology investigation"},
+      {"id": "C", "text": "Multiple radiation imaging"},
+      {"id": "D", "text": "Molecular resonance investigation"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "MRI stands for Magnetic Resonance Imaging, a diagnostic technique that uses magnetic fields and radio waves to create detailed images of organs and tissues. Unlike CT scans, MRI does not use ionizing radiation. MRI is particularly useful for soft tissue imaging (brain, spinal cord, joints, muscles)."
+  },
+  {
+    "id": 50,
+    "section": "medical-terminology",
+    "subsection": "Abbreviations",
+    "scenario": "A patient presents with a DVT of the left lower extremity. The physician orders anticoagulation therapy.",
+    "questionText": "The abbreviation 'DVT' stands for:",
+    "answers": [
+      {"id": "A", "text": "Deep vascular thrombosis"},
+      {"id": "B", "text": "Deep vein thrombosis"},
+      {"id": "C", "text": "Distal venous thrombus"},
+      {"id": "D", "text": "Dorsal vein thrombosis"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "DVT stands for Deep Vein Thrombosis, a blood clot that forms in a deep vein, most commonly in the legs. DVT is a serious condition because the clot can break loose and travel to the lungs (pulmonary embolism). Risk factors include immobility, surgery, and cancer. ICD-10 codes are in the I82 category."
+  },
+  {
+    "id": 51,
+    "section": "medical-terminology",
+    "subsection": "Directional Terms",
+    "scenario": "A radiology report describes a lesion on the anterior chest wall. The coder must understand the directional term to assign the correct body site.",
+    "questionText": "The term 'anterior' refers to:",
+    "answers": [
+      {"id": "A", "text": "The back side of the body"},
+      {"id": "B", "text": "The front side of the body"},
+      {"id": "C", "text": "The upper part of the body"},
+      {"id": "D", "text": "The side of the body"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Anterior (ventral) refers to the front side of the body. Posterior (dorsal) refers to the back side. These directional terms are essential in medical coding for identifying the correct anatomical location. For example, an anterior approach to the spine is from the front, while a posterior approach is from the back."
+  },
+  {
+    "id": 52,
+    "section": "medical-terminology",
+    "subsection": "Directional Terms",
+    "scenario": "A surgeon documents a lateral approach to the hip. The coder must understand the directional term to select the correct surgical approach code.",
+    "questionText": "The term 'lateral' means:",
+    "answers": [
+      {"id": "A", "text": "Toward the midline"},
+      {"id": "B", "text": "Away from the midline (toward the side)"},
+      {"id": "C", "text": "Above"},
+      {"id": "D", "text": "Below"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Lateral means away from the midline or toward the side of the body. Medial means toward the midline. For example, the lateral malleolus (fibula) is on the outer side of the ankle, while the medial malleolus (tibia) is on the inner side. These terms are critical for accurate anatomical coding."
+  },
+  {
+    "id": 53,
+    "section": "medical-terminology",
+    "subsection": "Directional Terms",
+    "scenario": "A physician documents a proximal femur fracture. The coder must understand the location relative to the body center.",
+    "questionText": "The term 'proximal' means:",
+    "answers": [
+      {"id": "A", "text": "Closer to the point of attachment or origin"},
+      {"id": "B", "text": "Farther from the point of attachment or origin"},
+      {"id": "C", "text": "On the surface"},
+      {"id": "D", "text": "Deep within"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "Proximal means closer to the point of attachment or the trunk of the body. Distal means farther from the point of attachment. For example, the proximal femur is near the hip, while the distal femur is near the knee. The proximal humerus is near the shoulder, and the distal humerus is near the elbow."
+  },
+  {
+    "id": 54,
+    "section": "medical-terminology",
+    "subsection": "Directional Terms",
+    "scenario": "A dermatologist documents a superficial skin lesion on the arm. The coder must understand the depth descriptor for proper code selection.",
+    "questionText": "The term 'superficial' means:",
+    "answers": [
+      {"id": "A", "text": "Deep within the body"},
+      {"id": "B", "text": "On or near the surface"},
+      {"id": "C", "text": "Toward the head"},
+      {"id": "D", "text": "Toward the feet"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Superficial means on or near the surface of the body. Deep (profound) means away from the surface, further into the body. In coding, the distinction between superficial and deep is critical for wound repair codes (12001-12007 for superficial, 12031-12057 for intermediate) and for determining the extent of procedures."
+  },
+  {
+    "id": 55,
+    "section": "medical-terminology",
+    "subsection": "Directional Terms",
+    "scenario": "An MRI report describes a superior labral tear of the shoulder. The coder needs to understand the directional term.",
+    "questionText": "The term 'superior' means:",
+    "answers": [
+      {"id": "A", "text": "Below or lower"},
+      {"id": "B", "text": "Above or upper"},
+      {"id": "C", "text": "In front"},
+      {"id": "D", "text": "Behind"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Superior (cranial or cephalic) means above or upper, toward the head. Inferior (caudal) means below or lower, toward the feet. A SLAP tear is a Superior Labrum Anterior to Posterior tear of the shoulder. The superior vena cava is above the heart, while the inferior vena cava is below."
+  },
+  {
+    "id": 56,
+    "section": "medical-terminology",
+    "subsection": "Directional Terms",
+    "scenario": "A surgeon documents a dorsal approach to the wrist for ganglion cyst excision.",
+    "questionText": "The term 'dorsal' refers to:",
+    "answers": [
+      {"id": "A", "text": "The palm side of the hand"},
+      {"id": "B", "text": "The back side of the body or the top of the hand/foot"},
+      {"id": "C", "text": "The bottom of the foot"},
+      {"id": "D", "text": "The inner side"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Dorsal refers to the back side of the body, or the top of the hand or foot. In the hand, dorsal is the back (knuckle side) and palmar (volar) is the palm side. In the foot, dorsal is the top and plantar is the sole. For the body, dorsal is synonymous with posterior."
+  },
+  {
+    "id": 57,
+    "section": "medical-terminology",
+    "subsection": "Body Systems Terminology",
+    "scenario": "A patient undergoes an electroencephalogram. The coder must identify the body system for proper code categorization.",
+    "questionText": "The term 'electroencephalogram' refers to a recording of electrical activity of the:",
+    "answers": [
+      {"id": "A", "text": "Heart"},
+      {"id": "B", "text": "Brain"},
+      {"id": "C", "text": "Muscles"},
+      {"id": "D", "text": "Nerves"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "An electroencephalogram (EEG) is a recording of the electrical activity of the brain. 'Electro-' means electrical, 'encephal/o' means brain, and '-gram' means record. An electrocardiogram (ECG) records heart activity. An electromyogram (EMG) records muscle activity. EEG is coded as CPT 95816-95822."
+  },
+  {
+    "id": 58,
+    "section": "medical-terminology",
+    "subsection": "Body Systems Terminology",
+    "scenario": "A patient is diagnosed with osteoarthritis. The physician documents degenerative changes in the weight-bearing joints.",
+    "questionText": "The term 'osteoarthritis' literally means:",
+    "answers": [
+      {"id": "A", "text": "Inflammation of bone and joint"},
+      {"id": "B", "text": "Softening of bone"},
+      {"id": "C", "text": "Death of bone tissue"},
+      {"id": "D", "text": "Tumor of the joint"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "Osteoarthritis literally means inflammation of bone and joint: 'oste/o' (bone) + 'arthr/o' (joint) + '-itis' (inflammation). Although osteoarthritis is primarily a degenerative condition rather than inflammatory, the name reflects the involvement of both bone and joint structures. Osteomalacia means softening of bone. Osteonecrosis means death of bone tissue."
+  },
+  {
+    "id": 59,
+    "section": "medical-terminology",
+    "subsection": "Body Systems Terminology",
+    "scenario": "A patient undergoes a thyroidectomy. The pathology report describes papillary thyroid carcinoma.",
+    "questionText": "The term 'carcinoma' refers to:",
+    "answers": [
+      {"id": "A", "text": "A benign tumor"},
+      {"id": "B", "text": "A malignant tumor of epithelial tissue"},
+      {"id": "C", "text": "A malignant tumor of connective tissue"},
+      {"id": "D", "text": "An inflammation"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Carcinoma is a malignant (cancerous) tumor arising from epithelial tissue. It is the most common type of cancer. 'Carcin/o' means cancer, '-oma' means tumor. A sarcoma is a malignant tumor of connective tissue (bone, muscle, cartilage). Benign tumors are named by tissue type with '-oma' suffix (e.g., adenoma, lipoma)."
+  },
+  {
+    "id": 60,
+    "section": "medical-terminology",
+    "subsection": "Body Systems Terminology",
+    "scenario": "A patient is diagnosed with hypothyroidism. The endocrinologist explains the thyroid gland is underactive.",
+    "questionText": "The term 'hypothyroidism' means:",
+    "answers": [
+      {"id": "A", "text": "Excessive thyroid function"},
+      {"id": "B", "text": "Deficient thyroid function"},
+      {"id": "C", "text": "Inflammation of the thyroid"},
+      {"id": "D", "text": "Enlargement of the thyroid"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Hypothyroidism means deficient (below normal) thyroid function: 'hypo-' (below/deficient) + 'thyroid' + '-ism' (condition). Hyperthyroidism is excessive thyroid function. Thyroiditis is inflammation of the thyroid. A goiter is enlargement of the thyroid. Understanding these prefixes is essential for accurate diagnosis coding."
+  },
+  {
+    "id": 61,
+    "section": "medical-terminology",
+    "subsection": "Body Systems Terminology",
+    "scenario": "A patient presents with hematuria. The urologist orders a cystoscopy to evaluate the source of bleeding.",
+    "questionText": "The term 'hematuria' means:",
+    "answers": [
+      {"id": "A", "text": "Blood in the stool"},
+      {"id": "B", "text": "Blood in the urine"},
+      {"id": "C", "text": "Blood in the sputum"},
+      {"id": "D", "text": "Blood in the vomit"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Hematuria means blood in the urine: 'hemat/o' (blood) + '-uria' (urine condition). Hematochezia is blood in the stool. Hemoptysis is blood in the sputum (coughing up blood). Hematemesis is blood in the vomit. The suffix '-uria' always relates to a urine condition."
+  },
+  {
+    "id": 62,
+    "section": "medical-terminology",
+    "subsection": "Body Systems Terminology",
+    "scenario": "A patient is diagnosed with pneumothorax after a chest injury. The physician documents air in the pleural space.",
+    "questionText": "The term 'pneumothorax' means:",
+    "answers": [
+      {"id": "A", "text": "Fluid in the chest cavity"},
+      {"id": "B", "text": "Air in the pleural space"},
+      {"id": "C", "text": "Blood in the chest cavity"},
+      {"id": "D", "text": "Infection of the lung"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Pneumothorax means air in the pleural space (thoracic cavity): 'pneum/o' (air) + 'thorax' (chest). This causes lung collapse. Hemothorax is blood in the chest cavity. Pleural effusion is fluid in the pleural space. Empyema is pus in the pleural space. Pneumonia is infection/inflammation of the lung tissue."
+  },
+  {
+    "id": 63,
+    "section": "medical-terminology",
+    "subsection": "Body Systems Terminology",
+    "scenario": "A patient undergoes a bilateral salpingo-oophorectomy. The coder must break down the term to understand the procedure.",
+    "questionText": "Breaking down 'salpingo-oophorectomy,' this procedure involves removal of the:",
+    "answers": [
+      {"id": "A", "text": "Uterus and ovaries"},
+      {"id": "B", "text": "Fallopian tubes and ovaries"},
+      {"id": "C", "text": "Ovaries and cervix"},
+      {"id": "D", "text": "Fallopian tubes and uterus"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Salpingo-oophorectomy means removal of the fallopian tubes and ovaries: 'salping/o' (fallopian tube) + 'oophor/o' (ovary) + '-ectomy' (removal). Bilateral means both sides. This procedure is often performed along with a hysterectomy (removal of the uterus) but is coded separately."
+  },
+  {
+    "id": 64,
+    "section": "medical-terminology",
+    "subsection": "Medical Coding Terms",
+    "scenario": "A coder encounters the term 'sequela' in an ICD-10 code description. The patient has chronic pain from a previous fracture.",
+    "questionText": "In medical coding, the term 'sequela' refers to:",
+    "answers": [
+      {"id": "A", "text": "The initial encounter for a condition"},
+      {"id": "B", "text": "A subsequent encounter for routine care"},
+      {"id": "C", "text": "A late effect or residual condition from a previous injury or illness"},
+      {"id": "D", "text": "An acute exacerbation of a chronic condition"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "Sequela refers to a late effect or residual condition that remains after the acute phase of an illness or injury has resolved. In ICD-10-CM, sequela codes use the 7th character 'S'. For example, chronic pain following a healed fracture is a sequela. Initial encounter uses 'A' and subsequent encounter uses 'D'."
+  },
+  {
+    "id": 65,
+    "section": "medical-terminology",
+    "subsection": "Medical Coding Terms",
+    "scenario": "A physician documents that a patient has a comorbid condition of diabetes mellitus along with the primary diagnosis of pneumonia.",
+    "questionText": "The term 'comorbidity' means:",
+    "answers": [
+      {"id": "A", "text": "A condition that develops during hospitalization"},
+      {"id": "B", "text": "A pre-existing condition that coexists with the primary diagnosis"},
+      {"id": "C", "text": "A complication of surgery"},
+      {"id": "D", "text": "A terminal illness"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Comorbidity refers to a pre-existing condition that coexists with the primary (principal) diagnosis. Comorbidities can affect treatment, length of stay, and reimbursement. A complication is a condition that develops during treatment. In DRG-based payment systems, comorbidities and complications (CCs) can increase reimbursement."
+  },
+  {
+    "id": 66,
+    "section": "medical-terminology",
+    "subsection": "Medical Coding Terms",
+    "scenario": "A coder reviews an operative report and needs to determine the correct laterality for the procedure code.",
+    "questionText": "In medical coding, 'laterality' refers to:",
+    "answers": [
+      {"id": "A", "text": "The severity of a condition"},
+      {"id": "B", "text": "Which side of the body is affected (right, left, or bilateral)"},
+      {"id": "C", "text": "The duration of a condition"},
+      {"id": "D", "text": "The location within an organ"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Laterality refers to which side of the body is affected: right, left, or bilateral (both sides). ICD-10-CM codes include laterality as part of the code structure. For example, a right knee osteoarthritis has a different code than left knee. Modifier -RT (right) and -LT (left) are used with CPT codes when laterality is not inherent in the code."
+  },
+  {
+    "id": 67,
+    "section": "medical-terminology",
+    "subsection": "Medical Coding Terms",
+    "scenario": "A physician documents performing an incision and drainage of a subcutaneous abscess. The coder must understand the anatomical depth.",
+    "questionText": "The term 'subcutaneous' means:",
+    "answers": [
+      {"id": "A", "text": "Above the skin"},
+      {"id": "B", "text": "Within the skin"},
+      {"id": "C", "text": "Below the skin"},
+      {"id": "D", "text": "Between skin layers"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "Subcutaneous means below (sub-) the skin (cutaneous): the layer of tissue beneath the dermis, also called the hypodermis. Subcutaneous tissue contains fat, connective tissue, and blood vessels. Intradermal means within the skin. Percutaneous means through the skin. Understanding tissue depth is essential for selecting correct procedure codes."
+  },
+  {
+    "id": 68,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient undergoes lithotripsy for kidney stones. The coder must understand the suffix to classify the procedure.",
+    "questionText": "The suffix '-tripsy' means:",
+    "answers": [
+      {"id": "A", "text": "Surgical repair"},
+      {"id": "B", "text": "Crushing or breaking"},
+      {"id": "C", "text": "Binding"},
+      {"id": "D", "text": "Loosening"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The suffix '-tripsy' means crushing or breaking. Lithotripsy means crushing of stones (usually kidney or gallstones). Extracorporeal shock wave lithotripsy (ESWL) uses shock waves to break stones into smaller fragments. '-plasty' means surgical repair, '-desis' means binding or fixation, '-lysis' means loosening or destruction."
+  },
+  {
+    "id": 69,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient is diagnosed with cardiomyopathy. The cardiologist explains this is a disease process affecting the heart muscle.",
+    "questionText": "The suffix '-pathy' means:",
+    "answers": [
+      {"id": "A", "text": "Inflammation"},
+      {"id": "B", "text": "Disease or suffering"},
+      {"id": "C", "text": "Tumor"},
+      {"id": "D", "text": "Enlargement"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The suffix '-pathy' means disease or suffering. Cardiomyopathy means disease of the heart muscle. Neuropathy means disease of the nerves. Retinopathy means disease of the retina. Nephropathy means disease of the kidney. '-itis' means inflammation, '-oma' means tumor, '-megaly' means enlargement."
+  },
+  {
+    "id": 70,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient undergoes arthrodesis of the lumbar spine. The coder must understand the suffix to determine the procedure type.",
+    "questionText": "The suffix '-desis' means:",
+    "answers": [
+      {"id": "A", "text": "Loosening"},
+      {"id": "B", "text": "Binding or fixation (fusion)"},
+      {"id": "C", "text": "Incision"},
+      {"id": "D", "text": "Removal"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The suffix '-desis' means binding or fixation, commonly referring to surgical fusion. Arthrodesis means surgical fusion of a joint. Tenodesis means fixation of a tendon. Spinal fusion (spondylodesis) is the binding together of vertebrae. '-lysis' means loosening, '-otomy' means incision, '-ectomy' means removal."
+  },
+  {
+    "id": 71,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "A physician documents performing a percutaneous needle biopsy of a liver mass.",
+    "questionText": "The prefix 'per-' in 'percutaneous' means:",
+    "answers": [
+      {"id": "A", "text": "Around"},
+      {"id": "B", "text": "Through"},
+      {"id": "C", "text": "Below"},
+      {"id": "D", "text": "Above"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The prefix 'per-' means through. Percutaneous means through the skin. This is an important term in medical coding as many procedures are performed percutaneously (through the skin without open incision), such as percutaneous coronary intervention (PCI) and percutaneous biopsies. 'Peri-' means around, 'sub-' means below."
+  },
+  {
+    "id": 72,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "A patient is diagnosed with polycystic kidney disease. The nephrologist explains the condition involves multiple cysts.",
+    "questionText": "The prefix 'poly-' means:",
+    "answers": [
+      {"id": "A", "text": "One"},
+      {"id": "B", "text": "Few"},
+      {"id": "C", "text": "Many"},
+      {"id": "D", "text": "None"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The prefix 'poly-' means many or much. Polycystic means many cysts. Polyuria means excessive (much) urination. Polyneuropathy means disease of many nerves. Polydipsia means excessive thirst. 'Mono-' or 'uni-' means one, 'oligo-' means few, and 'a-' or 'an-' means none or without."
+  },
+  {
+    "id": 73,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "A physician documents that a patient has a retroperitoneal hematoma following a fall.",
+    "questionText": "The prefix 'retro-' means:",
+    "answers": [
+      {"id": "A", "text": "In front of"},
+      {"id": "B", "text": "Behind or backward"},
+      {"id": "C", "text": "Above"},
+      {"id": "D", "text": "Within"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The prefix 'retro-' means behind or backward. Retroperitoneal means behind the peritoneum. Retrograde means moving backward (e.g., retrograde pyelogram). Retrosternal means behind the sternum. 'Ante-' or 'pre-' means in front of or before, 'supra-' means above, 'intra-' means within."
+  },
+  {
+    "id": 74,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "A patient is diagnosed with a malignant neoplasm. The oncologist discusses treatment options including chemotherapy.",
+    "questionText": "The prefix 'mal-' in 'malignant' means:",
+    "answers": [
+      {"id": "A", "text": "Good"},
+      {"id": "B", "text": "Bad or harmful"},
+      {"id": "C", "text": "New"},
+      {"id": "D", "text": "Large"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The prefix 'mal-' means bad or harmful. Malignant means harmful or tending to become progressively worse (cancerous). Malformation means bad or abnormal formation. Malnutrition means bad nutrition. The opposite prefix 'ben-' (as in benign) means good or not harmful. 'Neo-' means new, 'mega-' or 'macro-' means large."
+  },
+  {
+    "id": 75,
+    "section": "medical-terminology",
+    "subsection": "Abbreviations",
+    "scenario": "A physician documents that a patient's BUN and creatinine levels are elevated, suggesting kidney dysfunction.",
+    "questionText": "The abbreviation 'BUN' stands for:",
+    "answers": [
+      {"id": "A", "text": "Blood urea nitrogen"},
+      {"id": "B", "text": "Basic urinalysis number"},
+      {"id": "C", "text": "Bilateral ureteral narrowing"},
+      {"id": "D", "text": "Blood uric acid number"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "BUN stands for Blood Urea Nitrogen, a laboratory test that measures the amount of nitrogen in the blood from the waste product urea. Elevated BUN levels can indicate kidney dysfunction, dehydration, or high protein intake. BUN is often ordered with creatinine as part of a renal function panel (BMP or CMP)."
+  },
+  {
+    "id": 76,
+    "section": "medical-terminology",
+    "subsection": "Surgical Terms",
+    "scenario": "A surgeon performs a laparoscopic Nissen fundoplication. The operative report describes wrapping the fundus of the stomach around the esophagus.",
+    "questionText": "The term 'fundoplication' involves wrapping the fundus of the stomach around the:",
+    "answers": [
+      {"id": "A", "text": "Duodenum"},
+      {"id": "B", "text": "Lower esophagus"},
+      {"id": "C", "text": "Pylorus"},
+      {"id": "D", "text": "Jejunum"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Fundoplication involves wrapping the fundus (upper portion) of the stomach around the lower esophagus to reinforce the lower esophageal sphincter and prevent gastroesophageal reflux. The Nissen fundoplication is a 360-degree wrap. The Toupet is a partial (270-degree) wrap. Understanding surgical terminology helps coders select the correct CPT code."
+  },
+  {
+    "id": 77,
+    "section": "medical-terminology",
+    "subsection": "Surgical Terms",
+    "scenario": "A surgeon documents performing an anastomosis during a bowel resection. The coder must understand this surgical term.",
+    "questionText": "The term 'anastomosis' means:",
+    "answers": [
+      {"id": "A", "text": "Removal of an organ"},
+      {"id": "B", "text": "Surgical connection between two structures"},
+      {"id": "C", "text": "Cutting into a structure"},
+      {"id": "D", "text": "Closure of an opening"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Anastomosis means a surgical connection between two tubular structures, such as two segments of bowel, blood vessels, or ureters. After a bowel resection, the remaining ends are connected (anastomosed) to restore continuity. Types include end-to-end, end-to-side, and side-to-side anastomoses."
+  },
+  {
+    "id": 78,
+    "section": "medical-terminology",
+    "subsection": "Surgical Terms",
+    "scenario": "A surgeon performs debridement of a wound. The operative note describes removing necrotic tissue from a chronic wound.",
+    "questionText": "The term 'debridement' means:",
+    "answers": [
+      {"id": "A", "text": "Suturing a wound closed"},
+      {"id": "B", "text": "Removal of dead, damaged, or infected tissue"},
+      {"id": "C", "text": "Application of a skin graft"},
+      {"id": "D", "text": "Draining fluid from a wound"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Debridement is the removal of dead (necrotic), damaged, or infected tissue from a wound to promote healing. CPT codes for debridement vary based on depth (skin, subcutaneous, muscle, bone) and method (sharp, mechanical, autolytic). Proper documentation of depth and wound size is essential for accurate coding."
+  },
+  {
+    "id": 79,
+    "section": "medical-terminology",
+    "subsection": "Surgical Terms",
+    "scenario": "A surgeon performs a lysis of adhesions during an abdominal procedure. The coder must understand the term.",
+    "questionText": "The term 'lysis' means:",
+    "answers": [
+      {"id": "A", "text": "Formation"},
+      {"id": "B", "text": "Destruction, loosening, or breakdown"},
+      {"id": "C", "text": "Binding together"},
+      {"id": "D", "text": "Hardening"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Lysis means destruction, loosening, or breakdown. Lysis of adhesions means breaking down scar tissue (adhesions) that has formed between organs or tissues. Thrombolysis means dissolution of a blood clot. Hemolysis means destruction of red blood cells. '-desis' means binding, '-sclerosis' means hardening."
+  },
+  {
+    "id": 80,
+    "section": "medical-terminology",
+    "subsection": "Surgical Terms",
+    "scenario": "A physician documents performing a reduction of a dislocated shoulder. The coder must understand the procedure type.",
+    "questionText": "In orthopedic terminology, 'reduction' refers to:",
+    "answers": [
+      {"id": "A", "text": "Removing part of a bone"},
+      {"id": "B", "text": "Restoring a bone or joint to its normal position"},
+      {"id": "C", "text": "Decreasing the size of a tumor"},
+      {"id": "D", "text": "Shortening a tendon"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Reduction means restoring a bone or joint to its normal anatomical position. Closed reduction is performed without an incision (manipulation). Open reduction requires a surgical incision. ORIF (Open Reduction Internal Fixation) involves surgically opening the site and using hardware to fix the bone. Understanding this term is critical for orthopedic coding."
+  },
+  {
+    "id": 81,
+    "section": "medical-terminology",
+    "subsection": "Surgical Terms",
+    "scenario": "A surgeon performs an excisional biopsy of a breast mass. The coder must distinguish this from an incisional biopsy.",
+    "questionText": "An 'excisional biopsy' involves:",
+    "answers": [
+      {"id": "A", "text": "Removing a small sample of the lesion"},
+      {"id": "B", "text": "Removing the entire lesion for examination"},
+      {"id": "C", "text": "Using a needle to aspirate cells"},
+      {"id": "D", "text": "Scraping the surface of a lesion"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "An excisional biopsy removes the entire lesion or mass for pathological examination. An incisional biopsy removes only a portion of the lesion. A needle biopsy (core or fine needle aspiration) uses a needle to obtain tissue or cells. The type of biopsy affects CPT code selection and may determine whether a separate excision code is needed."
+  },
+  {
+    "id": 82,
+    "section": "medical-terminology",
+    "subsection": "Pathology Terms",
+    "scenario": "A pathology report describes a benign neoplasm. The coder must understand the term to assign the correct ICD-10 code.",
+    "questionText": "The term 'benign' in relation to a tumor means:",
+    "answers": [
+      {"id": "A", "text": "Cancerous and likely to spread"},
+      {"id": "B", "text": "Non-cancerous and not likely to spread"},
+      {"id": "C", "text": "Precancerous"},
+      {"id": "D", "text": "Of uncertain behavior"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Benign means non-cancerous and not likely to spread (metastasize) to other parts of the body. Benign tumors generally grow slowly and do not invade surrounding tissues. Malignant means cancerous and capable of spreading. In ICD-10-CM, benign neoplasms are coded in the D10-D36 range, while malignant neoplasms are in C00-C96."
+  },
+  {
+    "id": 83,
+    "section": "medical-terminology",
+    "subsection": "Pathology Terms",
+    "scenario": "A pathology report describes metastatic disease in the liver from a primary colon cancer.",
+    "questionText": "The term 'metastasis' means:",
+    "answers": [
+      {"id": "A", "text": "Tumor shrinkage"},
+      {"id": "B", "text": "Spread of cancer from its original site to another part of the body"},
+      {"id": "C", "text": "Transformation of benign cells to malignant"},
+      {"id": "D", "text": "Death of tumor cells"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Metastasis means the spread of cancer from its primary (original) site to a distant site in the body. Cancer can metastasize through the blood or lymphatic system. In ICD-10-CM, secondary (metastatic) neoplasms are coded separately from the primary site. For example, liver metastasis from colon cancer requires codes for both sites."
+  },
+  {
+    "id": 84,
+    "section": "medical-terminology",
+    "subsection": "Pathology Terms",
+    "scenario": "A pathology report describes tissue necrosis in a surgical specimen. The coder must understand the finding.",
+    "questionText": "The term 'necrosis' means:",
+    "answers": [
+      {"id": "A", "text": "New growth"},
+      {"id": "B", "text": "Cell death"},
+      {"id": "C", "text": "Cell division"},
+      {"id": "D", "text": "Cell enlargement"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Necrosis means cell or tissue death, usually due to injury, disease, or lack of blood supply (ischemia). 'Necr/o' means death. Avascular necrosis means bone death due to lack of blood supply. Necrotic tissue must often be debrided. 'Neo-' means new (neoplasm = new growth), '-plasia' means formation, '-trophy' means growth/nourishment."
+  },
+  {
+    "id": 85,
+    "section": "medical-terminology",
+    "subsection": "Pathology Terms",
+    "scenario": "A pathology report describes dysplasia of the cervical epithelium. The gynecologist discusses the findings with the patient.",
+    "questionText": "The term 'dysplasia' means:",
+    "answers": [
+      {"id": "A", "text": "Normal cell growth"},
+      {"id": "B", "text": "Abnormal development or growth of cells"},
+      {"id": "C", "text": "Excessive cell growth"},
+      {"id": "D", "text": "Decrease in cell number"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Dysplasia means abnormal development or growth of cells: 'dys-' (abnormal) + '-plasia' (formation/growth). Cervical dysplasia refers to abnormal cells on the cervix that may be precancerous. Hyperplasia is excessive cell growth. Hypoplasia is underdevelopment. Neoplasia is new abnormal growth. Dysplasia is an important concept in pathology coding."
+  },
+  {
+    "id": 86,
+    "section": "medical-terminology",
+    "subsection": "Pathology Terms",
+    "scenario": "A physician documents that a patient has an acute exacerbation of chronic obstructive pulmonary disease (COPD).",
+    "questionText": "The term 'acute' means:",
+    "answers": [
+      {"id": "A", "text": "Long-lasting, developing slowly"},
+      {"id": "B", "text": "Severe, sudden onset, short duration"},
+      {"id": "C", "text": "Recurring periodically"},
+      {"id": "D", "text": "Mild and self-limiting"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Acute means severe, of sudden onset, and typically of short duration. Chronic means long-lasting, developing slowly over time. An acute exacerbation is a sudden worsening of a chronic condition. In ICD-10-CM, the distinction between acute and chronic conditions affects code selection (e.g., acute vs. chronic kidney disease)."
+  },
+  {
+    "id": 87,
+    "section": "medical-terminology",
+    "subsection": "Pharmacology Terms",
+    "scenario": "A physician prescribes an antibiotic for a patient with a bacterial infection. The coder must understand the drug classification.",
+    "questionText": "The prefix 'anti-' in 'antibiotic' means:",
+    "answers": [
+      {"id": "A", "text": "For or supporting"},
+      {"id": "B", "text": "Against"},
+      {"id": "C", "text": "With"},
+      {"id": "D", "text": "Before"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The prefix 'anti-' means against. Antibiotic means against life (specifically against bacteria). Anticoagulant means against clotting. Anti-inflammatory means against inflammation. Antihypertensive means against high blood pressure. 'Pro-' means for or supporting, 'syn-' means with or together, 'pre-' means before."
+  },
+  {
+    "id": 88,
+    "section": "medical-terminology",
+    "subsection": "Pharmacology Terms",
+    "scenario": "A patient receives an analgesic medication for postoperative pain management.",
+    "questionText": "The term 'analgesic' means:",
+    "answers": [
+      {"id": "A", "text": "A medication that reduces fever"},
+      {"id": "B", "text": "A medication that relieves pain"},
+      {"id": "C", "text": "A medication that reduces inflammation"},
+      {"id": "D", "text": "A medication that prevents infection"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "An analgesic is a medication that relieves pain: 'an-' (without) + '-alges' (pain). Common analgesics include acetaminophen, NSAIDs, and opioids. An antipyretic reduces fever. An anti-inflammatory reduces inflammation. An antibiotic prevents or treats infection. Some medications have multiple properties (e.g., NSAIDs are both analgesic and anti-inflammatory)."
+  },
+  {
+    "id": 89,
+    "section": "medical-terminology",
+    "subsection": "Pharmacology Terms",
+    "scenario": "A physician prescribes a diuretic for a patient with congestive heart failure and fluid retention.",
+    "questionText": "A 'diuretic' medication works by:",
+    "answers": [
+      {"id": "A", "text": "Increasing heart rate"},
+      {"id": "B", "text": "Increasing urine output to reduce fluid"},
+      {"id": "C", "text": "Dilating blood vessels"},
+      {"id": "D", "text": "Reducing blood sugar"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "A diuretic increases urine output (diuresis) to reduce excess fluid in the body. 'Di-' or 'dia-' means through, 'ur/o' means urine. Diuretics are used to treat conditions like heart failure, hypertension, and edema. Common diuretics include furosemide (Lasix), hydrochlorothiazide, and spironolactone."
+  },
+  {
+    "id": 90,
+    "section": "medical-terminology",
+    "subsection": "Pharmacology Terms",
+    "scenario": "A patient on warfarin therapy has their INR monitored. The physician adjusts the anticoagulant dose.",
+    "questionText": "The abbreviation 'INR' stands for:",
+    "answers": [
+      {"id": "A", "text": "International normalized ratio"},
+      {"id": "B", "text": "Internal nerve response"},
+      {"id": "C", "text": "Intravenous nutrition rate"},
+      {"id": "D", "text": "Immediate nursing report"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "INR stands for International Normalized Ratio, a standardized measurement of blood clotting time used to monitor anticoagulant therapy (especially warfarin). A normal INR is approximately 1.0. Therapeutic range for most conditions is 2.0-3.0. Higher INR means blood takes longer to clot (increased bleeding risk)."
+  },
+  {
+    "id": 91,
+    "section": "medical-terminology",
+    "subsection": "Medical Coding Terms",
+    "scenario": "A coder encounters the term 'etiology' when reviewing documentation for an ICD-10 code assignment.",
+    "questionText": "The term 'etiology' refers to:",
+    "answers": [
+      {"id": "A", "text": "The treatment of a disease"},
+      {"id": "B", "text": "The cause or origin of a disease"},
+      {"id": "C", "text": "The symptoms of a disease"},
+      {"id": "D", "text": "The prognosis of a disease"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Etiology refers to the cause or origin of a disease. In ICD-10-CM, many combination codes include both the etiology (cause) and manifestation (resulting condition). For example, diabetic retinopathy codes include both the diabetes (etiology) and the eye condition (manifestation). Understanding etiology is essential for proper code selection."
+  },
+  {
+    "id": 92,
+    "section": "medical-terminology",
+    "subsection": "Medical Coding Terms",
+    "scenario": "A physician documents a patient's chief complaint and history of present illness during an office visit.",
+    "questionText": "The term 'chief complaint' refers to:",
+    "answers": [
+      {"id": "A", "text": "The physician's diagnosis"},
+      {"id": "B", "text": "The primary reason the patient seeks medical care"},
+      {"id": "C", "text": "The patient's past medical history"},
+      {"id": "D", "text": "The treatment plan"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The chief complaint (CC) is the primary reason the patient seeks medical care, usually stated in the patient's own words. It is a required element of E/M documentation. Examples: 'chest pain,' 'sore throat,' 'follow-up for diabetes.' The chief complaint drives the medical decision-making and code selection for the encounter."
+  },
+  {
+    "id": 93,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A patient is diagnosed with cholangitis. The gastroenterologist orders blood cultures and starts IV antibiotics.",
+    "questionText": "The root word 'cholangi/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Gallbladder"},
+      {"id": "B", "text": "Bile duct"},
+      {"id": "C", "text": "Pancreatic duct"},
+      {"id": "D", "text": "Common hepatic duct only"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The root word 'cholangi/o' refers to bile duct. Cholangitis means inflammation of the bile ducts. Cholangiography means imaging of the bile ducts. Cholangiocarcinoma is cancer of the bile ducts. 'Cholecyst/o' refers specifically to the gallbladder. 'Chol/e' refers to bile in general."
+  },
+  {
+    "id": 94,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A patient undergoes a bronchoscopy for evaluation of a persistent cough. The pulmonologist documents the findings.",
+    "questionText": "The root word 'bronch/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Lung"},
+      {"id": "B", "text": "Trachea"},
+      {"id": "C", "text": "Bronchus (airway)"},
+      {"id": "D", "text": "Pleura"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The root word 'bronch/o' refers to the bronchus (airway tube leading to the lungs). Bronchoscopy means visual examination of the bronchi. Bronchitis means inflammation of the bronchi. Bronchiectasis means dilation of the bronchi. 'Pulmon/o' or 'pneum/o' refers to the lung, 'trache/o' refers to the trachea, 'pleur/o' refers to the pleura."
+  },
+  {
+    "id": 95,
+    "section": "medical-terminology",
+    "subsection": "Combining Forms",
+    "scenario": "A patient is diagnosed with thrombophlebitis of the left leg. The physician orders anticoagulation therapy.",
+    "questionText": "The combining form 'phleb/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Artery"},
+      {"id": "B", "text": "Vein"},
+      {"id": "C", "text": "Capillary"},
+      {"id": "D", "text": "Lymph vessel"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The combining form 'phleb/o' refers to a vein. Thrombophlebitis means inflammation of a vein with clot formation. Phlebotomy means incision into a vein (blood draw). Phlebitis means inflammation of a vein. Another combining form for vein is 'ven/o' (intravenous = within a vein). 'Arteri/o' refers to artery."
+  },
+  {
+    "id": 96,
+    "section": "medical-terminology",
+    "subsection": "Combining Forms",
+    "scenario": "A patient undergoes a rhinoplasty for a deviated nasal septum. The coder must understand the combining form.",
+    "questionText": "The combining form 'rhin/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Mouth"},
+      {"id": "B", "text": "Ear"},
+      {"id": "C", "text": "Nose"},
+      {"id": "D", "text": "Throat"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The combining form 'rhin/o' refers to the nose. Rhinoplasty means surgical repair of the nose. Rhinitis means inflammation of the nasal mucosa. Rhinorrhea means discharge from the nose (runny nose). 'Stomat/o' or 'or/o' refers to the mouth, 'ot/o' refers to the ear, 'pharyng/o' refers to the throat."
+  },
+  {
+    "id": 97,
+    "section": "medical-terminology",
+    "subsection": "Directional Terms",
+    "scenario": "A radiologist describes a lesion in the ipsilateral lung on a chest CT scan.",
+    "questionText": "The term 'ipsilateral' means:",
+    "answers": [
+      {"id": "A", "text": "On the opposite side"},
+      {"id": "B", "text": "On the same side"},
+      {"id": "C", "text": "On both sides"},
+      {"id": "D", "text": "In the center"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Ipsilateral means on the same side of the body. Contralateral means on the opposite side. Bilateral means on both sides. For example, if a patient has breast cancer on the right and a lung nodule on the right, the lung nodule is ipsilateral to the breast cancer. These terms are important for accurate documentation and coding."
+  },
+  {
+    "id": 98,
+    "section": "medical-terminology",
+    "subsection": "Abbreviations",
+    "scenario": "A physician documents that a patient needs a TURP procedure for benign prostatic hyperplasia.",
+    "questionText": "The abbreviation 'TURP' stands for:",
+    "answers": [
+      {"id": "A", "text": "Total urethral reconstruction procedure"},
+      {"id": "B", "text": "Transurethral resection of the prostate"},
+      {"id": "C", "text": "Transurethral repair of prolapse"},
+      {"id": "D", "text": "Total ureteral replacement procedure"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "TURP stands for Transurethral Resection of the Prostate, a surgical procedure to treat benign prostatic hyperplasia (BPH) by removing prostate tissue through the urethra. 'Trans-' means through, 'urethral' refers to the urethra. CPT code 52601 is used for TURP. It is one of the most common urological procedures."
+  },
+  {
+    "id": 99,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient is diagnosed with splenomegaly on physical examination. The physician orders an abdominal ultrasound.",
+    "questionText": "The term 'splenomegaly' means:",
+    "answers": [
+      {"id": "A", "text": "Inflammation of the spleen"},
+      {"id": "B", "text": "Removal of the spleen"},
+      {"id": "C", "text": "Enlargement of the spleen"},
+      {"id": "D", "text": "Rupture of the spleen"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "Splenomegaly means enlargement of the spleen: 'splen/o' (spleen) + '-megaly' (enlargement). Common causes include infections, liver disease, and blood disorders. Splenitis would mean inflammation of the spleen. Splenectomy means removal of the spleen. Understanding word construction helps coders decode unfamiliar medical terms."
+  },
+  {
+    "id": 100,
+    "section": "medical-terminology",
+    "subsection": "Medical Coding Terms",
+    "scenario": "A coder reviews documentation and encounters the term 'manifestation' in relation to a diabetes code.",
+    "questionText": "In ICD-10-CM coding, a 'manifestation' is:",
+    "answers": [
+      {"id": "A", "text": "The underlying cause of a disease"},
+      {"id": "B", "text": "A sign, symptom, or condition resulting from an underlying disease"},
+      {"id": "C", "text": "A complication of surgery"},
+      {"id": "D", "text": "An adverse effect of medication"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "A manifestation is a sign, symptom, or condition that results from (is caused by) an underlying disease (etiology). In ICD-10-CM, etiology/manifestation coding requires the underlying disease code to be sequenced first, followed by the manifestation code. For example, diabetic retinopathy: diabetes is the etiology, retinopathy is the manifestation."
+  },
+  {
+    "id": 101,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "A physician documents that a patient has a supracondylar fracture of the humerus. The coder must identify the fracture location.",
+    "questionText": "The prefix 'supra-' means:",
+    "answers": [
+      {"id": "A", "text": "Below"},
+      {"id": "B", "text": "Above or beyond"},
+      {"id": "C", "text": "Between"},
+      {"id": "D", "text": "Within"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The prefix 'supra-' means above or beyond. Supracondylar means above the condyles. Suprapubic means above the pubic bone. Suprarenal means above the kidney (adrenal). 'Infra-' means below, 'inter-' means between, and 'intra-' means within."
+  },
+  {
+    "id": 102,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "A patient is diagnosed with endocarditis. The cardiologist explains the infection involves the inner lining of the heart.",
+    "questionText": "The prefix 'endo-' means:",
+    "answers": [
+      {"id": "A", "text": "Outside"},
+      {"id": "B", "text": "Around"},
+      {"id": "C", "text": "Within or inner"},
+      {"id": "D", "text": "Between"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The prefix 'endo-' means within or inner. Endocarditis means inflammation of the inner lining of the heart. Endoscopy means looking within. Endometrium is the inner lining of the uterus. 'Exo-' or 'ecto-' means outside, 'peri-' means around, and 'inter-' means between."
+  },
+  {
+    "id": 103,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "A surgeon documents performing a hemilaminectomy of the lumbar spine.",
+    "questionText": "The prefix 'hemi-' means:",
+    "answers": [
+      {"id": "A", "text": "Complete"},
+      {"id": "B", "text": "Half"},
+      {"id": "C", "text": "Double"},
+      {"id": "D", "text": "Partial"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The prefix 'hemi-' means half. Hemilaminectomy means removal of half of the lamina. Hemiplegia means paralysis of half of the body. Hemigastrectomy means removal of half of the stomach. 'Pan-' means all or complete, 'bi-' means two or double."
+  },
+  {
+    "id": 104,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "A patient is diagnosed with neonatal jaundice. The pediatrician monitors bilirubin levels.",
+    "questionText": "The prefix 'neo-' means:",
+    "answers": [
+      {"id": "A", "text": "Old"},
+      {"id": "B", "text": "New"},
+      {"id": "C", "text": "False"},
+      {"id": "D", "text": "Small"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The prefix 'neo-' means new. Neonatal means pertaining to a newborn. Neoplasm means new growth (tumor). Neovascularization means new blood vessel formation. 'Paleo-' means old, 'pseudo-' means false, and 'micro-' means small."
+  },
+  {
+    "id": 105,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "A physician documents that a patient has a contralateral knee injury. The coder must understand which knee is affected.",
+    "questionText": "The prefix 'contra-' means:",
+    "answers": [
+      {"id": "A", "text": "Same side"},
+      {"id": "B", "text": "Opposite"},
+      {"id": "C", "text": "Both sides"},
+      {"id": "D", "text": "Above"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The prefix 'contra-' means opposite or against. Contralateral means on the opposite side. Contraindication means a reason against a treatment. Contraception means against conception. 'Ipsi-' means same side (ipsilateral), 'bi-' means both sides (bilateral), 'supra-' means above."
+  },
+  {
+    "id": 106,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient undergoes a nephrectomy with ureterectomy. The pathology report describes renal cell carcinoma.",
+    "questionText": "The suffix '-uria' refers to a condition of:",
+    "answers": [
+      {"id": "A", "text": "Blood"},
+      {"id": "B", "text": "Urine"},
+      {"id": "C", "text": "Bile"},
+      {"id": "D", "text": "Sweat"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The suffix '-uria' refers to a condition of urine. Hematuria means blood in the urine. Polyuria means excessive urination. Dysuria means painful urination. Glycosuria means glucose in the urine. Anuria means absence of urine production. '-emia' refers to blood conditions, '-bilia' refers to bile."
+  },
+  {
+    "id": 107,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient is diagnosed with thrombocytopenia. The hematologist orders additional blood tests.",
+    "questionText": "The suffix '-penia' means:",
+    "answers": [
+      {"id": "A", "text": "Excess"},
+      {"id": "B", "text": "Deficiency or decrease"},
+      {"id": "C", "text": "Destruction"},
+      {"id": "D", "text": "Formation"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The suffix '-penia' means deficiency or decrease. Thrombocytopenia means decreased platelets. Leukopenia means decreased white blood cells. Neutropenia means decreased neutrophils. Pancytopenia means decrease in all blood cell types. '-cytosis' means increase in cells, '-lysis' means destruction, '-poiesis' means formation."
+  },
+  {
+    "id": 108,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient undergoes a tenorrhaphy after a tendon laceration. The coder must understand the procedure type.",
+    "questionText": "The suffix '-rrhaphy' means:",
+    "answers": [
+      {"id": "A", "text": "Rupture"},
+      {"id": "B", "text": "Suturing or repair"},
+      {"id": "C", "text": "Flow or discharge"},
+      {"id": "D", "text": "Surgical fixation"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The suffix '-rrhaphy' means suturing or surgical repair. Tenorrhaphy means suturing of a tendon. Herniorrhaphy means surgical repair of a hernia. Neurorrhaphy means suturing of a nerve. '-rrhexis' means rupture, '-rrhea' means flow or discharge, '-pexy' means surgical fixation."
+  },
+  {
+    "id": 109,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient presents with menorrhagia. The gynecologist recommends evaluation for uterine fibroids.",
+    "questionText": "The suffix '-rrhagia' means:",
+    "answers": [
+      {"id": "A", "text": "Pain"},
+      {"id": "B", "text": "Excessive bleeding or hemorrhage"},
+      {"id": "C", "text": "Inflammation"},
+      {"id": "D", "text": "Discharge"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The suffix '-rrhagia' means excessive bleeding or hemorrhage. Menorrhagia means excessive menstrual bleeding. Hemorrhage means excessive blood flow. Metrorrhagia means irregular uterine bleeding. '-algia' means pain, '-itis' means inflammation, '-rrhea' means discharge or flow."
+  },
+  {
+    "id": 110,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient undergoes a nephropexy for a ptotic (dropped) kidney. The coder must understand the suffix.",
+    "questionText": "The suffix '-pexy' means:",
+    "answers": [
+      {"id": "A", "text": "Removal"},
+      {"id": "B", "text": "Incision"},
+      {"id": "C", "text": "Surgical fixation"},
+      {"id": "D", "text": "Crushing"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The suffix '-pexy' means surgical fixation. Nephropexy means surgical fixation of a kidney. Orchiopexy means surgical fixation of a testicle. Gastropexy means surgical fixation of the stomach. Mastopexy means surgical fixation (lifting) of the breast. '-ectomy' means removal, '-otomy' means incision, '-tripsy' means crushing."
+  },
+  {
+    "id": 111,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A patient is diagnosed with cholecystitis. The surgeon recommends cholecystectomy.",
+    "questionText": "The root word 'cholecyst/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Bile duct"},
+      {"id": "B", "text": "Gallbladder"},
+      {"id": "C", "text": "Liver"},
+      {"id": "D", "text": "Pancreas"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The root word 'cholecyst/o' refers to the gallbladder (literally 'bile sac'): 'chol/e' (bile) + 'cyst' (sac/bladder). Cholecystitis means inflammation of the gallbladder. Cholecystectomy means removal of the gallbladder. 'Cholangi/o' refers to bile ducts, 'hepat/o' refers to the liver, 'pancreat/o' refers to the pancreas."
+  },
+  {
+    "id": 112,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A patient undergoes a thoracotomy for lung surgery. The coder must identify the body region.",
+    "questionText": "The root word 'thorac/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Abdomen"},
+      {"id": "B", "text": "Chest"},
+      {"id": "C", "text": "Neck"},
+      {"id": "D", "text": "Pelvis"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The root word 'thorac/o' refers to the chest (thorax). Thoracotomy means incision into the chest. Thoracoscopy means visual examination of the chest cavity. Thoracentesis means puncture of the chest wall to drain fluid. 'Abdomin/o' or 'lapar/o' refers to the abdomen, 'cervic/o' refers to the neck (or cervix), 'pelv/o' refers to the pelvis."
+  },
+  {
+    "id": 113,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A patient is diagnosed with spondylolisthesis. The orthopedic surgeon discusses treatment options.",
+    "questionText": "The root word 'spondyl/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Spinal cord"},
+      {"id": "B", "text": "Vertebra"},
+      {"id": "C", "text": "Disc"},
+      {"id": "D", "text": "Rib"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The root word 'spondyl/o' refers to a vertebra. Spondylolisthesis means forward slipping of one vertebra over another. Spondylosis means degenerative condition of the vertebrae. Spondylodesis (arthrodesis) means fusion of vertebrae. 'Myel/o' refers to spinal cord (or bone marrow), 'disc/o' refers to intervertebral disc, 'cost/o' refers to rib."
+  },
+  {
+    "id": 114,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A patient undergoes a craniotomy for brain tumor removal. The coder must understand the root word.",
+    "questionText": "The root word 'crani/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Brain"},
+      {"id": "B", "text": "Skull"},
+      {"id": "C", "text": "Spine"},
+      {"id": "D", "text": "Face"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The root word 'crani/o' refers to the skull (cranium). Craniotomy means incision into the skull. Cranioplasty means surgical repair of the skull. Craniosynostosis means premature fusion of skull sutures. 'Encephal/o' refers to the brain, 'vertebr/o' or 'spondyl/o' refers to the spine/vertebrae, 'faci/o' refers to the face."
+  },
+  {
+    "id": 115,
+    "section": "medical-terminology",
+    "subsection": "Combining Forms",
+    "scenario": "A patient is diagnosed with erythrocytosis. The hematologist orders additional testing.",
+    "questionText": "The combining form 'erythr/o' means:",
+    "answers": [
+      {"id": "A", "text": "White"},
+      {"id": "B", "text": "Red"},
+      {"id": "C", "text": "Blue"},
+      {"id": "D", "text": "Yellow"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The combining form 'erythr/o' means red. Erythrocyte means red blood cell. Erythrocytosis means increased red blood cells. Erythema means redness of the skin. Erythropoietin is the hormone that stimulates red blood cell production. 'Leuk/o' means white, 'cyan/o' means blue, 'xanth/o' means yellow."
+  },
+  {
+    "id": 116,
+    "section": "medical-terminology",
+    "subsection": "Combining Forms",
+    "scenario": "A patient undergoes an arthroplasty of the knee. The coder must understand the combining form.",
+    "questionText": "The combining form 'arthr/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Bone"},
+      {"id": "B", "text": "Muscle"},
+      {"id": "C", "text": "Joint"},
+      {"id": "D", "text": "Tendon"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The combining form 'arthr/o' refers to a joint. Arthroplasty means surgical repair/replacement of a joint. Arthroscopy means visual examination of a joint. Arthritis means inflammation of a joint. Arthrodesis means fusion of a joint. 'Oste/o' refers to bone, 'my/o' refers to muscle, 'tendin/o' refers to tendon."
+  },
+  {
+    "id": 117,
+    "section": "medical-terminology",
+    "subsection": "Combining Forms",
+    "scenario": "A patient is diagnosed with cyanosis. The physician documents bluish discoloration of the lips and fingertips.",
+    "questionText": "The combining form 'cyan/o' means:",
+    "answers": [
+      {"id": "A", "text": "Red"},
+      {"id": "B", "text": "Yellow"},
+      {"id": "C", "text": "Blue"},
+      {"id": "D", "text": "White"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The combining form 'cyan/o' means blue. Cyanosis means bluish discoloration of the skin and mucous membranes due to insufficient oxygen in the blood. Central cyanosis (lips, tongue) indicates systemic hypoxemia. Peripheral cyanosis (fingertips, toes) may indicate poor circulation. 'Erythr/o' means red, 'xanth/o' means yellow, 'leuk/o' means white."
+  },
+  {
+    "id": 118,
+    "section": "medical-terminology",
+    "subsection": "Combining Forms",
+    "scenario": "A patient undergoes a pyloroplasty. The surgeon widens the pyloric sphincter to improve gastric emptying.",
+    "questionText": "The combining form 'pylor/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Esophagus"},
+      {"id": "B", "text": "Pylorus (gatekeeper of the stomach)"},
+      {"id": "C", "text": "Duodenum"},
+      {"id": "D", "text": "Jejunum"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The combining form 'pylor/o' refers to the pylorus, the distal opening of the stomach that leads to the duodenum. Pyloroplasty means surgical repair/widening of the pylorus. Pyloromyotomy means incision of the pyloric muscle (for pyloric stenosis in infants). Pyloric stenosis means narrowing of the pyloric sphincter. 'Esophag/o' refers to the esophagus."
+  },
+  {
+    "id": 119,
+    "section": "medical-terminology",
+    "subsection": "Abbreviations",
+    "scenario": "A physician documents that a patient has COPD with acute exacerbation. The coder must assign the correct ICD-10 code.",
+    "questionText": "The abbreviation 'COPD' stands for:",
+    "answers": [
+      {"id": "A", "text": "Chronic obstructive pulmonary disease"},
+      {"id": "B", "text": "Complete obstruction of pulmonary duct"},
+      {"id": "C", "text": "Congenital obstructive pulmonary defect"},
+      {"id": "D", "text": "Chronic oxygen-poor disease"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "COPD stands for Chronic Obstructive Pulmonary Disease, a group of progressive lung diseases (primarily emphysema and chronic bronchitis) that cause airflow obstruction and breathing difficulty. COPD is coded in ICD-10-CM under J44 (with acute exacerbation: J44.1). It is one of the leading causes of death worldwide."
+  },
+  {
+    "id": 120,
+    "section": "medical-terminology",
+    "subsection": "Abbreviations",
+    "scenario": "A physician orders a BMP for a patient with suspected kidney disease.",
+    "questionText": "The abbreviation 'BMP' stands for:",
+    "answers": [
+      {"id": "A", "text": "Basic metabolic panel"},
+      {"id": "B", "text": "Blood morphology profile"},
+      {"id": "C", "text": "Bilateral muscle pain"},
+      {"id": "D", "text": "Bone mineral profile"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "BMP stands for Basic Metabolic Panel, a blood test that measures glucose, calcium, sodium, potassium, chloride, bicarbonate, BUN, and creatinine. It provides information about blood sugar, kidney function, and electrolyte balance. A CMP (Comprehensive Metabolic Panel) includes the BMP plus liver function tests and albumin."
+  },
+  {
+    "id": 121,
+    "section": "medical-terminology",
+    "subsection": "Directional Terms",
+    "scenario": "A surgeon documents a prone position for a posterior spinal approach. The coder must understand the positioning term.",
+    "questionText": "The term 'prone' means the patient is lying:",
+    "answers": [
+      {"id": "A", "text": "Face up (on the back)"},
+      {"id": "B", "text": "Face down (on the stomach)"},
+      {"id": "C", "text": "On the side"},
+      {"id": "D", "text": "Sitting upright"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Prone means lying face down (on the stomach/abdomen). Supine means lying face up (on the back). Lateral decubitus means lying on the side. Trendelenburg is supine with the head lower than the feet. Patient positioning affects surgical approach coding and is documented in operative reports."
+  },
+  {
+    "id": 122,
+    "section": "medical-terminology",
+    "subsection": "Directional Terms",
+    "scenario": "A radiologist describes a lesion in the medial compartment of the knee on MRI.",
+    "questionText": "The term 'medial' means:",
+    "answers": [
+      {"id": "A", "text": "Away from the midline"},
+      {"id": "B", "text": "Toward the midline"},
+      {"id": "C", "text": "Above"},
+      {"id": "D", "text": "Below"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Medial means toward the midline of the body. The medial compartment of the knee is on the inner side (closer to the other leg). The medial malleolus is the inner ankle bone (tibia). Lateral means away from the midline. Understanding medial vs. lateral is essential for correct anatomical site coding in both ICD-10-CM and CPT."
+  },
+  {
+    "id": 123,
+    "section": "medical-terminology",
+    "subsection": "Body Systems Terminology",
+    "scenario": "A patient is diagnosed with cholelithiasis. The surgeon recommends cholecystectomy.",
+    "questionText": "The term 'cholelithiasis' means:",
+    "answers": [
+      {"id": "A", "text": "Inflammation of the gallbladder"},
+      {"id": "B", "text": "Presence of gallstones"},
+      {"id": "C", "text": "Obstruction of the bile duct"},
+      {"id": "D", "text": "Cancer of the gallbladder"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Cholelithiasis means the presence of gallstones: 'chol/e' (bile) + 'lith' (stone) + '-iasis' (condition). Cholecystitis is inflammation of the gallbladder. Choledocholithiasis is stones in the common bile duct. Cholangiocarcinoma is cancer of the bile ducts. Breaking down medical terms into their components helps coders understand unfamiliar diagnoses."
+  },
+  {
+    "id": 124,
+    "section": "medical-terminology",
+    "subsection": "Body Systems Terminology",
+    "scenario": "A patient presents with dyspnea on exertion. The pulmonologist orders pulmonary function tests.",
+    "questionText": "The term 'dyspnea' means:",
+    "answers": [
+      {"id": "A", "text": "Absence of breathing"},
+      {"id": "B", "text": "Rapid breathing"},
+      {"id": "C", "text": "Difficult or labored breathing"},
+      {"id": "D", "text": "Painful breathing"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "Dyspnea means difficult or labored breathing: 'dys-' (difficult) + '-pnea' (breathing). Apnea means absence of breathing. Tachypnea means rapid breathing. Orthopnea means difficulty breathing when lying flat. Bradypnea means slow breathing. These terms describe different respiratory patterns and are important for accurate diagnosis coding."
+  },
+  {
+    "id": 125,
+    "section": "medical-terminology",
+    "subsection": "Medical Coding Terms",
+    "scenario": "A coder encounters the term 'principal diagnosis' when coding an inpatient stay.",
+    "questionText": "The 'principal diagnosis' in inpatient coding is defined as:",
+    "answers": [
+      {"id": "A", "text": "The most severe diagnosis"},
+      {"id": "B", "text": "The condition established after study to be chiefly responsible for the admission"},
+      {"id": "C", "text": "The first diagnosis listed by the physician"},
+      {"id": "D", "text": "The diagnosis with the highest reimbursement"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The principal diagnosis is defined by the Uniform Hospital Discharge Data Set (UHDDS) as 'the condition established after study to be chiefly responsible for occasioning the admission of the patient to the hospital for care.' It is not necessarily the most severe condition or the admitting diagnosis. Proper selection of the principal diagnosis is critical for DRG assignment and reimbursement."
+  },
+  {
+    "id": 126,
+    "section": "medical-terminology",
+    "subsection": "Surgical Terms",
+    "scenario": "A surgeon performs a resection and reanastomosis of the small bowel. The coder must understand both terms.",
+    "questionText": "The term 'resection' means:",
+    "answers": [
+      {"id": "A", "text": "Biopsy of tissue"},
+      {"id": "B", "text": "Surgical removal of a portion of an organ or structure"},
+      {"id": "C", "text": "Repair of a defect"},
+      {"id": "D", "text": "Drainage of fluid"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Resection means surgical removal of a portion (or all) of an organ or structure. Bowel resection means removing a segment of bowel. Liver resection means removing part of the liver. Resection differs from excision in that it typically refers to removing a larger portion of tissue or an entire segment. After bowel resection, the remaining ends are reconnected (reanastomosis)."
+  },
+  {
+    "id": 127,
+    "section": "medical-terminology",
+    "subsection": "Surgical Terms",
+    "scenario": "A surgeon performs a laparoscopic adhesiolysis. The operative note describes dividing bands of scar tissue between bowel loops.",
+    "questionText": "The term 'adhesiolysis' means:",
+    "answers": [
+      {"id": "A", "text": "Formation of adhesions"},
+      {"id": "B", "text": "Destruction or release of adhesions"},
+      {"id": "C", "text": "Biopsy of adhesions"},
+      {"id": "D", "text": "Imaging of adhesions"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Adhesiolysis means destruction or release of adhesions (scar tissue): 'adhesio' (sticking together) + '-lysis' (destruction/loosening). Adhesions are bands of scar tissue that form between organs, often after surgery. They can cause bowel obstruction and pain. Adhesiolysis may be performed open or laparoscopically."
+  },
+  {
+    "id": 128,
+    "section": "medical-terminology",
+    "subsection": "Surgical Terms",
+    "scenario": "A surgeon performs an embolectomy of the femoral artery. The operative note describes removing a blood clot from the vessel.",
+    "questionText": "The term 'embolectomy' means:",
+    "answers": [
+      {"id": "A", "text": "Removal of a blood clot that has traveled from another location"},
+      {"id": "B", "text": "Repair of a blood vessel"},
+      {"id": "C", "text": "Creation of a new blood vessel"},
+      {"id": "D", "text": "Injection of a clot-dissolving drug"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "Embolectomy means surgical removal of an embolus (a blood clot or other material that has traveled through the bloodstream and lodged in a vessel): 'embol/o' (plug/clot) + '-ectomy' (removal). A thrombectomy removes a thrombus (clot formed in place). Thrombolysis is dissolution of a clot using drugs. Angioplasty is repair of a blood vessel."
+  },
+  {
+    "id": 129,
+    "section": "medical-terminology",
+    "subsection": "Surgical Terms",
+    "scenario": "A surgeon performs a marsupializaton of a Bartholin gland cyst. The coder must understand this procedure type.",
+    "questionText": "The term 'marsupialization' refers to:",
+    "answers": [
+      {"id": "A", "text": "Complete excision of a cyst"},
+      {"id": "B", "text": "Opening a cyst and suturing its edges to create a permanent opening for drainage"},
+      {"id": "C", "text": "Aspiration of cyst fluid with a needle"},
+      {"id": "D", "text": "Injection of medication into a cyst"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Marsupialization is a surgical technique where a cyst is opened and its edges are sutured to the surrounding skin or mucosa to create a permanent opening (pouch) for continuous drainage. The term comes from 'marsupium' (pouch), like a marsupial's pouch. It is commonly used for Bartholin gland cysts, pancreatic pseudocysts, and ranulas."
+  },
+  {
+    "id": 130,
+    "section": "medical-terminology",
+    "subsection": "Pathology Terms",
+    "scenario": "A pathology report describes a tumor with well-differentiated cells. The oncologist discusses the grading system.",
+    "questionText": "In pathology, 'well-differentiated' tumor cells:",
+    "answers": [
+      {"id": "A", "text": "Look very different from normal cells and are highly aggressive"},
+      {"id": "B", "text": "Closely resemble normal cells and tend to be less aggressive"},
+      {"id": "C", "text": "Cannot be identified under a microscope"},
+      {"id": "D", "text": "Have spread to distant organs"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Well-differentiated tumor cells closely resemble normal cells of the tissue of origin and tend to be less aggressive (lower grade). Poorly differentiated cells look very abnormal and are more aggressive (higher grade). Undifferentiated (anaplastic) cells bear no resemblance to normal cells and are the most aggressive. Tumor grade affects treatment planning and prognosis coding."
+  },
+  {
+    "id": 131,
+    "section": "medical-terminology",
+    "subsection": "Pathology Terms",
+    "scenario": "A pathology report describes hypertrophy of the left ventricle. The cardiologist explains the finding.",
+    "questionText": "The term 'hypertrophy' means:",
+    "answers": [
+      {"id": "A", "text": "Increase in the number of cells"},
+      {"id": "B", "text": "Increase in the size of cells"},
+      {"id": "C", "text": "Decrease in cell size"},
+      {"id": "D", "text": "Death of cells"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Hypertrophy means an increase in the size of cells (and therefore the organ): 'hyper-' (excessive) + '-trophy' (growth/nourishment). Left ventricular hypertrophy means the heart muscle cells have enlarged. Hyperplasia is an increase in the number of cells. Atrophy is a decrease in cell size. Necrosis is cell death. These pathology terms are important for accurate diagnosis coding."
+  },
+  {
+    "id": 132,
+    "section": "medical-terminology",
+    "subsection": "Pathology Terms",
+    "scenario": "A pathology report describes atrophy of the thymus gland in an elderly patient.",
+    "questionText": "The term 'atrophy' means:",
+    "answers": [
+      {"id": "A", "text": "Enlargement of an organ"},
+      {"id": "B", "text": "Wasting away or decrease in size of an organ or tissue"},
+      {"id": "C", "text": "Inflammation of an organ"},
+      {"id": "D", "text": "Abnormal growth of cells"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Atrophy means wasting away or decrease in size of an organ or tissue: 'a-' (without) + '-trophy' (nourishment/growth). Muscle atrophy occurs from disuse. Thymic atrophy is normal with aging. Cerebral atrophy occurs in dementia. The opposite is hypertrophy (increase in size). '-megaly' also means enlargement, '-itis' means inflammation."
+  },
+  {
+    "id": 133,
+    "section": "medical-terminology",
+    "subsection": "Pathology Terms",
+    "scenario": "A physician documents that a patient has an ischemic stroke. The neurologist explains the mechanism.",
+    "questionText": "The term 'ischemia' means:",
+    "answers": [
+      {"id": "A", "text": "Excessive blood flow"},
+      {"id": "B", "text": "Insufficient blood supply to a tissue"},
+      {"id": "C", "text": "Blood clot formation"},
+      {"id": "D", "text": "Bleeding into tissue"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Ischemia means insufficient blood supply to a tissue, resulting in oxygen deprivation: 'isch-' (to hold back) + '-emia' (blood). An ischemic stroke occurs when blood flow to the brain is blocked. Myocardial ischemia means insufficient blood flow to the heart muscle. Prolonged ischemia leads to infarction (tissue death). Hemorrhage means bleeding into tissue."
+  },
+  {
+    "id": 134,
+    "section": "medical-terminology",
+    "subsection": "Pharmacology Terms",
+    "scenario": "A physician prescribes an antihypertensive medication for a patient with high blood pressure.",
+    "questionText": "The term 'antihypertensive' means a medication that:",
+    "answers": [
+      {"id": "A", "text": "Increases blood pressure"},
+      {"id": "B", "text": "Lowers blood pressure"},
+      {"id": "C", "text": "Thins the blood"},
+      {"id": "D", "text": "Strengthens the heart"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Antihypertensive means a medication that lowers blood pressure: 'anti-' (against) + 'hyper-' (excessive) + 'tens-' (pressure) + '-ive' (pertaining to). Common classes include ACE inhibitors, ARBs, beta-blockers, calcium channel blockers, and diuretics. Hypertension (high blood pressure) is coded as I10 in ICD-10-CM."
+  },
+  {
+    "id": 135,
+    "section": "medical-terminology",
+    "subsection": "Pharmacology Terms",
+    "scenario": "A patient on chemotherapy develops neutropenia. The oncologist prescribes a colony-stimulating factor.",
+    "questionText": "The term 'immunosuppressant' refers to a medication that:",
+    "answers": [
+      {"id": "A", "text": "Stimulates the immune system"},
+      {"id": "B", "text": "Suppresses or reduces the immune response"},
+      {"id": "C", "text": "Kills bacteria"},
+      {"id": "D", "text": "Reduces fever"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "An immunosuppressant is a medication that suppresses or reduces the immune response: 'immuno-' (immune system) + 'suppress' (to hold down) + '-ant' (agent). Immunosuppressants are used after organ transplantation to prevent rejection and to treat autoimmune diseases. Examples include cyclosporine, tacrolimus, and mycophenolate. Immunostimulants enhance the immune response."
+  },
+  {
+    "id": 136,
+    "section": "medical-terminology",
+    "subsection": "Pharmacology Terms",
+    "scenario": "A patient with atrial fibrillation is prescribed an anticoagulant. The physician monitors the patient's INR.",
+    "questionText": "An 'anticoagulant' medication works by:",
+    "answers": [
+      {"id": "A", "text": "Dissolving existing blood clots"},
+      {"id": "B", "text": "Preventing blood clot formation"},
+      {"id": "C", "text": "Increasing platelet production"},
+      {"id": "D", "text": "Strengthening blood vessel walls"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "An anticoagulant prevents blood clot formation: 'anti-' (against) + 'coagul-' (clotting) + '-ant' (agent). Common anticoagulants include warfarin, heparin, and direct oral anticoagulants (DOACs). Thrombolytics dissolve existing clots. Antiplatelet agents (like aspirin) prevent platelet aggregation. Anticoagulants do not dissolve existing clots but prevent new ones from forming."
+  },
+  {
+    "id": 137,
+    "section": "medical-terminology",
+    "subsection": "Medical Coding Terms",
+    "scenario": "A coder encounters the term 'modifier' when coding a bilateral knee procedure.",
+    "questionText": "In CPT coding, a 'modifier' is:",
+    "answers": [
+      {"id": "A", "text": "A diagnosis code"},
+      {"id": "B", "text": "A two-digit code appended to a CPT code to provide additional information"},
+      {"id": "C", "text": "A type of surgical instrument"},
+      {"id": "D", "text": "A patient demographic identifier"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "A CPT modifier is a two-digit code (numeric or alphanumeric) appended to a CPT code to provide additional information about the service performed without changing the code's definition. Common modifiers include -50 (bilateral), -RT/LT (right/left), -59 (distinct procedural service), -25 (significant, separately identifiable E/M), and -26 (professional component)."
+  },
+  {
+    "id": 138,
+    "section": "medical-terminology",
+    "subsection": "Medical Coding Terms",
+    "scenario": "A coder reviews documentation and encounters the term 'global surgical package' for a surgical procedure.",
+    "questionText": "The 'global surgical package' includes:",
+    "answers": [
+      {"id": "A", "text": "Only the surgical procedure itself"},
+      {"id": "B", "text": "The procedure plus preoperative and postoperative care within a defined period"},
+      {"id": "C", "text": "All services provided during the hospital stay"},
+      {"id": "D", "text": "Only the anesthesia services"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The global surgical package includes the surgical procedure itself plus related preoperative care (day before for major surgery), intraoperative services, and postoperative care within a defined follow-up period (0, 10, or 90 days depending on the procedure). Services included in the global period should not be billed separately. Complications and unrelated services may be billed with appropriate modifiers."
+  },
+  {
+    "id": 139,
+    "section": "medical-terminology",
+    "subsection": "Medical Coding Terms",
+    "scenario": "A coder encounters the term 'unbundling' during a coding audit.",
+    "questionText": "In medical coding, 'unbundling' refers to:",
+    "answers": [
+      {"id": "A", "text": "Properly separating distinct procedures for billing"},
+      {"id": "B", "text": "Improperly billing separately for procedures that should be reported as a single code"},
+      {"id": "C", "text": "Combining multiple codes into one"},
+      {"id": "D", "text": "Using modifiers correctly"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Unbundling is the improper practice of billing separately for procedures that should be reported as a single comprehensive code. For example, billing individual components of a panel lab test separately instead of using the panel code. Unbundling is considered fraudulent billing. The National Correct Coding Initiative (NCCI) edits identify code pairs that should not be billed together."
+  },
+  {
+    "id": 140,
+    "section": "medical-terminology",
+    "subsection": "Combining Forms",
+    "scenario": "A patient undergoes a colectomy for colon cancer. The coder must identify the organ involved.",
+    "questionText": "The combining form 'col/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Neck"},
+      {"id": "B", "text": "Colon (large intestine)"},
+      {"id": "C", "text": "Vagina"},
+      {"id": "D", "text": "Bile"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The combining form 'col/o' (or 'colon/o') refers to the colon (large intestine). Colectomy means removal of the colon. Colonoscopy means visual examination of the colon. Colostomy means creating an opening from the colon. Colitis means inflammation of the colon. 'Cervic/o' can refer to the neck, 'colp/o' refers to the vagina, 'chol/e' refers to bile."
+  },
+  {
+    "id": 141,
+    "section": "medical-terminology",
+    "subsection": "Combining Forms",
+    "scenario": "A patient is diagnosed with ophthalmosclerosis. The ophthalmologist documents hardening of the eye structures.",
+    "questionText": "The combining form 'ophthalm/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Ear"},
+      {"id": "B", "text": "Eye"},
+      {"id": "C", "text": "Nose"},
+      {"id": "D", "text": "Mouth"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The combining form 'ophthalm/o' refers to the eye. Ophthalmology is the study of eye diseases. Ophthalmoscope is an instrument for examining the eye. Ophthalmoplegia is paralysis of eye muscles. Another combining form for eye is 'ocul/o'. 'Ot/o' refers to the ear, 'rhin/o' refers to the nose, 'stomat/o' refers to the mouth."
+  },
+  {
+    "id": 142,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A patient undergoes a mastectomy for breast cancer. The coder must understand the root word.",
+    "questionText": "The root word 'mast/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Breast"},
+      {"id": "B", "text": "Jaw"},
+      {"id": "C", "text": "Muscle"},
+      {"id": "D", "text": "Bone marrow"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The root word 'mast/o' refers to the breast. Mastectomy means removal of the breast. Mastitis means inflammation of the breast. Mastopexy means surgical lifting of the breast. Another root for breast is 'mamm/o' (mammography, mammoplasty). 'Mandibul/o' refers to the jaw, 'my/o' refers to muscle, 'myel/o' refers to bone marrow or spinal cord."
+  },
+  {
+    "id": 143,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A patient is diagnosed with otitis media. The pediatrician prescribes antibiotics.",
+    "questionText": "The root word 'ot/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Eye"},
+      {"id": "B", "text": "Ear"},
+      {"id": "C", "text": "Mouth"},
+      {"id": "D", "text": "Nose"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The root word 'ot/o' refers to the ear. Otitis media means inflammation of the middle ear. Otoscopy means visual examination of the ear. Otorrhea means discharge from the ear. Otolaryngology is the study of ear, nose, and throat diseases. 'Ophthalm/o' refers to the eye, 'stomat/o' refers to the mouth, 'rhin/o' refers to the nose."
+  },
+  {
+    "id": 144,
+    "section": "medical-terminology",
+    "subsection": "Abbreviations",
+    "scenario": "A physician documents that a patient needs a PSA test for prostate cancer screening.",
+    "questionText": "The abbreviation 'PSA' stands for:",
+    "answers": [
+      {"id": "A", "text": "Prostate-specific antigen"},
+      {"id": "B", "text": "Primary surgical assessment"},
+      {"id": "C", "text": "Post-surgical analysis"},
+      {"id": "D", "text": "Peripheral sensory analysis"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "PSA stands for Prostate-Specific Antigen, a protein produced by the prostate gland. Elevated PSA levels can indicate prostate cancer, benign prostatic hyperplasia, or prostatitis. PSA testing is used for screening and monitoring prostate cancer. Normal PSA is generally below 4.0 ng/mL, though this varies with age."
+  },
+  {
+    "id": 145,
+    "section": "medical-terminology",
+    "subsection": "Abbreviations",
+    "scenario": "A physician documents that a patient has CHF with reduced ejection fraction.",
+    "questionText": "The abbreviation 'CHF' stands for:",
+    "answers": [
+      {"id": "A", "text": "Chronic heart failure"},
+      {"id": "B", "text": "Congestive heart failure"},
+      {"id": "C", "text": "Complete heart function"},
+      {"id": "D", "text": "Cardiac hypertrophic fibrosis"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "CHF stands for Congestive Heart Failure, a condition where the heart cannot pump blood effectively, leading to fluid buildup (congestion) in the lungs, legs, and other tissues. It can be systolic (reduced ejection fraction) or diastolic (preserved ejection fraction). ICD-10-CM codes for heart failure are in the I50 category."
+  },
+  {
+    "id": 146,
+    "section": "medical-terminology",
+    "subsection": "Directional Terms",
+    "scenario": "A surgeon documents a distal femur fracture near the knee joint.",
+    "questionText": "The term 'distal' means:",
+    "answers": [
+      {"id": "A", "text": "Closer to the trunk or point of origin"},
+      {"id": "B", "text": "Farther from the trunk or point of origin"},
+      {"id": "C", "text": "On the surface"},
+      {"id": "D", "text": "Toward the midline"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Distal means farther from the trunk or point of origin/attachment. The distal femur is the end near the knee (far from the hip). The distal radius is near the wrist (far from the elbow). Proximal is the opposite, meaning closer to the trunk. In the GI tract, distal means farther along the digestive pathway (e.g., distal colon is closer to the rectum)."
+  },
+  {
+    "id": 147,
+    "section": "medical-terminology",
+    "subsection": "Body Systems Terminology",
+    "scenario": "A patient is diagnosed with septicemia. The physician documents a systemic infection.",
+    "questionText": "The suffix '-emia' refers to a condition of:",
+    "answers": [
+      {"id": "A", "text": "Urine"},
+      {"id": "B", "text": "Blood"},
+      {"id": "C", "text": "Tissue"},
+      {"id": "D", "text": "Lymph"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The suffix '-emia' refers to a condition of the blood. Septicemia means infection in the blood. Anemia means deficiency of blood (red blood cells). Hyperglycemia means excessive sugar in the blood. Leukemia means cancer of the white blood cells. '-uria' refers to urine conditions, '-osis' refers to abnormal conditions."
+  },
+  {
+    "id": 148,
+    "section": "medical-terminology",
+    "subsection": "Body Systems Terminology",
+    "scenario": "A patient presents with oliguria after surgery. The physician documents decreased urine output.",
+    "questionText": "The term 'oliguria' means:",
+    "answers": [
+      {"id": "A", "text": "Absence of urine production"},
+      {"id": "B", "text": "Excessive urine production"},
+      {"id": "C", "text": "Decreased urine production"},
+      {"id": "D", "text": "Blood in the urine"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "Oliguria means decreased urine production: 'olig/o' (few/scanty) + '-uria' (urine condition). Normal urine output is approximately 0.5-1 mL/kg/hour. Oliguria is typically defined as less than 400 mL per day. Anuria means absence of urine production. Polyuria means excessive urine production. Hematuria means blood in the urine."
+  },
+  {
+    "id": 149,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient undergoes a paracentesis for ascites. The coder must understand the suffix.",
+    "questionText": "The suffix '-centesis' means:",
+    "answers": [
+      {"id": "A", "text": "Surgical removal"},
+      {"id": "B", "text": "Surgical puncture to withdraw fluid"},
+      {"id": "C", "text": "Visual examination"},
+      {"id": "D", "text": "Surgical repair"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The suffix '-centesis' means surgical puncture to withdraw fluid. Paracentesis means puncture of the abdominal cavity to drain fluid. Thoracentesis means puncture of the chest to drain fluid. Arthrocentesis means puncture of a joint to drain fluid. Amniocentesis means puncture of the amniotic sac. '-ectomy' means removal, '-scopy' means examination."
+  },
+  {
+    "id": 150,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient is diagnosed with osteomalacia. The physician explains the condition involves softening of the bones.",
+    "questionText": "The suffix '-malacia' means:",
+    "answers": [
+      {"id": "A", "text": "Hardening"},
+      {"id": "B", "text": "Softening"},
+      {"id": "C", "text": "Enlargement"},
+      {"id": "D", "text": "Inflammation"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The suffix '-malacia' means softening. Osteomalacia means softening of the bones (due to vitamin D deficiency in adults). Chondromalacia means softening of cartilage (e.g., chondromalacia patella). Encephalomalacia means softening of brain tissue. '-sclerosis' means hardening, '-megaly' means enlargement, '-itis' means inflammation."
+  },
+  {
+    "id": 151,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "A physician documents that a patient has paraplegia following a spinal cord injury.",
+    "questionText": "The prefix 'para-' means:",
+    "answers": [
+      {"id": "A", "text": "All four"},
+      {"id": "B", "text": "Beside, near, or abnormal"},
+      {"id": "C", "text": "Above"},
+      {"id": "D", "text": "Within"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The prefix 'para-' means beside, near, or abnormal. Paraplegia means paralysis of the lower body (both legs). Parathyroid means beside the thyroid. Paramedic means beside (assisting) a physician. Paranormal means beyond normal. 'Quadri-' means four (quadriplegia = paralysis of all four limbs), 'supra-' means above, 'endo-' means within."
+  },
+  {
+    "id": 152,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "A patient is diagnosed with pseudogout. The rheumatologist explains the condition mimics gout but has a different cause.",
+    "questionText": "The prefix 'pseudo-' means:",
+    "answers": [
+      {"id": "A", "text": "True"},
+      {"id": "B", "text": "False or resembling"},
+      {"id": "C", "text": "New"},
+      {"id": "D", "text": "Old"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The prefix 'pseudo-' means false or resembling. Pseudogout resembles gout but is caused by calcium pyrophosphate crystals rather than uric acid. Pseudocyst is a false cyst (no true epithelial lining). Pseudomembrane is a false membrane. Pseudoaneurysm is a false aneurysm. Understanding this prefix helps coders distinguish between similar-sounding conditions."
+  },
+  {
+    "id": 153,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "A physician documents that a patient has an extracapsular hip fracture.",
+    "questionText": "The prefix 'extra-' means:",
+    "answers": [
+      {"id": "A", "text": "Within"},
+      {"id": "B", "text": "Outside or beyond"},
+      {"id": "C", "text": "Between"},
+      {"id": "D", "text": "Below"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The prefix 'extra-' means outside or beyond. Extracapsular means outside the joint capsule. Extracorporeal means outside the body (e.g., ECMO). Extradural means outside the dura mater. Extraperitoneal means outside the peritoneum. 'Intra-' means within, 'inter-' means between, 'infra-' means below."
+  },
+  {
+    "id": 154,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient is diagnosed with atherosclerosis of the coronary arteries. The cardiologist discusses treatment options.",
+    "questionText": "The suffix '-sclerosis' means:",
+    "answers": [
+      {"id": "A", "text": "Softening"},
+      {"id": "B", "text": "Hardening"},
+      {"id": "C", "text": "Narrowing"},
+      {"id": "D", "text": "Widening"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The suffix '-sclerosis' means hardening. Atherosclerosis means hardening of the arteries due to plaque buildup. Arteriosclerosis means hardening of arteries in general. Multiple sclerosis involves hardening (scarring) of nerve tissue. Otosclerosis means abnormal hardening of bone in the ear. '-malacia' means softening, '-stenosis' means narrowing, '-ectasia' means widening/dilation."
+  },
+  {
+    "id": 155,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient is diagnosed with bronchiectasis. The pulmonologist orders a CT scan of the chest.",
+    "questionText": "The suffix '-ectasis' (or '-ectasia') means:",
+    "answers": [
+      {"id": "A", "text": "Narrowing"},
+      {"id": "B", "text": "Dilation or expansion"},
+      {"id": "C", "text": "Inflammation"},
+      {"id": "D", "text": "Obstruction"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The suffix '-ectasis' or '-ectasia' means dilation or expansion. Bronchiectasis means dilation of the bronchi. Atelectasis means incomplete expansion of the lung. Telangiectasia means dilation of small blood vessels. '-stenosis' means narrowing, '-itis' means inflammation. Understanding these suffixes helps distinguish between conditions that narrow vs. dilate structures."
+  },
+  {
+    "id": 156,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient undergoes a spinal stenosis evaluation. The surgeon documents narrowing of the spinal canal.",
+    "questionText": "The suffix '-stenosis' means:",
+    "answers": [
+      {"id": "A", "text": "Widening"},
+      {"id": "B", "text": "Narrowing or constriction"},
+      {"id": "C", "text": "Hardening"},
+      {"id": "D", "text": "Softening"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The suffix '-stenosis' means narrowing or constriction. Spinal stenosis means narrowing of the spinal canal. Aortic stenosis means narrowing of the aortic valve. Pyloric stenosis means narrowing of the pylorus. Carotid stenosis means narrowing of the carotid artery. '-ectasis' means widening, '-sclerosis' means hardening, '-malacia' means softening."
+  },
+  {
+    "id": 157,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A patient undergoes a phlebotomy for polycythemia vera. The coder must understand the root word.",
+    "questionText": "The root word 'phleb/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Artery"},
+      {"id": "B", "text": "Vein"},
+      {"id": "C", "text": "Capillary"},
+      {"id": "D", "text": "Heart"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The root word 'phleb/o' refers to a vein. Phlebotomy means incision into a vein (blood draw). Phlebitis means inflammation of a vein. Thrombophlebitis means inflammation of a vein with clot formation. Another root for vein is 'ven/o' (intravenous = within a vein). 'Arteri/o' refers to artery, 'cardi/o' refers to heart."
+  },
+  {
+    "id": 158,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A patient is diagnosed with tendinitis of the rotator cuff. The orthopedic surgeon recommends physical therapy.",
+    "questionText": "The root word 'tendin/o' (or 'ten/o') refers to:",
+    "answers": [
+      {"id": "A", "text": "Muscle"},
+      {"id": "B", "text": "Ligament"},
+      {"id": "C", "text": "Tendon"},
+      {"id": "D", "text": "Cartilage"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The root word 'tendin/o' or 'ten/o' refers to a tendon. Tendinitis (or tendonitis) means inflammation of a tendon. Tenorrhaphy means suturing of a tendon. Tenosynovitis means inflammation of a tendon sheath. Tendons connect muscles to bones. Ligaments connect bones to bones. 'My/o' refers to muscle, 'ligament/o' refers to ligament, 'chondr/o' refers to cartilage."
+  },
+  {
+    "id": 159,
+    "section": "medical-terminology",
+    "subsection": "Combining Forms",
+    "scenario": "A patient undergoes an oophorectomy for an ovarian cyst. The coder must understand the combining form.",
+    "questionText": "The combining form 'oophor/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Uterus"},
+      {"id": "B", "text": "Ovary"},
+      {"id": "C", "text": "Fallopian tube"},
+      {"id": "D", "text": "Cervix"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The combining form 'oophor/o' refers to the ovary. Oophorectomy means removal of an ovary. Oophoritis means inflammation of an ovary. Another combining form for ovary is 'ovari/o'. 'Hyster/o' or 'metr/o' refers to the uterus, 'salping/o' refers to the fallopian tube, 'cervic/o' refers to the cervix."
+  },
+  {
+    "id": 160,
+    "section": "medical-terminology",
+    "subsection": "Combining Forms",
+    "scenario": "A patient undergoes a cystolithotomy. The urologist removes a bladder stone through a surgical incision.",
+    "questionText": "The combining form 'cyst/o' combined with 'lith/o' and '-otomy' means:",
+    "answers": [
+      {"id": "A", "text": "Visual examination of the bladder"},
+      {"id": "B", "text": "Incision into the bladder to remove a stone"},
+      {"id": "C", "text": "Removal of the bladder"},
+      {"id": "D", "text": "Crushing of a bladder stone"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Cystolithotomy means incision into the bladder to remove a stone: 'cyst/o' (bladder) + 'lith/o' (stone) + '-otomy' (incision). This demonstrates how combining multiple word parts creates specific medical terms. Cystoscopy is visual examination of the bladder. Cystectomy is removal of the bladder. Lithotripsy is crushing of stones."
+  },
+  {
+    "id": 161,
+    "section": "medical-terminology",
+    "subsection": "Abbreviations",
+    "scenario": "A physician documents that a patient has a PE confirmed by CT angiography.",
+    "questionText": "The abbreviation 'PE' in this context stands for:",
+    "answers": [
+      {"id": "A", "text": "Physical examination"},
+      {"id": "B", "text": "Pulmonary embolism"},
+      {"id": "C", "text": "Pleural effusion"},
+      {"id": "D", "text": "Pericardial effusion"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "In this context, PE stands for Pulmonary Embolism, a blood clot that travels to the lungs and blocks a pulmonary artery. PE is a life-threatening condition often caused by deep vein thrombosis (DVT). CT pulmonary angiography (CTPA) is the standard diagnostic test. PE can also stand for Physical Examination in other contexts - context determines the meaning."
+  },
+  {
+    "id": 162,
+    "section": "medical-terminology",
+    "subsection": "Abbreviations",
+    "scenario": "A physician documents that a patient's LDL cholesterol is elevated at 180 mg/dL.",
+    "questionText": "The abbreviation 'LDL' stands for:",
+    "answers": [
+      {"id": "A", "text": "Low-density lipoprotein"},
+      {"id": "B", "text": "Large duct lymphoma"},
+      {"id": "C", "text": "Left dorsal ligament"},
+      {"id": "D", "text": "Liver disease level"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "LDL stands for Low-Density Lipoprotein, often called 'bad cholesterol' because high levels contribute to atherosclerosis and cardiovascular disease. HDL (High-Density Lipoprotein) is 'good cholesterol' that helps remove LDL from arteries. Optimal LDL is below 100 mg/dL. Lipid panel testing is coded under CPT 80061."
+  },
+  {
+    "id": 163,
+    "section": "medical-terminology",
+    "subsection": "Directional Terms",
+    "scenario": "A surgeon documents a plantar fasciotomy for plantar fasciitis.",
+    "questionText": "The term 'plantar' refers to:",
+    "answers": [
+      {"id": "A", "text": "The top of the foot"},
+      {"id": "B", "text": "The sole (bottom) of the foot"},
+      {"id": "C", "text": "The palm of the hand"},
+      {"id": "D", "text": "The back of the hand"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Plantar refers to the sole (bottom) of the foot. Plantar fasciitis is inflammation of the plantar fascia on the bottom of the foot. Dorsal refers to the top of the foot. Palmar (volar) refers to the palm of the hand. Dorsal refers to the back of the hand. These directional terms are specific to the extremities and important for accurate anatomical coding."
+  },
+  {
+    "id": 164,
+    "section": "medical-terminology",
+    "subsection": "Directional Terms",
+    "scenario": "A radiologist describes bilateral lesions on a chest CT scan.",
+    "questionText": "The term 'bilateral' means:",
+    "answers": [
+      {"id": "A", "text": "On one side only"},
+      {"id": "B", "text": "On both sides"},
+      {"id": "C", "text": "In the center"},
+      {"id": "D", "text": "On the opposite side"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Bilateral means on both sides: 'bi-' (two) + 'lateral' (side). Bilateral pulmonary nodules means nodules in both lungs. In CPT coding, bilateral procedures may use modifier -50 or be coded with separate codes for each side using -RT (right) and -LT (left) modifiers. Unilateral means one side. Contralateral means opposite side."
+  },
+  {
+    "id": 165,
+    "section": "medical-terminology",
+    "subsection": "Body Systems Terminology",
+    "scenario": "A patient is diagnosed with tinnitus. The ENT specialist evaluates the patient's hearing.",
+    "questionText": "The term 'tinnitus' refers to:",
+    "answers": [
+      {"id": "A", "text": "Hearing loss"},
+      {"id": "B", "text": "Ringing or buzzing in the ears"},
+      {"id": "C", "text": "Ear infection"},
+      {"id": "D", "text": "Dizziness"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Tinnitus is the perception of ringing, buzzing, hissing, or other sounds in the ears without an external source. It can be subjective (heard only by the patient) or objective (can be heard by the examiner). Common causes include noise exposure, age-related hearing loss, and ear infections. Hearing loss is called 'hearing impairment' or 'deafness.' Vertigo is dizziness."
+  },
+  {
+    "id": 166,
+    "section": "medical-terminology",
+    "subsection": "Body Systems Terminology",
+    "scenario": "A patient is diagnosed with ascites. The gastroenterologist performs a paracentesis.",
+    "questionText": "The term 'ascites' refers to:",
+    "answers": [
+      {"id": "A", "text": "Fluid accumulation in the lungs"},
+      {"id": "B", "text": "Fluid accumulation in the peritoneal (abdominal) cavity"},
+      {"id": "C", "text": "Fluid accumulation around the heart"},
+      {"id": "D", "text": "Fluid accumulation in the brain"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Ascites is the accumulation of fluid in the peritoneal (abdominal) cavity. Common causes include liver cirrhosis, heart failure, and cancer. Pleural effusion is fluid in the pleural space (around the lungs). Pericardial effusion is fluid around the heart. Hydrocephalus is excess fluid in the brain ventricles. Paracentesis is the procedure to drain ascitic fluid."
+  },
+  {
+    "id": 167,
+    "section": "medical-terminology",
+    "subsection": "Surgical Terms",
+    "scenario": "A surgeon performs a fulguration of bladder tumors during cystoscopy.",
+    "questionText": "The term 'fulguration' refers to:",
+    "answers": [
+      {"id": "A", "text": "Freezing tissue"},
+      {"id": "B", "text": "Destruction of tissue using electric current"},
+      {"id": "C", "text": "Cutting tissue with a laser"},
+      {"id": "D", "text": "Removing tissue with a scalpel"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Fulguration is the destruction of tissue using high-frequency electric current (electrocautery/electrosurgery). It is commonly used to destroy small bladder tumors during cystoscopy. Cryotherapy (cryosurgery) uses freezing. Laser ablation uses focused light energy. Excision uses a scalpel or surgical instrument. The method of tissue destruction affects CPT code selection."
+  },
+  {
+    "id": 168,
+    "section": "medical-terminology",
+    "subsection": "Surgical Terms",
+    "scenario": "A surgeon performs a curettage of a bone cyst. The operative note describes scraping the cyst cavity.",
+    "questionText": "The term 'curettage' means:",
+    "answers": [
+      {"id": "A", "text": "Suturing a wound"},
+      {"id": "B", "text": "Scraping tissue from a surface using a curette"},
+      {"id": "C", "text": "Injecting medication into tissue"},
+      {"id": "D", "text": "Applying a cast"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Curettage means scraping tissue from a surface using a spoon-shaped instrument called a curette. It is used for bone cysts, uterine tissue sampling (D&C - dilation and curettage), and skin lesion removal. Curettage may be combined with electrodesiccation for skin cancer treatment. The term comes from the French 'curette' (scraper)."
+  },
+  {
+    "id": 169,
+    "section": "medical-terminology",
+    "subsection": "Pathology Terms",
+    "scenario": "A pathology report describes an infarction of the myocardium. The cardiologist diagnoses acute myocardial infarction.",
+    "questionText": "The term 'infarction' means:",
+    "answers": [
+      {"id": "A", "text": "Inflammation of tissue"},
+      {"id": "B", "text": "Tissue death due to lack of blood supply"},
+      {"id": "C", "text": "Infection of tissue"},
+      {"id": "D", "text": "Excessive blood flow to tissue"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Infarction means tissue death (necrosis) due to lack of blood supply (ischemia). Myocardial infarction (heart attack) is death of heart muscle due to blocked coronary arteries. Cerebral infarction (stroke) is death of brain tissue due to blocked cerebral arteries. Pulmonary infarction is death of lung tissue due to pulmonary embolism. Ischemia precedes infarction."
+  },
+  {
+    "id": 170,
+    "section": "medical-terminology",
+    "subsection": "Pathology Terms",
+    "scenario": "A pathology report describes metaplasia of the esophageal epithelium (Barrett's esophagus).",
+    "questionText": "The term 'metaplasia' means:",
+    "answers": [
+      {"id": "A", "text": "Abnormal cell growth"},
+      {"id": "B", "text": "Change from one mature cell type to another"},
+      {"id": "C", "text": "Increase in cell number"},
+      {"id": "D", "text": "Decrease in cell size"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Metaplasia means the reversible change from one mature cell type to another: 'meta-' (change) + '-plasia' (formation). In Barrett's esophagus, the normal squamous epithelium changes to intestinal-type columnar epithelium due to chronic acid reflux. Metaplasia is an adaptive response but can be a precursor to dysplasia and cancer. Hyperplasia is increased cell number. Atrophy is decreased cell size."
+  },
+  {
+    "id": 171,
+    "section": "medical-terminology",
+    "subsection": "Pharmacology Terms",
+    "scenario": "A physician prescribes a bronchodilator for a patient with asthma.",
+    "questionText": "A 'bronchodilator' medication works by:",
+    "answers": [
+      {"id": "A", "text": "Constricting the airways"},
+      {"id": "B", "text": "Widening (dilating) the airways"},
+      {"id": "C", "text": "Reducing mucus production"},
+      {"id": "D", "text": "Killing bacteria in the lungs"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "A bronchodilator widens (dilates) the airways: 'bronch/o' (bronchus/airway) + 'dilator' (something that widens). Bronchodilators relax the smooth muscle in the airway walls, opening the airways and improving airflow. Common bronchodilators include albuterol (short-acting) and salmeterol (long-acting). They are used for asthma, COPD, and other obstructive lung diseases."
+  },
+  {
+    "id": 172,
+    "section": "medical-terminology",
+    "subsection": "Pharmacology Terms",
+    "scenario": "A patient with diabetes is prescribed an oral hypoglycemic agent to lower blood sugar.",
+    "questionText": "The term 'hypoglycemic' means:",
+    "answers": [
+      {"id": "A", "text": "Pertaining to high blood sugar"},
+      {"id": "B", "text": "Pertaining to low blood sugar"},
+      {"id": "C", "text": "Pertaining to high blood pressure"},
+      {"id": "D", "text": "Pertaining to low blood pressure"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Hypoglycemic means pertaining to low blood sugar: 'hypo-' (below/low) + 'glyc/o' (sugar/glucose) + '-emic' (pertaining to blood). A hypoglycemic agent lowers blood sugar. Hyperglycemia is high blood sugar. Oral hypoglycemic agents include metformin, sulfonylureas, and others. Insulin is an injectable hypoglycemic agent."
+  },
+  {
+    "id": 173,
+    "section": "medical-terminology",
+    "subsection": "Medical Coding Terms",
+    "scenario": "A coder encounters the term 'E/M' when coding an office visit.",
+    "questionText": "In CPT coding, 'E/M' stands for:",
+    "answers": [
+      {"id": "A", "text": "Emergency medicine"},
+      {"id": "B", "text": "Evaluation and management"},
+      {"id": "C", "text": "Examination and monitoring"},
+      {"id": "D", "text": "Endocrine and metabolic"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "E/M stands for Evaluation and Management, a category of CPT codes (99202-99499) used for office visits, hospital visits, consultations, and other cognitive services. E/M codes are selected based on medical decision-making complexity or time spent. They are the most commonly used CPT codes and are heavily tested on the CPC exam."
+  },
+  {
+    "id": 174,
+    "section": "medical-terminology",
+    "subsection": "Medical Coding Terms",
+    "scenario": "A coder encounters the term 'NOS' in an ICD-10-CM code description.",
+    "questionText": "In ICD-10-CM coding, 'NOS' stands for:",
+    "answers": [
+      {"id": "A", "text": "Not otherwise specified"},
+      {"id": "B", "text": "Not on schedule"},
+      {"id": "C", "text": "Number of services"},
+      {"id": "D", "text": "New onset symptoms"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "NOS stands for Not Otherwise Specified, used in ICD-10-CM when the documentation does not provide enough detail to assign a more specific code. NOS codes should be used only when more specific information is not available. Coders should query the physician for clarification when possible rather than defaulting to NOS codes. NEC means Not Elsewhere Classified."
+  },
+  {
+    "id": 175,
+    "section": "medical-terminology",
+    "subsection": "Medical Coding Terms",
+    "scenario": "A coder encounters the term 'NEC' in an ICD-10-CM code description.",
+    "questionText": "In ICD-10-CM coding, 'NEC' stands for:",
+    "answers": [
+      {"id": "A", "text": "Not elsewhere classified"},
+      {"id": "B", "text": "Not entirely confirmed"},
+      {"id": "C", "text": "New encounter code"},
+      {"id": "D", "text": "Non-essential condition"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "NEC stands for Not Elsewhere Classified, used in ICD-10-CM when the documentation provides specific detail but there is no specific code for that condition. The condition is specified but the classification system does not have a unique code for it. NEC differs from NOS: NEC means the condition is specified but has no specific code; NOS means the documentation lacks specificity."
+  },
+  {
+    "id": 176,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "A physician documents that a patient has an intervertebral disc herniation at L4-L5.",
+    "questionText": "The prefix 'inter-' means:",
+    "answers": [
+      {"id": "A", "text": "Within"},
+      {"id": "B", "text": "Between"},
+      {"id": "C", "text": "Above"},
+      {"id": "D", "text": "Below"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The prefix 'inter-' means between. Intervertebral means between the vertebrae. Intercostal means between the ribs. Interatrial means between the atria. Intermittent means occurring between periods. 'Intra-' means within (not between), 'supra-' means above, 'infra-' means below."
+  },
+  {
+    "id": 177,
+    "section": "medical-terminology",
+    "subsection": "Prefixes",
+    "scenario": "A patient is diagnosed with microcytic anemia. The hematologist orders iron studies.",
+    "questionText": "The prefix 'micro-' means:",
+    "answers": [
+      {"id": "A", "text": "Large"},
+      {"id": "B", "text": "Small"},
+      {"id": "C", "text": "Many"},
+      {"id": "D", "text": "Few"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The prefix 'micro-' means small. Microcytic means small cells (small red blood cells in microcytic anemia). Microscope is an instrument for viewing small objects. Microsurgery is surgery using magnification. 'Macro-' or 'mega-' means large (macrocytic = large cells). 'Poly-' means many, 'oligo-' means few."
+  },
+  {
+    "id": 178,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient is diagnosed with nephroptosis. The urologist explains the kidney has dropped from its normal position.",
+    "questionText": "The suffix '-ptosis' means:",
+    "answers": [
+      {"id": "A", "text": "Hardening"},
+      {"id": "B", "text": "Drooping or falling"},
+      {"id": "C", "text": "Enlargement"},
+      {"id": "D", "text": "Rupture"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The suffix '-ptosis' means drooping, falling, or prolapse. Nephroptosis means drooping/falling of the kidney. Blepharoptosis (ptosis) means drooping of the eyelid. Gastroptosis means drooping of the stomach. Visceroptosis means drooping of abdominal organs. '-sclerosis' means hardening, '-megaly' means enlargement, '-rrhexis' means rupture."
+  },
+  {
+    "id": 179,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient undergoes a colposcopy for abnormal Pap smear results. The gynecologist examines the cervix.",
+    "questionText": "The suffix '-scope' refers to:",
+    "answers": [
+      {"id": "A", "text": "A record or image"},
+      {"id": "B", "text": "An instrument for visual examination"},
+      {"id": "C", "text": "A surgical instrument for cutting"},
+      {"id": "D", "text": "A measuring device"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The suffix '-scope' refers to an instrument for visual examination. Colposcope is an instrument for examining the vagina and cervix. Endoscope is an instrument for examining the interior of the body. Arthroscope is an instrument for examining joints. '-scopy' is the process of using the scope. '-gram' is a record, '-graph' is a recording instrument, '-meter' is a measuring device."
+  },
+  {
+    "id": 180,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A patient is diagnosed with myocarditis. The cardiologist orders an echocardiogram.",
+    "questionText": "The root word 'cardi/o' combined with 'my/o' in 'myocarditis' refers to:",
+    "answers": [
+      {"id": "A", "text": "Heart valve"},
+      {"id": "B", "text": "Heart muscle"},
+      {"id": "C", "text": "Heart lining"},
+      {"id": "D", "text": "Heart rhythm"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "In myocarditis, 'my/o' (muscle) + 'cardi/o' (heart) + '-itis' (inflammation) = inflammation of the heart muscle. The myocardium is the muscular layer of the heart wall. Endocarditis is inflammation of the inner lining (endocardium). Pericarditis is inflammation of the outer covering (pericardium). Understanding these combinations is essential for accurate diagnosis coding."
+  },
+  {
+    "id": 181,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A patient undergoes a laryngoscopy. The ENT surgeon examines the voice box.",
+    "questionText": "The root word 'laryng/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Throat (pharynx)"},
+      {"id": "B", "text": "Voice box (larynx)"},
+      {"id": "C", "text": "Windpipe (trachea)"},
+      {"id": "D", "text": "Tongue"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The root word 'laryng/o' refers to the larynx (voice box). Laryngoscopy means visual examination of the larynx. Laryngitis means inflammation of the larynx. Laryngectomy means removal of the larynx. 'Pharyng/o' refers to the pharynx (throat), 'trache/o' refers to the trachea (windpipe), 'gloss/o' or 'lingu/o' refers to the tongue."
+  },
+  {
+    "id": 182,
+    "section": "medical-terminology",
+    "subsection": "Combining Forms",
+    "scenario": "A patient undergoes a hysteroscopy for evaluation of abnormal uterine bleeding.",
+    "questionText": "The combining form 'metr/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Measurement"},
+      {"id": "B", "text": "Uterus"},
+      {"id": "C", "text": "Breast"},
+      {"id": "D", "text": "Ovary"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The combining form 'metr/o' refers to the uterus. Metrorrhagia means irregular uterine bleeding. Endometrium is the inner lining of the uterus. Endometritis means inflammation of the endometrium. Myometrium is the muscular layer of the uterus. Other combining forms for uterus include 'hyster/o' and 'uter/o'. 'Mamm/o' or 'mast/o' refers to the breast."
+  },
+  {
+    "id": 183,
+    "section": "medical-terminology",
+    "subsection": "Combining Forms",
+    "scenario": "A patient is diagnosed with hepatocellular carcinoma. The oncologist discusses treatment options.",
+    "questionText": "The combining form 'hepat/o' combined with 'cellular' in 'hepatocellular' refers to:",
+    "answers": [
+      {"id": "A", "text": "Kidney cells"},
+      {"id": "B", "text": "Liver cells"},
+      {"id": "C", "text": "Pancreas cells"},
+      {"id": "D", "text": "Spleen cells"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Hepatocellular means pertaining to liver cells: 'hepat/o' (liver) + 'cellular' (pertaining to cells). Hepatocellular carcinoma (HCC) is the most common primary liver cancer. Hepatocyte is a liver cell. Hepatomegaly is enlargement of the liver. 'Nephr/o' or 'ren/o' refers to kidney, 'pancreat/o' refers to pancreas, 'splen/o' refers to spleen."
+  },
+  {
+    "id": 184,
+    "section": "medical-terminology",
+    "subsection": "Abbreviations",
+    "scenario": "A physician documents that a patient needs a DEXA scan for osteoporosis screening.",
+    "questionText": "The abbreviation 'DEXA' (or 'DXA') stands for:",
+    "answers": [
+      {"id": "A", "text": "Dual-energy X-ray absorptiometry"},
+      {"id": "B", "text": "Digital enhanced X-ray analysis"},
+      {"id": "C", "text": "Diagnostic examination of X-ray anatomy"},
+      {"id": "D", "text": "Dual-exposure X-ray assessment"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "DEXA (or DXA) stands for Dual-Energy X-ray Absorptiometry, the gold standard test for measuring bone mineral density (BMD) to diagnose osteoporosis. It uses two X-ray beams of different energy levels. Results are reported as T-scores: normal (above -1.0), osteopenia (-1.0 to -2.5), and osteoporosis (below -2.5). CPT code 77080."
+  },
+  {
+    "id": 185,
+    "section": "medical-terminology",
+    "subsection": "Abbreviations",
+    "scenario": "A physician documents that a patient has GERD with esophagitis.",
+    "questionText": "The abbreviation 'GERD' stands for:",
+    "answers": [
+      {"id": "A", "text": "Gastroesophageal reflux disease"},
+      {"id": "B", "text": "General endocrine regulation disorder"},
+      {"id": "C", "text": "Gastrointestinal erosive reflux disease"},
+      {"id": "D", "text": "Gastric emptying rate dysfunction"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "GERD stands for Gastroesophageal Reflux Disease, a chronic condition where stomach acid flows back into the esophagus, causing heartburn and potentially damaging the esophageal lining. Complications include esophagitis, Barrett's esophagus, and esophageal stricture. ICD-10-CM code K21.0 (with esophagitis) or K21.9 (without esophagitis)."
+  },
+  {
+    "id": 186,
+    "section": "medical-terminology",
+    "subsection": "Directional Terms",
+    "scenario": "A physician documents a palmar laceration of the hand.",
+    "questionText": "The term 'palmar' (or 'volar') refers to:",
+    "answers": [
+      {"id": "A", "text": "The back of the hand"},
+      {"id": "B", "text": "The palm side of the hand"},
+      {"id": "C", "text": "The side of the hand"},
+      {"id": "D", "text": "The wrist"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Palmar (or volar) refers to the palm side of the hand. Dorsal refers to the back of the hand. These terms are specific to the hand and are important for accurately describing wound locations, tendon injuries, and surgical approaches. In the foot, the equivalent terms are plantar (sole) and dorsal (top)."
+  },
+  {
+    "id": 187,
+    "section": "medical-terminology",
+    "subsection": "Body Systems Terminology",
+    "scenario": "A patient is diagnosed with peripheral neuropathy. The neurologist documents numbness and tingling in the feet.",
+    "questionText": "The term 'paresthesia' means:",
+    "answers": [
+      {"id": "A", "text": "Complete loss of sensation"},
+      {"id": "B", "text": "Abnormal sensation such as tingling, numbness, or burning"},
+      {"id": "C", "text": "Excessive pain sensitivity"},
+      {"id": "D", "text": "Muscle weakness"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Paresthesia means abnormal sensation such as tingling, numbness, burning, or 'pins and needles': 'para-' (abnormal) + '-esthesia' (sensation). It is a common symptom of peripheral neuropathy, carpal tunnel syndrome, and nerve compression. Anesthesia means absence of sensation. Hyperesthesia means increased sensitivity. Paralysis means loss of motor function."
+  },
+  {
+    "id": 188,
+    "section": "medical-terminology",
+    "subsection": "Body Systems Terminology",
+    "scenario": "A patient is diagnosed with edema of the lower extremities. The physician documents pitting edema.",
+    "questionText": "The term 'edema' means:",
+    "answers": [
+      {"id": "A", "text": "Redness of the skin"},
+      {"id": "B", "text": "Swelling caused by excess fluid in tissues"},
+      {"id": "C", "text": "Hardening of tissue"},
+      {"id": "D", "text": "Loss of tissue"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Edema means swelling caused by excess fluid accumulation in body tissues. Pitting edema is when pressing on the swollen area leaves a temporary indentation. Common causes include heart failure, kidney disease, liver disease, and venous insufficiency. Peripheral edema affects the extremities. Pulmonary edema is fluid in the lungs. Cerebral edema is brain swelling."
+  },
+  {
+    "id": 189,
+    "section": "medical-terminology",
+    "subsection": "Surgical Terms",
+    "scenario": "A surgeon performs an enucleation of the eye for intraocular melanoma.",
+    "questionText": "The term 'enucleation' means:",
+    "answers": [
+      {"id": "A", "text": "Partial removal of an organ"},
+      {"id": "B", "text": "Complete removal of an organ from its surrounding capsule or socket"},
+      {"id": "C", "text": "Biopsy of tissue"},
+      {"id": "D", "text": "Drainage of fluid"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Enucleation means complete removal of an organ from its surrounding capsule or socket, like shelling out a nut. Enucleation of the eye means removing the entire eyeball from the orbit. Enucleation of a tumor means removing it whole from its capsule. Evisceration of the eye means removing the eye contents but leaving the scleral shell. Exenteration removes the eye and surrounding orbital tissues."
+  },
+  {
+    "id": 190,
+    "section": "medical-terminology",
+    "subsection": "Surgical Terms",
+    "scenario": "A surgeon performs a fenestration of a pericardial cyst. The operative note describes creating a window in the cyst wall.",
+    "questionText": "The term 'fenestration' means:",
+    "answers": [
+      {"id": "A", "text": "Complete removal"},
+      {"id": "B", "text": "Creating a window or opening"},
+      {"id": "C", "text": "Suturing closed"},
+      {"id": "D", "text": "Crushing"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Fenestration means creating a window or opening in a structure. It comes from the Latin 'fenestra' (window). Pericardial fenestration creates a window in the pericardium for drainage. Fenestration of a cyst creates an opening for drainage. Fenestrated tracheostomy tubes have openings that allow airflow through the vocal cords."
+  },
+  {
+    "id": 191,
+    "section": "medical-terminology",
+    "subsection": "Pathology Terms",
+    "scenario": "A pathology report describes a tumor as 'in situ.' The oncologist explains the staging.",
+    "questionText": "The term 'in situ' in cancer staging means:",
+    "answers": [
+      {"id": "A", "text": "Cancer has spread to distant organs"},
+      {"id": "B", "text": "Cancer is confined to its original site and has not invaded surrounding tissue"},
+      {"id": "C", "text": "Cancer has spread to lymph nodes"},
+      {"id": "D", "text": "Cancer has recurred after treatment"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "In situ means 'in place' - the cancer cells are confined to their original site and have not invaded through the basement membrane into surrounding tissue. Carcinoma in situ (CIS) is the earliest stage of cancer (stage 0). In ICD-10-CM, in situ neoplasms are coded in the D00-D09 range, separate from invasive malignancies (C00-C96)."
+  },
+  {
+    "id": 192,
+    "section": "medical-terminology",
+    "subsection": "Pathology Terms",
+    "scenario": "A physician documents that a patient has a chronic condition with periodic acute exacerbations.",
+    "questionText": "The term 'chronic' means:",
+    "answers": [
+      {"id": "A", "text": "Sudden onset, severe, short duration"},
+      {"id": "B", "text": "Long-lasting, developing slowly over time"},
+      {"id": "C", "text": "Recurring at regular intervals"},
+      {"id": "D", "text": "Getting progressively worse"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Chronic means long-lasting, developing slowly over time, and persisting for a long period. Chronic diseases include diabetes, hypertension, and COPD. Acute means sudden onset and short duration. Subacute is between acute and chronic. An acute exacerbation of a chronic condition is a sudden worsening. The distinction between acute and chronic affects ICD-10-CM code selection."
+  },
+  {
+    "id": 193,
+    "section": "medical-terminology",
+    "subsection": "Pharmacology Terms",
+    "scenario": "A physician prescribes a corticosteroid for a patient with severe inflammation.",
+    "questionText": "Corticosteroids are primarily used to:",
+    "answers": [
+      {"id": "A", "text": "Kill bacteria"},
+      {"id": "B", "text": "Reduce inflammation and suppress the immune system"},
+      {"id": "C", "text": "Lower blood pressure"},
+      {"id": "D", "text": "Thin the blood"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Corticosteroids (such as prednisone, dexamethasone, and methylprednisolone) are primarily used to reduce inflammation and suppress the immune system. They mimic cortisol produced by the adrenal cortex. They are used for asthma, autoimmune diseases, allergic reactions, and organ transplant rejection prevention. Long-term use has significant side effects including osteoporosis, diabetes, and immunosuppression."
+  },
+  {
+    "id": 194,
+    "section": "medical-terminology",
+    "subsection": "Pharmacology Terms",
+    "scenario": "A patient with a bacterial infection is prescribed a broad-spectrum antibiotic.",
+    "questionText": "The term 'broad-spectrum' antibiotic means it is effective against:",
+    "answers": [
+      {"id": "A", "text": "Only one specific type of bacteria"},
+      {"id": "B", "text": "A wide range of both gram-positive and gram-negative bacteria"},
+      {"id": "C", "text": "Viruses and bacteria"},
+      {"id": "D", "text": "Fungi only"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "A broad-spectrum antibiotic is effective against a wide range of both gram-positive and gram-negative bacteria. Examples include amoxicillin-clavulanate, fluoroquinolones, and carbapenems. Narrow-spectrum antibiotics target specific types of bacteria. Antibiotics are not effective against viruses. Antifungals treat fungal infections. Choosing the right spectrum is important for antibiotic stewardship."
+  },
+  {
+    "id": 195,
+    "section": "medical-terminology",
+    "subsection": "Medical Coding Terms",
+    "scenario": "A coder encounters the term 'upcoding' during a compliance review.",
+    "questionText": "In medical coding, 'upcoding' refers to:",
+    "answers": [
+      {"id": "A", "text": "Assigning a code that accurately reflects the service provided"},
+      {"id": "B", "text": "Assigning a higher-level code than supported by documentation to increase reimbursement"},
+      {"id": "C", "text": "Using the most specific code available"},
+      {"id": "D", "text": "Coding all diagnoses for a patient encounter"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Upcoding is the fraudulent practice of assigning a higher-level code than what is supported by the documentation to increase reimbursement. For example, coding a level 5 E/M visit when documentation only supports a level 3. Upcoding violates the False Claims Act and can result in fines, penalties, and exclusion from federal healthcare programs. Accurate coding must reflect the documented services."
+  },
+  {
+    "id": 196,
+    "section": "medical-terminology",
+    "subsection": "Medical Coding Terms",
+    "scenario": "A coder encounters the term 'DRG' when coding an inpatient hospital stay.",
+    "questionText": "The abbreviation 'DRG' stands for:",
+    "answers": [
+      {"id": "A", "text": "Diagnosis-related group"},
+      {"id": "B", "text": "Drug resistance gene"},
+      {"id": "C", "text": "Diagnostic review guide"},
+      {"id": "D", "text": "Disease registry group"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "DRG stands for Diagnosis-Related Group, a patient classification system used by Medicare and other payers to determine hospital reimbursement for inpatient stays. Each DRG has a predetermined payment amount based on the principal diagnosis, procedures performed, complications/comorbidities, age, and discharge status. MS-DRGs (Medicare Severity DRGs) are the current version used by CMS."
+  },
+  {
+    "id": 197,
+    "section": "medical-terminology",
+    "subsection": "Combining Forms",
+    "scenario": "A patient undergoes a pneumonectomy. The thoracic surgeon removes the entire lung.",
+    "questionText": "The combining form 'pulmon/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Heart"},
+      {"id": "B", "text": "Lung"},
+      {"id": "C", "text": "Chest wall"},
+      {"id": "D", "text": "Diaphragm"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The combining form 'pulmon/o' refers to the lung. Pulmonology is the study of lung diseases. Pulmonary means pertaining to the lungs. Pulmonary embolism is a blood clot in the lung. Another combining form for lung is 'pneum/o' or 'pneumon/o' (pneumonectomy = removal of a lung, pneumonia = lung infection). 'Cardi/o' refers to heart, 'thorac/o' refers to chest."
+  },
+  {
+    "id": 198,
+    "section": "medical-terminology",
+    "subsection": "Root Words",
+    "scenario": "A patient is diagnosed with chondromalacia patella. The orthopedic surgeon discusses treatment.",
+    "questionText": "The root word 'chondr/o' refers to:",
+    "answers": [
+      {"id": "A", "text": "Bone"},
+      {"id": "B", "text": "Cartilage"},
+      {"id": "C", "text": "Muscle"},
+      {"id": "D", "text": "Ligament"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The root word 'chondr/o' refers to cartilage. Chondromalacia means softening of cartilage. Chondrocyte is a cartilage cell. Costochondritis is inflammation of the rib cartilage. Chondroplasty is surgical repair of cartilage. 'Oste/o' refers to bone, 'my/o' refers to muscle, 'ligament/o' refers to ligament."
+  },
+  {
+    "id": 199,
+    "section": "medical-terminology",
+    "subsection": "Suffixes",
+    "scenario": "A patient undergoes a tracheostomy. The surgeon creates a permanent opening in the trachea.",
+    "questionText": "The difference between '-otomy' and '-ostomy' is:",
+    "answers": [
+      {"id": "A", "text": "They mean the same thing"},
+      {"id": "B", "text": "-otomy is an incision; -ostomy is creating a permanent opening"},
+      {"id": "C", "text": "-otomy is removal; -ostomy is repair"},
+      {"id": "D", "text": "-otomy is for bones; -ostomy is for organs"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The suffix '-otomy' means making an incision or cut into a structure (temporary opening), while '-ostomy' means creating a new permanent opening (stoma). A tracheotomy is an incision into the trachea; a tracheostomy creates a permanent opening. A colotomy is an incision into the colon; a colostomy creates a permanent opening. This distinction is critical for correct CPT code selection."
+  },
+  {
+    "id": 200,
+    "section": "medical-terminology",
+    "subsection": "Body Systems Terminology",
+    "scenario": "A patient is diagnosed with an embolism. The physician explains the difference between a thrombus and an embolus.",
+    "questionText": "An 'embolus' differs from a 'thrombus' in that an embolus:",
+    "answers": [
+      {"id": "A", "text": "Forms in place within a blood vessel"},
+      {"id": "B", "text": "Travels through the bloodstream from another location"},
+      {"id": "C", "text": "Is always made of cholesterol"},
+      {"id": "D", "text": "Only occurs in arteries"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "An embolus is a mass (usually a blood clot, but can be fat, air, or tumor cells) that travels through the bloodstream and lodges in a vessel at a distant site. A thrombus forms in place within a blood vessel. A thrombus can become an embolus if it breaks loose and travels. A pulmonary embolism is typically caused by a thrombus from the deep leg veins that travels to the lungs."
+  }
+]

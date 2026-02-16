@@ -1,0 +1,3199 @@
+[
+  {
+    "id": 1,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A patient undergoes cardiac catheterization. The cardiologist documents accessing the right femoral artery and advancing the catheter retrograde through the aorta into the left ventricle.",
+    "questionText": "Which valve does the catheter cross to enter the left ventricle from the aorta?",
+    "answers": [
+      {"id": "A", "text": "Mitral valve"},
+      {"id": "B", "text": "Aortic valve"},
+      {"id": "C", "text": "Tricuspid valve"},
+      {"id": "D", "text": "Pulmonic valve"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The aortic valve sits between the left ventricle and the aorta. A catheter advanced retrograde (against blood flow) from the aorta must cross the aortic valve to reach the left ventricle. The mitral valve separates the left atrium from the left ventricle. The tricuspid valve is on the right side of the heart, and the pulmonic valve leads to the pulmonary artery.",
+    "cptCode": "93452"
+  },
+  {
+    "id": 2,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A vascular surgeon performs a carotid endarterectomy. The operative note describes removing atherosclerotic plaque from the internal carotid artery at the bifurcation.",
+    "questionText": "The common carotid artery bifurcates into which two vessels?",
+    "answers": [
+      {"id": "A", "text": "Internal carotid artery and vertebral artery"},
+      {"id": "B", "text": "Internal carotid artery and external carotid artery"},
+      {"id": "C", "text": "External carotid artery and subclavian artery"},
+      {"id": "D", "text": "Internal carotid artery and brachiocephalic artery"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The common carotid artery bifurcates into the internal carotid artery (supplying the brain) and the external carotid artery (supplying the face and neck). The vertebral arteries arise from the subclavian arteries. The brachiocephalic artery gives rise to the right common carotid and right subclavian arteries.",
+    "cptCode": "35301"
+  },
+  {
+    "id": 3,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A patient with atrial fibrillation is being evaluated for stroke risk. The physician documents concern about thrombus formation in a specific cardiac chamber appendage.",
+    "questionText": "In atrial fibrillation, thrombi most commonly form in which structure?",
+    "answers": [
+      {"id": "A", "text": "Right atrial appendage"},
+      {"id": "B", "text": "Left atrial appendage"},
+      {"id": "C", "text": "Right ventricle"},
+      {"id": "D", "text": "Left ventricle"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "In atrial fibrillation, blood stasis occurs primarily in the left atrial appendage (LAA), making it the most common site for thrombus formation. These thrombi can embolize to the brain causing stroke. The right atrial appendage is less commonly involved. Ventricular thrombi are more associated with heart failure or myocardial infarction.",
+    "cptCode": "93350"
+  },
+  {
+    "id": 4,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A surgeon performs coronary artery bypass grafting. The operative note describes harvesting the left internal mammary artery (LIMA) and anastomosing it to the left anterior descending artery.",
+    "questionText": "The left internal mammary artery is a branch of which vessel?",
+    "answers": [
+      {"id": "A", "text": "Aortic arch"},
+      {"id": "B", "text": "Left common carotid artery"},
+      {"id": "C", "text": "Left subclavian artery"},
+      {"id": "D", "text": "Brachiocephalic trunk"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The left internal mammary artery (also called the left internal thoracic artery) is a branch of the left subclavian artery. It runs along the inner chest wall and is commonly used as a bypass graft due to its excellent long-term patency. The brachiocephalic trunk gives rise to the right subclavian and right common carotid arteries.",
+    "cptCode": "33533"
+  },
+  {
+    "id": 5,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A patient presents with lower extremity edema. The physician orders a venous duplex ultrasound to evaluate for deep vein thrombosis in the leg.",
+    "questionText": "The great saphenous vein drains into which vessel?",
+    "answers": [
+      {"id": "A", "text": "Popliteal vein"},
+      {"id": "B", "text": "Common femoral vein"},
+      {"id": "C", "text": "External iliac vein"},
+      {"id": "D", "text": "Inferior vena cava"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The great saphenous vein is the longest vein in the body, running along the medial leg and thigh. It drains into the common femoral vein at the saphenofemoral junction in the groin. The popliteal vein is behind the knee. The external iliac vein is proximal to the femoral vein, and the IVC collects blood from both iliac veins.",
+    "cptCode": "93970"
+  },
+  {
+    "id": 6,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A cardiologist performs a transesophageal echocardiogram to evaluate a patient with suspected endocarditis. The report describes a vegetation on the valve between the left atrium and left ventricle.",
+    "questionText": "Which valve is located between the left atrium and left ventricle?",
+    "answers": [
+      {"id": "A", "text": "Aortic valve"},
+      {"id": "B", "text": "Pulmonic valve"},
+      {"id": "C", "text": "Tricuspid valve"},
+      {"id": "D", "text": "Mitral valve"}
+    ],
+    "correctAnswerId": "D",
+    "explanation": "The mitral valve (bicuspid valve) is located between the left atrium and left ventricle. It has two leaflets and prevents backflow of blood into the left atrium during ventricular contraction. The tricuspid valve is between the right atrium and right ventricle. The aortic valve is between the left ventricle and aorta.",
+    "cptCode": "93312"
+  },
+  {
+    "id": 7,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A patient undergoes placement of a permanent pacemaker. The leads are advanced through the subclavian vein into the right side of the heart.",
+    "questionText": "Blood flows from the superior vena cava into which cardiac chamber first?",
+    "answers": [
+      {"id": "A", "text": "Left atrium"},
+      {"id": "B", "text": "Right ventricle"},
+      {"id": "C", "text": "Right atrium"},
+      {"id": "D", "text": "Left ventricle"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The superior vena cava (SVC) returns deoxygenated blood from the upper body directly into the right atrium. From there, blood flows through the tricuspid valve into the right ventricle, then through the pulmonic valve to the pulmonary artery. The left atrium receives oxygenated blood from the pulmonary veins.",
+    "cptCode": "33208"
+  },
+  {
+    "id": 8,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A vascular surgeon repairs an abdominal aortic aneurysm. The operative note describes the aneurysm located below the renal arteries.",
+    "questionText": "The abdominal aorta bifurcates into which two vessels?",
+    "answers": [
+      {"id": "A", "text": "Right and left common iliac arteries"},
+      {"id": "B", "text": "Right and left internal iliac arteries"},
+      {"id": "C", "text": "Right and left femoral arteries"},
+      {"id": "D", "text": "Right and left renal arteries"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The abdominal aorta bifurcates at approximately the level of L4 into the right and left common iliac arteries. Each common iliac artery then divides into an internal iliac artery (supplying pelvic organs) and an external iliac artery (which becomes the femoral artery). The renal arteries branch laterally from the aorta above the bifurcation.",
+    "cptCode": "34802"
+  },
+  {
+    "id": 9,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A patient undergoes cardiac catheterization with coronary angiography. The report describes a significant stenosis in the vessel that supplies the majority of the left ventricular myocardium.",
+    "questionText": "Which coronary artery is the primary blood supply to the anterior wall of the left ventricle?",
+    "answers": [
+      {"id": "A", "text": "Right coronary artery"},
+      {"id": "B", "text": "Left circumflex artery"},
+      {"id": "C", "text": "Left anterior descending artery"},
+      {"id": "D", "text": "Posterior descending artery"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The left anterior descending (LAD) artery supplies the anterior wall of the left ventricle and the anterior two-thirds of the interventricular septum. It is often called the 'widow maker' because occlusion can cause massive myocardial infarction. The left circumflex supplies the lateral wall, and the right coronary artery supplies the inferior wall in most patients.",
+    "cptCode": "93458"
+  },
+  {
+    "id": 10,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A physician documents that a patient's electrocardiogram shows a bundle branch block. The physician explains that the electrical conduction system of the heart is affected.",
+    "questionText": "The bundle of His divides into which structures?",
+    "answers": [
+      {"id": "A", "text": "SA node and AV node"},
+      {"id": "B", "text": "Right and left bundle branches"},
+      {"id": "C", "text": "Purkinje fibers and SA node"},
+      {"id": "D", "text": "AV node and Purkinje fibers"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The bundle of His divides into the right bundle branch and left bundle branch, which carry electrical impulses to the right and left ventricles respectively. The left bundle branch further divides into anterior and posterior fascicles. The SA node initiates the heartbeat, the AV node delays the signal, and Purkinje fibers are the terminal branches that stimulate ventricular muscle cells.",
+    "cptCode": "93000"
+  },
+  {
+    "id": 11,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "An orthopedic surgeon performs an arthroscopic rotator cuff repair. The operative note identifies a full-thickness tear of the supraspinatus tendon.",
+    "questionText": "Which of the following muscles is NOT part of the rotator cuff?",
+    "answers": [
+      {"id": "A", "text": "Supraspinatus"},
+      {"id": "B", "text": "Infraspinatus"},
+      {"id": "C", "text": "Deltoid"},
+      {"id": "D", "text": "Teres minor"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The rotator cuff consists of four muscles: Supraspinatus, Infraspinatus, Teres minor, and Subscapularis (mnemonic: SITS). The deltoid is a large superficial muscle overlying the shoulder but is NOT part of the rotator cuff. The supraspinatus is the most commonly torn rotator cuff tendon.",
+    "cptCode": "29827"
+  },
+  {
+    "id": 12,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient undergoes ACL reconstruction of the knee. The operative note describes the ligament connecting the femur to the tibia within the joint capsule.",
+    "questionText": "The anterior cruciate ligament (ACL) primarily prevents which movement?",
+    "answers": [
+      {"id": "A", "text": "Lateral rotation of the tibia"},
+      {"id": "B", "text": "Anterior translation of the tibia relative to the femur"},
+      {"id": "C", "text": "Posterior translation of the tibia relative to the femur"},
+      {"id": "D", "text": "Valgus angulation of the knee"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The ACL primarily prevents anterior translation (forward sliding) of the tibia relative to the femur. This is tested clinically with the anterior drawer test and Lachman test. The posterior cruciate ligament (PCL) prevents posterior translation. The medial collateral ligament resists valgus stress.",
+    "cptCode": "29888"
+  },
+  {
+    "id": 13,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A hand surgeon documents repair of the flexor digitorum profundus tendon in zone II of the ring finger.",
+    "questionText": "Where does the flexor digitorum profundus tendon insert?",
+    "answers": [
+      {"id": "A", "text": "Base of the middle phalanx"},
+      {"id": "B", "text": "Base of the distal phalanx"},
+      {"id": "C", "text": "Base of the proximal phalanx"},
+      {"id": "D", "text": "Metacarpal head"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The flexor digitorum profundus (FDP) tendon inserts at the base of the distal phalanx. The flexor digitorum superficialis (FDS) tendon inserts at the base of the middle phalanx. Zone II is the area where both tendons run within the flexor sheath, making repairs technically challenging.",
+    "cptCode": "26356"
+  },
+  {
+    "id": 14,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient presents with a Colles fracture after a fall on an outstretched hand. The X-ray shows a displaced distal radius fracture with dorsal angulation.",
+    "questionText": "The distal radius articulates with which carpal bones?",
+    "answers": [
+      {"id": "A", "text": "Scaphoid and lunate"},
+      {"id": "B", "text": "Triquetrum and pisiform"},
+      {"id": "C", "text": "Capitate and hamate"},
+      {"id": "D", "text": "Trapezium and trapezoid"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The distal radius articulates with the scaphoid and lunate carpal bones at the radiocarpal joint. The ulna does not directly articulate with the carpal bones; instead, the triangular fibrocartilage complex (TFCC) separates them. The capitate and hamate are in the distal carpal row.",
+    "cptCode": "25607"
+  },
+  {
+    "id": 15,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "An orthopedic surgeon performs a total hip arthroplasty. The operative note describes the acetabulum being reamed and a prosthetic cup being placed.",
+    "questionText": "The acetabulum is formed by the fusion of which three bones?",
+    "answers": [
+      {"id": "A", "text": "Ilium, ischium, and pubis"},
+      {"id": "B", "text": "Ilium, sacrum, and coccyx"},
+      {"id": "C", "text": "Femur, ischium, and pubis"},
+      {"id": "D", "text": "Ilium, ischium, and sacrum"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The acetabulum is the cup-shaped socket of the hip joint, formed by the fusion of three bones: the ilium (superior), ischium (posteroinferior), and pubis (anteroinferior). These three bones fuse at the triradiate cartilage during adolescence. The sacrum and coccyx are part of the axial skeleton.",
+    "cptCode": "27130"
+  },
+  {
+    "id": 16,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient undergoes spinal fusion at L4-L5. The surgeon documents placing pedicle screws into the vertebral bodies.",
+    "questionText": "How many vertebrae are in the lumbar spine?",
+    "answers": [
+      {"id": "A", "text": "5"},
+      {"id": "B", "text": "7"},
+      {"id": "C", "text": "12"},
+      {"id": "D", "text": "4"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The lumbar spine consists of 5 vertebrae (L1-L5). The cervical spine has 7 vertebrae, the thoracic spine has 12, and the sacrum consists of 5 fused vertebrae. The lumbar vertebrae are the largest and bear the most weight. Understanding spinal anatomy is essential for coding spinal procedures.",
+    "cptCode": "22630"
+  },
+  {
+    "id": 17,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient with carpal tunnel syndrome undergoes surgical release. The surgeon divides the transverse carpal ligament to decompress the nerve.",
+    "questionText": "Which nerve is compressed in carpal tunnel syndrome?",
+    "answers": [
+      {"id": "A", "text": "Ulnar nerve"},
+      {"id": "B", "text": "Radial nerve"},
+      {"id": "C", "text": "Median nerve"},
+      {"id": "D", "text": "Musculocutaneous nerve"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The median nerve is compressed in carpal tunnel syndrome as it passes beneath the transverse carpal ligament (flexor retinaculum). Symptoms include numbness in the thumb, index, middle, and radial half of the ring finger. The ulnar nerve passes through Guyon's canal. The radial nerve is on the dorsal side of the wrist.",
+    "cptCode": "64721"
+  },
+  {
+    "id": 18,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "An orthopedic surgeon performs an open reduction and internal fixation of a femoral neck fracture. The operative note describes the fracture location relative to the hip joint capsule.",
+    "questionText": "The femoral neck connects the femoral head to which structure?",
+    "answers": [
+      {"id": "A", "text": "Greater and lesser trochanters"},
+      {"id": "B", "text": "Femoral condyles"},
+      {"id": "C", "text": "Tibial plateau"},
+      {"id": "D", "text": "Acetabulum"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The femoral neck is the region connecting the femoral head (which articulates with the acetabulum) to the intertrochanteric region where the greater and lesser trochanters are located. The femoral condyles are at the distal end of the femur at the knee. Femoral neck fractures are common in elderly patients with osteoporosis.",
+    "cptCode": "27236"
+  },
+  {
+    "id": 19,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient undergoes arthroscopic meniscus repair of the knee. The surgeon documents a tear in the medial meniscus at the posterior horn.",
+    "questionText": "The menisci of the knee are composed of which type of cartilage?",
+    "answers": [
+      {"id": "A", "text": "Hyaline cartilage"},
+      {"id": "B", "text": "Elastic cartilage"},
+      {"id": "C", "text": "Fibrocartilage"},
+      {"id": "D", "text": "Articular cartilage"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The menisci are composed of fibrocartilage, which is tough and resilient, designed to absorb shock and distribute weight across the knee joint. Hyaline cartilage covers the articular surfaces of bones. Elastic cartilage is found in the ear and epiglottis. The menisci act as cushions between the femoral condyles and tibial plateau.",
+    "cptCode": "29882"
+  },
+  {
+    "id": 20,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient sustains an ankle fracture. The X-ray shows a fracture of the lateral malleolus.",
+    "questionText": "The lateral malleolus is the distal end of which bone?",
+    "answers": [
+      {"id": "A", "text": "Tibia"},
+      {"id": "B", "text": "Fibula"},
+      {"id": "C", "text": "Talus"},
+      {"id": "D", "text": "Calcaneus"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The lateral malleolus is the bony prominence on the outer side of the ankle, formed by the distal end of the fibula. The medial malleolus is the distal end of the tibia. Together they form the ankle mortise that articulates with the talus. The calcaneus is the heel bone.",
+    "cptCode": "27792"
+  },
+  {
+    "id": 21,
+    "section": "anatomy",
+    "subsection": "Respiratory",
+    "scenario": "A pulmonologist performs a bronchoscopy. The operative note describes advancing the scope past the carina into the right main bronchus and then into the right middle lobe bronchus.",
+    "questionText": "How many lobes does the right lung have?",
+    "answers": [
+      {"id": "A", "text": "Two"},
+      {"id": "B", "text": "Three"},
+      {"id": "C", "text": "Four"},
+      {"id": "D", "text": "Five"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The right lung has three lobes: upper (superior), middle, and lower (inferior), separated by the oblique and horizontal fissures. The left lung has only two lobes (upper and lower) because the heart occupies space on the left side. The carina is where the trachea bifurcates into right and left main bronchi.",
+    "cptCode": "31622"
+  },
+  {
+    "id": 22,
+    "section": "anatomy",
+    "subsection": "Respiratory",
+    "scenario": "A thoracic surgeon performs a mediastinoscopy to biopsy lymph nodes. The operative note describes accessing the mediastinum through a suprasternal incision.",
+    "questionText": "The mediastinum is the central compartment of which body cavity?",
+    "answers": [
+      {"id": "A", "text": "Abdominal cavity"},
+      {"id": "B", "text": "Thoracic cavity"},
+      {"id": "C", "text": "Pelvic cavity"},
+      {"id": "D", "text": "Cranial cavity"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The mediastinum is the central compartment of the thoracic cavity, located between the two pleural cavities (lungs). It contains the heart, great vessels, trachea, esophagus, thoracic duct, and lymph nodes. It is divided into superior and inferior portions.",
+    "cptCode": "39400"
+  },
+  {
+    "id": 23,
+    "section": "anatomy",
+    "subsection": "Respiratory",
+    "scenario": "A patient undergoes a tracheostomy for prolonged mechanical ventilation. The surgeon creates an opening in the anterior trachea below the thyroid isthmus.",
+    "questionText": "The trachea bifurcates into the right and left main bronchi at which anatomical landmark?",
+    "answers": [
+      {"id": "A", "text": "Carina"},
+      {"id": "B", "text": "Cricoid cartilage"},
+      {"id": "C", "text": "Thyroid cartilage"},
+      {"id": "D", "text": "Hyoid bone"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The carina is the cartilaginous ridge at the bifurcation of the trachea into the right and left main bronchi, located at approximately the level of T4-T5 (sternal angle). The cricoid cartilage is the only complete ring of cartilage in the airway, located below the thyroid cartilage. The hyoid bone is in the neck above the larynx.",
+    "cptCode": "31600"
+  },
+  {
+    "id": 24,
+    "section": "anatomy",
+    "subsection": "Respiratory",
+    "scenario": "A patient presents with a pleural effusion. The physician performs a thoracentesis, inserting a needle into the pleural space to drain fluid.",
+    "questionText": "The pleural space is located between which two membranes?",
+    "answers": [
+      {"id": "A", "text": "Visceral and parietal peritoneum"},
+      {"id": "B", "text": "Visceral and parietal pleura"},
+      {"id": "C", "text": "Endocardium and pericardium"},
+      {"id": "D", "text": "Dura mater and arachnoid mater"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The pleural space is the potential space between the visceral pleura (covering the lung surface) and the parietal pleura (lining the chest wall). Normally it contains only a thin layer of fluid for lubrication. Accumulation of excess fluid is a pleural effusion. The peritoneum lines the abdominal cavity, and the pericardium surrounds the heart.",
+    "cptCode": "32554"
+  },
+  {
+    "id": 25,
+    "section": "anatomy",
+    "subsection": "Respiratory",
+    "scenario": "An ENT surgeon performs a laryngoscopy. The operative note describes examining the vocal cords and the structures of the larynx.",
+    "questionText": "Which cartilage is the largest in the larynx and forms the 'Adam's apple'?",
+    "answers": [
+      {"id": "A", "text": "Cricoid cartilage"},
+      {"id": "B", "text": "Epiglottis"},
+      {"id": "C", "text": "Thyroid cartilage"},
+      {"id": "D", "text": "Arytenoid cartilage"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The thyroid cartilage is the largest cartilage of the larynx and forms the prominent 'Adam's apple' (laryngeal prominence) on the anterior neck. The cricoid cartilage is the only complete ring of cartilage and sits below the thyroid cartilage. The epiglottis is a flap that covers the airway during swallowing. The arytenoid cartilages control vocal cord tension."
+  },
+  {
+    "id": 26,
+    "section": "anatomy",
+    "subsection": "Respiratory",
+    "scenario": "A patient undergoes a right upper lobectomy for lung cancer. The surgeon documents dividing the pulmonary artery branches and bronchus to the right upper lobe.",
+    "questionText": "The right main bronchus differs from the left main bronchus in that it is:",
+    "answers": [
+      {"id": "A", "text": "Longer and more horizontal"},
+      {"id": "B", "text": "Shorter, wider, and more vertical"},
+      {"id": "C", "text": "Narrower and more curved"},
+      {"id": "D", "text": "Equal in length and diameter"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The right main bronchus is shorter, wider, and more vertical than the left. This anatomical difference explains why aspirated foreign bodies more commonly lodge in the right bronchus. The left main bronchus is longer and more horizontal because it must pass under the aortic arch.",
+    "cptCode": "32480"
+  },
+  {
+    "id": 27,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A surgeon performs a laparoscopic cholecystectomy. The operative note describes identifying the cystic duct and cystic artery within the triangle of Calot.",
+    "questionText": "The triangle of Calot is bordered by the cystic duct, the common hepatic duct, and which other structure?",
+    "answers": [
+      {"id": "A", "text": "Common bile duct"},
+      {"id": "B", "text": "Inferior edge of the liver"},
+      {"id": "C", "text": "Duodenum"},
+      {"id": "D", "text": "Portal vein"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The triangle of Calot (cystohepatic triangle) is bounded by the cystic duct inferiorly, the common hepatic duct medially, and the inferior edge of the liver superiorly. The cystic artery is typically found within this triangle. Identifying this triangle is a critical safety step during cholecystectomy.",
+    "cptCode": "47562"
+  },
+  {
+    "id": 28,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A gastroenterologist performs a colonoscopy. The report documents advancing the scope from the rectum to the cecum, examining all segments of the large intestine.",
+    "questionText": "Which structure marks the junction between the small intestine and the large intestine?",
+    "answers": [
+      {"id": "A", "text": "Pyloric sphincter"},
+      {"id": "B", "text": "Ileocecal valve"},
+      {"id": "C", "text": "Hepatic flexure"},
+      {"id": "D", "text": "Splenic flexure"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The ileocecal valve marks the junction between the ileum (terminal small intestine) and the cecum (first part of the large intestine). The pyloric sphincter is between the stomach and duodenum. The hepatic flexure is the bend between the ascending and transverse colon. The splenic flexure is between the transverse and descending colon.",
+    "cptCode": "45378"
+  },
+  {
+    "id": 29,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A patient undergoes an esophagogastroduodenoscopy (EGD). The gastroenterologist documents a duodenal ulcer in the first portion of the duodenum.",
+    "questionText": "The duodenum is the first part of the small intestine. What are the other two parts, in order?",
+    "answers": [
+      {"id": "A", "text": "Jejunum and ileum"},
+      {"id": "B", "text": "Ileum and jejunum"},
+      {"id": "C", "text": "Cecum and jejunum"},
+      {"id": "D", "text": "Jejunum and cecum"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The small intestine consists of three parts in order: duodenum, jejunum, and ileum. The duodenum is the shortest (about 25 cm), the jejunum is the middle portion, and the ileum is the longest and connects to the large intestine at the ileocecal valve. The cecum is the first part of the large intestine, not the small intestine.",
+    "cptCode": "43239"
+  },
+  {
+    "id": 30,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A surgeon performs a Whipple procedure (pancreaticoduodenectomy) for pancreatic head cancer. The operative note describes the relationship of the pancreas to surrounding structures.",
+    "questionText": "The head of the pancreas is nestled in the C-shaped curve of which structure?",
+    "answers": [
+      {"id": "A", "text": "Stomach"},
+      {"id": "B", "text": "Duodenum"},
+      {"id": "C", "text": "Jejunum"},
+      {"id": "D", "text": "Transverse colon"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The head of the pancreas is nestled within the C-shaped curve of the duodenum. This close anatomical relationship is why a Whipple procedure (pancreaticoduodenectomy) requires removal of both the pancreatic head and the duodenum. The tail of the pancreas extends toward the spleen.",
+    "cptCode": "48150"
+  },
+  {
+    "id": 31,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A patient undergoes a liver biopsy. The physician documents the liver's location in the right upper quadrant of the abdomen.",
+    "questionText": "The liver receives its dual blood supply from which two sources?",
+    "answers": [
+      {"id": "A", "text": "Hepatic artery and hepatic vein"},
+      {"id": "B", "text": "Portal vein and hepatic artery"},
+      {"id": "C", "text": "Splenic artery and portal vein"},
+      {"id": "D", "text": "Celiac trunk and inferior vena cava"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The liver has a unique dual blood supply: the hepatic artery (carrying oxygenated blood from the aorta, ~25% of blood flow) and the portal vein (carrying nutrient-rich blood from the GI tract, ~75% of blood flow). The hepatic veins drain blood FROM the liver into the inferior vena cava.",
+    "cptCode": "47000"
+  },
+  {
+    "id": 32,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A surgeon performs an appendectomy for acute appendicitis. The operative note describes locating the appendix at the base of the cecum.",
+    "questionText": "The appendix is attached to which part of the large intestine?",
+    "answers": [
+      {"id": "A", "text": "Ascending colon"},
+      {"id": "B", "text": "Cecum"},
+      {"id": "C", "text": "Sigmoid colon"},
+      {"id": "D", "text": "Transverse colon"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The vermiform appendix is a small, finger-like projection attached to the cecum, typically near the ileocecal junction. McBurney's point (one-third of the distance from the anterior superior iliac spine to the umbilicus) is the surface landmark for the appendix base. The ascending colon is superior to the cecum.",
+    "cptCode": "44950"
+  },
+  {
+    "id": 33,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A patient undergoes an ERCP (endoscopic retrograde cholangiopancreatography) for a common bile duct stone. The gastroenterologist documents cannulating the ampulla of Vater.",
+    "questionText": "The ampulla of Vater is the opening where the common bile duct and pancreatic duct empty into which structure?",
+    "answers": [
+      {"id": "A", "text": "Stomach"},
+      {"id": "B", "text": "First part of the duodenum"},
+      {"id": "C", "text": "Second part of the duodenum"},
+      {"id": "D", "text": "Jejunum"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The ampulla of Vater (hepatopancreatic ampulla) is located in the second (descending) part of the duodenum, at the major duodenal papilla. It is where the common bile duct and main pancreatic duct join and empty their secretions into the intestine. The sphincter of Oddi controls flow through this opening.",
+    "cptCode": "43260"
+  },
+  {
+    "id": 34,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A surgeon performs a partial gastrectomy. The operative note describes the blood supply to the stomach along the greater and lesser curvatures.",
+    "questionText": "The celiac trunk gives rise to which three major arteries?",
+    "answers": [
+      {"id": "A", "text": "Left gastric, splenic, and common hepatic arteries"},
+      {"id": "B", "text": "Superior mesenteric, inferior mesenteric, and renal arteries"},
+      {"id": "C", "text": "Left gastric, right gastric, and splenic arteries"},
+      {"id": "D", "text": "Gastroduodenal, splenic, and hepatic arteries"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The celiac trunk (celiac axis) is the first major branch of the abdominal aorta and gives rise to three branches: the left gastric artery, the splenic artery, and the common hepatic artery. These supply the stomach, spleen, liver, gallbladder, and parts of the duodenum and pancreas.",
+    "cptCode": "43631"
+  },
+  {
+    "id": 35,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A patient undergoes a colonoscopy with polypectomy. The gastroenterologist documents removing a polyp from the sigmoid colon.",
+    "questionText": "The sigmoid colon connects which two segments of the large intestine?",
+    "answers": [
+      {"id": "A", "text": "Ascending colon and transverse colon"},
+      {"id": "B", "text": "Transverse colon and descending colon"},
+      {"id": "C", "text": "Descending colon and rectum"},
+      {"id": "D", "text": "Cecum and ascending colon"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The sigmoid colon is the S-shaped segment connecting the descending colon to the rectum. The order of large intestine segments is: cecum, ascending colon, hepatic flexure, transverse colon, splenic flexure, descending colon, sigmoid colon, rectum, and anal canal.",
+    "cptCode": "45385"
+  },
+  {
+    "id": 36,
+    "section": "anatomy",
+    "subsection": "Nervous System",
+    "scenario": "A neurosurgeon performs a lumbar laminectomy for spinal stenosis at L4-L5. The operative note describes decompressing the cauda equina.",
+    "questionText": "At what vertebral level does the spinal cord typically terminate in adults?",
+    "answers": [
+      {"id": "A", "text": "T12"},
+      {"id": "B", "text": "L1-L2"},
+      {"id": "C", "text": "L3-L4"},
+      {"id": "D", "text": "L5-S1"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The spinal cord typically terminates at L1-L2 in adults, forming the conus medullaris. Below this level, the spinal canal contains the cauda equina (a bundle of nerve roots). This is why lumbar punctures are safely performed at L3-L4 or L4-L5, below the cord termination.",
+    "cptCode": "63047"
+  },
+  {
+    "id": 37,
+    "section": "anatomy",
+    "subsection": "Nervous System",
+    "scenario": "A neurologist evaluates a patient with Bell's palsy. The patient has unilateral facial drooping, inability to close the eye, and loss of taste on the anterior two-thirds of the tongue.",
+    "questionText": "Bell's palsy affects which cranial nerve?",
+    "answers": [
+      {"id": "A", "text": "Cranial nerve V (trigeminal)"},
+      {"id": "B", "text": "Cranial nerve VII (facial)"},
+      {"id": "C", "text": "Cranial nerve IX (glossopharyngeal)"},
+      {"id": "D", "text": "Cranial nerve X (vagus)"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Bell's palsy is caused by dysfunction of cranial nerve VII (facial nerve), which controls muscles of facial expression, taste to the anterior two-thirds of the tongue, and lacrimation. The trigeminal nerve (V) provides facial sensation. The glossopharyngeal (IX) provides taste to the posterior third of the tongue.",
+    "cptCode": "64742"
+  },
+  {
+    "id": 38,
+    "section": "anatomy",
+    "subsection": "Nervous System",
+    "scenario": "A patient undergoes a craniotomy for removal of a brain tumor. The surgeon documents the tumor in the frontal lobe of the cerebrum.",
+    "questionText": "The frontal lobe is primarily responsible for which function?",
+    "answers": [
+      {"id": "A", "text": "Vision"},
+      {"id": "B", "text": "Hearing and language comprehension"},
+      {"id": "C", "text": "Voluntary motor function, personality, and decision-making"},
+      {"id": "D", "text": "Sensory perception of touch and temperature"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The frontal lobe contains the primary motor cortex (voluntary movement), prefrontal cortex (personality, judgment, planning), and Broca's area (speech production). The occipital lobe processes vision. The temporal lobe handles hearing and language comprehension (Wernicke's area). The parietal lobe processes sensory information.",
+    "cptCode": "61510"
+  },
+  {
+    "id": 39,
+    "section": "anatomy",
+    "subsection": "Nervous System",
+    "scenario": "A patient presents with sciatica. The physician documents pain radiating from the lower back down the posterior thigh and leg.",
+    "questionText": "The sciatic nerve is formed from nerve roots of which spinal levels?",
+    "answers": [
+      {"id": "A", "text": "C5-T1"},
+      {"id": "B", "text": "T12-L4"},
+      {"id": "C", "text": "L4-S3"},
+      {"id": "D", "text": "S2-S4"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The sciatic nerve, the largest nerve in the body, is formed from the L4-S3 nerve roots of the lumbosacral plexus. It exits the pelvis through the greater sciatic foramen and runs down the posterior thigh. C5-T1 forms the brachial plexus (upper extremity). S2-S4 contributes to the pudendal nerve.",
+    "cptCode": "64722"
+  },
+  {
+    "id": 40,
+    "section": "anatomy",
+    "subsection": "Nervous System",
+    "scenario": "A neurosurgeon performs a ventriculoperitoneal (VP) shunt placement for hydrocephalus. The catheter is placed into the lateral ventricle of the brain.",
+    "questionText": "Cerebrospinal fluid (CSF) is primarily produced by which structure?",
+    "answers": [
+      {"id": "A", "text": "Arachnoid granulations"},
+      {"id": "B", "text": "Choroid plexus"},
+      {"id": "C", "text": "Dura mater"},
+      {"id": "D", "text": "Pia mater"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Cerebrospinal fluid is primarily produced by the choroid plexus, which is located within the ventricles of the brain (mainly the lateral ventricles). CSF circulates through the ventricular system and subarachnoid space, and is reabsorbed by the arachnoid granulations into the venous sinuses. The dura and pia mater are meningeal layers.",
+    "cptCode": "62223"
+  },
+  {
+    "id": 41,
+    "section": "anatomy",
+    "subsection": "Nervous System",
+    "scenario": "A patient undergoes a carotid endarterectomy. The surgeon documents careful preservation of the hypoglossal nerve during the dissection.",
+    "questionText": "The hypoglossal nerve (cranial nerve XII) controls movement of which structure?",
+    "answers": [
+      {"id": "A", "text": "Soft palate"},
+      {"id": "B", "text": "Tongue"},
+      {"id": "C", "text": "Larynx"},
+      {"id": "D", "text": "Pharynx"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The hypoglossal nerve (CN XII) is the motor nerve to the tongue, controlling all intrinsic and most extrinsic tongue muscles. Damage during carotid surgery can cause tongue deviation toward the affected side. The vagus nerve (CN X) innervates the larynx and pharynx. The glossopharyngeal nerve (CN IX) provides sensation to the pharynx.",
+    "cptCode": "35301"
+  },
+  {
+    "id": 42,
+    "section": "anatomy",
+    "subsection": "Integumentary",
+    "scenario": "A dermatologist excises a melanoma from the patient's back. The pathology report describes the tumor extending through the epidermis and dermis into the subcutaneous tissue.",
+    "questionText": "Which layer lies immediately deep to the dermis?",
+    "answers": [
+      {"id": "A", "text": "Epidermis"},
+      {"id": "B", "text": "Fascia"},
+      {"id": "C", "text": "Subcutaneous tissue (hypodermis)"},
+      {"id": "D", "text": "Muscle"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The subcutaneous tissue (hypodermis) lies immediately deep to the dermis. The skin layers from superficial to deep are: epidermis, dermis, and subcutaneous tissue. Below the subcutaneous tissue is the fascia, then muscle. Depth of invasion determines staging and affects excision code selection.",
+    "cptCode": "11606"
+  },
+  {
+    "id": 43,
+    "section": "anatomy",
+    "subsection": "Integumentary",
+    "scenario": "A plastic surgeon performs a split-thickness skin graft to cover a burn wound on the patient's leg. The graft is harvested from the thigh.",
+    "questionText": "A split-thickness skin graft includes the epidermis and which portion of the dermis?",
+    "answers": [
+      {"id": "A", "text": "Full dermis"},
+      {"id": "B", "text": "Partial (upper) dermis"},
+      {"id": "C", "text": "No dermis, epidermis only"},
+      {"id": "D", "text": "Dermis and subcutaneous tissue"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "A split-thickness skin graft (STSG) includes the epidermis and a partial (upper) portion of the dermis. A full-thickness skin graft (FTSG) includes the epidermis and the entire dermis. STSGs are more commonly used for large wounds because the donor site can heal by re-epithelialization from the remaining dermal elements.",
+    "cptCode": "15100"
+  },
+  {
+    "id": 44,
+    "section": "anatomy",
+    "subsection": "Integumentary",
+    "scenario": "A surgeon performs a wide local excision of a basal cell carcinoma on the nose. The defect is repaired with an advancement flap.",
+    "questionText": "The epidermis is composed of which type of tissue?",
+    "answers": [
+      {"id": "A", "text": "Simple columnar epithelium"},
+      {"id": "B", "text": "Stratified squamous epithelium"},
+      {"id": "C", "text": "Transitional epithelium"},
+      {"id": "D", "text": "Pseudostratified columnar epithelium"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The epidermis is composed of keratinized stratified squamous epithelium. It consists of multiple layers: stratum basale, stratum spinosum, stratum granulosum, stratum lucidum (in thick skin), and stratum corneum (outermost). Simple columnar epithelium lines the GI tract. Transitional epithelium lines the bladder.",
+    "cptCode": "14060"
+  },
+  {
+    "id": 45,
+    "section": "anatomy",
+    "subsection": "Integumentary",
+    "scenario": "A patient presents with a stage III pressure ulcer over the sacrum. The wound care specialist documents the ulcer extending through the full thickness of skin into the subcutaneous fat.",
+    "questionText": "A stage III pressure ulcer involves damage to which depth?",
+    "answers": [
+      {"id": "A", "text": "Epidermis only"},
+      {"id": "B", "text": "Epidermis and partial dermis"},
+      {"id": "C", "text": "Full-thickness skin loss with visible subcutaneous fat"},
+      {"id": "D", "text": "Full-thickness loss with exposed bone, tendon, or muscle"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "A stage III pressure ulcer involves full-thickness skin loss where subcutaneous fat may be visible, but bone, tendon, and muscle are not exposed. Stage I is non-blanchable erythema of intact skin. Stage II involves partial-thickness loss of dermis. Stage IV involves full-thickness tissue loss with exposed bone, tendon, or muscle.",
+    "cptCode": "15946"
+  },
+  {
+    "id": 46,
+    "section": "anatomy",
+    "subsection": "Urinary",
+    "scenario": "A urologist performs a cystoscopy with ureteral stent placement. The stent is advanced from the bladder up to the renal pelvis.",
+    "questionText": "The ureters carry urine from which structure to the bladder?",
+    "answers": [
+      {"id": "A", "text": "Renal cortex"},
+      {"id": "B", "text": "Renal pelvis"},
+      {"id": "C", "text": "Urethra"},
+      {"id": "D", "text": "Adrenal gland"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The ureters carry urine from the renal pelvis of each kidney to the urinary bladder. The renal pelvis is the funnel-shaped collecting area that receives urine from the major calyces. The urethra carries urine from the bladder to outside the body. The adrenal glands are endocrine organs sitting atop the kidneys.",
+    "cptCode": "52332"
+  },
+  {
+    "id": 47,
+    "section": "anatomy",
+    "subsection": "Urinary",
+    "scenario": "A patient undergoes a nephrectomy for renal cell carcinoma. The surgeon documents ligating the renal artery and renal vein.",
+    "questionText": "The left renal vein crosses anterior to which major vessel before draining into the inferior vena cava?",
+    "answers": [
+      {"id": "A", "text": "Abdominal aorta"},
+      {"id": "B", "text": "Superior mesenteric artery"},
+      {"id": "C", "text": "Celiac trunk"},
+      {"id": "D", "text": "Common iliac artery"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The left renal vein is longer than the right and crosses anterior to the abdominal aorta (and posterior to the superior mesenteric artery) before draining into the inferior vena cava. This anatomical relationship is important because the left renal vein can be compressed between these vessels (nutcracker syndrome).",
+    "cptCode": "50220"
+  },
+  {
+    "id": 48,
+    "section": "anatomy",
+    "subsection": "Urinary",
+    "scenario": "A urologist performs a transurethral resection of the prostate (TURP) for benign prostatic hyperplasia. The operative note describes the prostate's relationship to the urethra.",
+    "questionText": "The prostate gland surrounds which portion of the male urethra?",
+    "answers": [
+      {"id": "A", "text": "Penile urethra"},
+      {"id": "B", "text": "Membranous urethra"},
+      {"id": "C", "text": "Prostatic urethra"},
+      {"id": "D", "text": "Bulbar urethra"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The prostate gland surrounds the prostatic urethra, which is the segment of the urethra that passes through the prostate. Benign prostatic hyperplasia compresses this segment, causing urinary obstruction. The male urethra has four parts: prostatic, membranous, bulbar, and penile (pendulous).",
+    "cptCode": "52601"
+  },
+  {
+    "id": 49,
+    "section": "anatomy",
+    "subsection": "Reproductive",
+    "scenario": "A gynecologist performs a total abdominal hysterectomy. The operative note describes removing the uterus and cervix while preserving both ovaries.",
+    "questionText": "In a total hysterectomy, which structures are removed?",
+    "answers": [
+      {"id": "A", "text": "Uterine body only"},
+      {"id": "B", "text": "Uterine body and cervix"},
+      {"id": "C", "text": "Uterine body, cervix, and both ovaries"},
+      {"id": "D", "text": "Uterine body, cervix, ovaries, and fallopian tubes"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "A total hysterectomy removes the uterine body (corpus) and the cervix. A subtotal (supracervical) hysterectomy removes only the uterine body, leaving the cervix. When ovaries are also removed, it is coded separately as a bilateral salpingo-oophorectomy. Understanding these distinctions is critical for correct CPT code selection.",
+    "cptCode": "58150"
+  },
+  {
+    "id": 50,
+    "section": "anatomy",
+    "subsection": "Reproductive",
+    "scenario": "A patient undergoes a cesarean section. The surgeon documents making a low transverse incision in the uterus to deliver the baby.",
+    "questionText": "The uterus is divided into which three main anatomical regions?",
+    "answers": [
+      {"id": "A", "text": "Fundus, body, and cervix"},
+      {"id": "B", "text": "Fundus, isthmus, and vagina"},
+      {"id": "C", "text": "Endometrium, myometrium, and serosa"},
+      {"id": "D", "text": "Anterior, posterior, and lateral walls"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The uterus has three main anatomical regions: the fundus (dome-shaped top above the fallopian tube openings), the body (main central portion), and the cervix (narrow lower portion opening into the vagina). The endometrium, myometrium, and serosa are the three tissue layers of the uterine wall, not anatomical regions."
+  },
+  {
+    "id": 51,
+    "section": "anatomy",
+    "subsection": "Endocrine",
+    "scenario": "A surgeon performs a total thyroidectomy for papillary thyroid carcinoma. The operative note describes careful identification and preservation of the parathyroid glands.",
+    "questionText": "How many parathyroid glands are typically present in the human body?",
+    "answers": [
+      {"id": "A", "text": "Two"},
+      {"id": "B", "text": "Four"},
+      {"id": "C", "text": "Six"},
+      {"id": "D", "text": "Eight"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "There are typically four parathyroid glands (two superior and two inferior) located on the posterior surface of the thyroid gland. They produce parathyroid hormone (PTH), which regulates calcium levels. Inadvertent removal during thyroidectomy can cause hypocalcemia.",
+    "cptCode": "60240"
+  },
+  {
+    "id": 52,
+    "section": "anatomy",
+    "subsection": "Endocrine",
+    "scenario": "A patient undergoes a laparoscopic adrenalectomy for a pheochromocytoma. The surgeon documents the adrenal gland sitting on top of the kidney.",
+    "questionText": "The adrenal medulla produces which hormones?",
+    "answers": [
+      {"id": "A", "text": "Cortisol and aldosterone"},
+      {"id": "B", "text": "Epinephrine and norepinephrine"},
+      {"id": "C", "text": "Insulin and glucagon"},
+      {"id": "D", "text": "Thyroid hormone and calcitonin"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The adrenal medulla (inner portion) produces catecholamines: epinephrine (adrenaline) and norepinephrine (noradrenaline). A pheochromocytoma is a tumor of the adrenal medulla that overproduces these hormones. The adrenal cortex (outer portion) produces cortisol, aldosterone, and androgens. Insulin and glucagon are produced by the pancreas.",
+    "cptCode": "60650"
+  },
+  {
+    "id": 53,
+    "section": "anatomy",
+    "subsection": "Endocrine",
+    "scenario": "A patient with Cushing's disease undergoes transsphenoidal surgery to remove a pituitary adenoma. The surgeon accesses the pituitary through the nasal cavity and sphenoid sinus.",
+    "questionText": "The pituitary gland is located in which bony structure of the skull?",
+    "answers": [
+      {"id": "A", "text": "Foramen magnum"},
+      {"id": "B", "text": "Sella turcica"},
+      {"id": "C", "text": "Cribriform plate"},
+      {"id": "D", "text": "Mastoid process"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The pituitary gland sits in the sella turcica ('Turkish saddle'), a depression in the sphenoid bone at the base of the skull. The foramen magnum is the large opening where the spinal cord exits the skull. The cribriform plate is part of the ethmoid bone through which olfactory nerves pass.",
+    "cptCode": "61548"
+  },
+  {
+    "id": 54,
+    "section": "anatomy",
+    "subsection": "Endocrine",
+    "scenario": "An endocrinologist evaluates a patient with diabetes mellitus. The physician discusses the role of the pancreas in blood sugar regulation.",
+    "questionText": "Insulin is produced by which cells in the pancreas?",
+    "answers": [
+      {"id": "A", "text": "Alpha cells of the islets of Langerhans"},
+      {"id": "B", "text": "Beta cells of the islets of Langerhans"},
+      {"id": "C", "text": "Acinar cells"},
+      {"id": "D", "text": "Delta cells of the islets of Langerhans"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Insulin is produced by beta cells in the islets of Langerhans within the pancreas. Alpha cells produce glucagon (raises blood sugar). Delta cells produce somatostatin. Acinar cells produce digestive enzymes (exocrine function). The pancreas has both endocrine and exocrine functions.",
+    "cptCode": "48999"
+  },
+  {
+    "id": 55,
+    "section": "anatomy",
+    "subsection": "Endocrine",
+    "scenario": "A surgeon performs a thyroid lobectomy. The operative note describes careful identification of the recurrent laryngeal nerve running in the tracheoesophageal groove.",
+    "questionText": "Damage to the recurrent laryngeal nerve during thyroid surgery most commonly results in which complication?",
+    "answers": [
+      {"id": "A", "text": "Difficulty swallowing"},
+      {"id": "B", "text": "Hoarseness or voice changes"},
+      {"id": "C", "text": "Facial numbness"},
+      {"id": "D", "text": "Hearing loss"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The recurrent laryngeal nerve innervates most of the intrinsic muscles of the larynx that control the vocal cords. Damage during thyroid surgery results in hoarseness or voice changes due to vocal cord paralysis. Bilateral injury can cause airway obstruction. This nerve is a branch of the vagus nerve (CN X).",
+    "cptCode": "60220"
+  },
+  {
+    "id": 56,
+    "section": "anatomy",
+    "subsection": "Lymphatic",
+    "scenario": "A surgeon performs a sentinel lymph node biopsy for breast cancer. The operative note describes injecting dye to identify the first draining lymph node.",
+    "questionText": "The axillary lymph nodes are the primary drainage site for which body region?",
+    "answers": [
+      {"id": "A", "text": "Head and neck"},
+      {"id": "B", "text": "Upper extremity and breast"},
+      {"id": "C", "text": "Lower extremity"},
+      {"id": "D", "text": "Abdominal organs"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The axillary lymph nodes are the primary lymphatic drainage site for the upper extremity, breast, and lateral chest wall. Breast cancer most commonly metastasizes to the axillary lymph nodes first. The cervical lymph nodes drain the head and neck. The inguinal lymph nodes drain the lower extremity.",
+    "cptCode": "38525"
+  },
+  {
+    "id": 57,
+    "section": "anatomy",
+    "subsection": "Lymphatic",
+    "scenario": "A patient with Hodgkin lymphoma undergoes a PET scan showing enlarged mediastinal lymph nodes. The oncologist discusses the lymphatic system and its role in the disease.",
+    "questionText": "The thoracic duct drains lymph into which vessel?",
+    "answers": [
+      {"id": "A", "text": "Right subclavian vein"},
+      {"id": "B", "text": "Junction of the left subclavian and left internal jugular veins"},
+      {"id": "C", "text": "Superior vena cava"},
+      {"id": "D", "text": "Inferior vena cava"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The thoracic duct is the largest lymphatic vessel and drains lymph from the entire body below the diaphragm and the left side of the body above the diaphragm. It empties into the venous system at the junction of the left subclavian vein and left internal jugular vein (left venous angle). The right lymphatic duct drains the right upper body.",
+    "cptCode": "38794"
+  },
+  {
+    "id": 58,
+    "section": "anatomy",
+    "subsection": "Lymphatic",
+    "scenario": "A surgeon performs a splenectomy for traumatic splenic rupture. The operative note describes the spleen's location and vascular supply.",
+    "questionText": "The spleen is located in which abdominal quadrant?",
+    "answers": [
+      {"id": "A", "text": "Right upper quadrant"},
+      {"id": "B", "text": "Left upper quadrant"},
+      {"id": "C", "text": "Right lower quadrant"},
+      {"id": "D", "text": "Left lower quadrant"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The spleen is located in the left upper quadrant (LUQ) of the abdomen, posterior to the stomach and just below the diaphragm, protected by ribs 9-11. The liver is in the right upper quadrant. The appendix is in the right lower quadrant. The spleen filters blood and is part of the lymphatic/immune system.",
+    "cptCode": "38100"
+  },
+  {
+    "id": 59,
+    "section": "anatomy",
+    "subsection": "Lymphatic",
+    "scenario": "A head and neck surgeon performs a modified radical neck dissection for squamous cell carcinoma. The operative note describes removing lymph node levels I through V.",
+    "questionText": "The tonsils are part of which ring of lymphoid tissue in the pharynx?",
+    "answers": [
+      {"id": "A", "text": "Ring of Waldeyer"},
+      {"id": "B", "text": "Ring of Schatzki"},
+      {"id": "C", "text": "Circle of Willis"},
+      {"id": "D", "text": "Ring of Vieussens"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "Waldeyer's ring is a ring of lymphoid tissue in the pharynx consisting of the palatine tonsils, pharyngeal tonsil (adenoids), lingual tonsils, and tubal tonsils. It serves as the first line of immune defense against inhaled or ingested pathogens. Schatzki's ring is a mucosal ring in the lower esophagus. The Circle of Willis is the arterial circle at the base of the brain.",
+    "cptCode": "38720"
+  },
+  {
+    "id": 60,
+    "section": "anatomy",
+    "subsection": "Lymphatic",
+    "scenario": "A patient undergoes an inguinal lymph node dissection for metastatic melanoma from a primary lesion on the lower leg.",
+    "questionText": "The inguinal lymph nodes are located in which anatomical region?",
+    "answers": [
+      {"id": "A", "text": "Axilla (armpit)"},
+      {"id": "B", "text": "Neck"},
+      {"id": "C", "text": "Groin"},
+      {"id": "D", "text": "Popliteal fossa (behind the knee)"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The inguinal lymph nodes are located in the groin region and are the primary drainage site for the lower extremity, perineum, and lower abdominal wall. Superficial inguinal nodes lie below the inguinal ligament. Deep inguinal nodes lie medial to the femoral vein. Melanoma of the lower extremity typically metastasizes to inguinal nodes first.",
+    "cptCode": "38760"
+  },
+  {
+    "id": 61,
+    "section": "anatomy",
+    "subsection": "Sensory Organs",
+    "scenario": "An ophthalmologist performs cataract surgery with intraocular lens implantation. The operative note describes removing the clouded natural lens.",
+    "questionText": "The lens of the eye is located immediately behind which structure?",
+    "answers": [
+      {"id": "A", "text": "Cornea"},
+      {"id": "B", "text": "Iris"},
+      {"id": "C", "text": "Retina"},
+      {"id": "D", "text": "Sclera"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The lens of the eye is located immediately behind the iris (the colored part of the eye) and the pupil (the opening in the iris). Light passes through the cornea, aqueous humor, pupil, and then the lens before reaching the vitreous humor and retina. The sclera is the white outer coat of the eye.",
+    "cptCode": "66984"
+  },
+  {
+    "id": 62,
+    "section": "anatomy",
+    "subsection": "Sensory Organs",
+    "scenario": "A patient undergoes a vitrectomy for retinal detachment repair. The surgeon documents removing the vitreous humor and using laser to reattach the retina.",
+    "questionText": "The retina contains photoreceptor cells. What are the two types of photoreceptors?",
+    "answers": [
+      {"id": "A", "text": "Rods and cones"},
+      {"id": "B", "text": "Bipolar and ganglion cells"},
+      {"id": "C", "text": "Corneal and scleral cells"},
+      {"id": "D", "text": "Aqueous and vitreous cells"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The retina contains two types of photoreceptors: rods (responsible for dim-light and peripheral vision, ~120 million) and cones (responsible for color vision and visual acuity, ~6 million concentrated in the macula). Bipolar and ganglion cells are other retinal neurons that process and transmit visual signals to the brain via the optic nerve.",
+    "cptCode": "67108"
+  },
+  {
+    "id": 63,
+    "section": "anatomy",
+    "subsection": "Sensory Organs",
+    "scenario": "An ENT surgeon performs a tympanoplasty to repair a perforated tympanic membrane. The operative note describes the middle ear structures.",
+    "questionText": "The three ossicles of the middle ear are, in order from the tympanic membrane to the oval window:",
+    "answers": [
+      {"id": "A", "text": "Malleus, incus, stapes"},
+      {"id": "B", "text": "Incus, malleus, stapes"},
+      {"id": "C", "text": "Stapes, incus, malleus"},
+      {"id": "D", "text": "Malleus, stapes, incus"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The three ossicles of the middle ear, from lateral to medial, are the malleus (hammer, attached to the tympanic membrane), incus (anvil), and stapes (stirrup, attached to the oval window). They form a chain that transmits and amplifies sound vibrations from the tympanic membrane to the inner ear.",
+    "cptCode": "69631"
+  },
+  {
+    "id": 64,
+    "section": "anatomy",
+    "subsection": "Sensory Organs",
+    "scenario": "A patient undergoes cochlear implant surgery. The surgeon documents placing the electrode array into the cochlea of the inner ear.",
+    "questionText": "The cochlea is the organ of hearing located in which part of the ear?",
+    "answers": [
+      {"id": "A", "text": "External ear"},
+      {"id": "B", "text": "Middle ear"},
+      {"id": "C", "text": "Inner ear"},
+      {"id": "D", "text": "Eustachian tube"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The cochlea is a spiral-shaped, fluid-filled structure in the inner ear that converts sound vibrations into nerve impulses. The inner ear also contains the vestibular apparatus (semicircular canals and vestibule) for balance. The middle ear contains the ossicles. The external ear includes the pinna and ear canal.",
+    "cptCode": "69930"
+  },
+  {
+    "id": 65,
+    "section": "anatomy",
+    "subsection": "Sensory Organs",
+    "scenario": "An ophthalmologist diagnoses a patient with glaucoma. The physician explains that increased intraocular pressure is damaging the optic nerve.",
+    "questionText": "Aqueous humor is produced by which structure in the eye?",
+    "answers": [
+      {"id": "A", "text": "Retina"},
+      {"id": "B", "text": "Ciliary body"},
+      {"id": "C", "text": "Lens"},
+      {"id": "D", "text": "Choroid"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Aqueous humor is produced by the ciliary body and fills the anterior and posterior chambers of the eye. It drains through the trabecular meshwork into the canal of Schlemm. In glaucoma, impaired drainage leads to increased intraocular pressure. The ciliary body also controls lens shape for accommodation.",
+    "cptCode": "66170"
+  },
+  {
+    "id": 66,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A patient undergoes a cardiac MRI. The report describes the pericardium surrounding the heart.",
+    "questionText": "The pericardium consists of which two layers?",
+    "answers": [
+      {"id": "A", "text": "Endocardium and myocardium"},
+      {"id": "B", "text": "Fibrous pericardium and serous pericardium"},
+      {"id": "C", "text": "Visceral and parietal peritoneum"},
+      {"id": "D", "text": "Epicardium and endocardium"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The pericardium has two main layers: the fibrous pericardium (tough outer layer) and the serous pericardium (which has visceral and parietal layers). The visceral layer of the serous pericardium is also called the epicardium. The pericardial cavity between the visceral and parietal layers contains a small amount of fluid. The endocardium lines the heart chambers, and the myocardium is the heart muscle.",
+    "cptCode": "93306"
+  },
+  {
+    "id": 67,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient undergoes a total knee arthroplasty. The surgeon documents resurfacing the femoral condyles and tibial plateau.",
+    "questionText": "The patella is classified as which type of bone?",
+    "answers": [
+      {"id": "A", "text": "Long bone"},
+      {"id": "B", "text": "Short bone"},
+      {"id": "C", "text": "Flat bone"},
+      {"id": "D", "text": "Sesamoid bone"}
+    ],
+    "correctAnswerId": "D",
+    "explanation": "The patella (kneecap) is the largest sesamoid bone in the body. Sesamoid bones are embedded within tendons and protect the tendon from compressive forces. The patella is embedded in the quadriceps tendon. Long bones include the femur and humerus. Short bones include the carpals and tarsals. Flat bones include the sternum and skull bones.",
+    "cptCode": "27447"
+  },
+  {
+    "id": 68,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "An orthopedic surgeon treats a patient with a clavicle fracture. The X-ray shows a displaced midshaft fracture.",
+    "questionText": "The clavicle articulates with which two bones?",
+    "answers": [
+      {"id": "A", "text": "Scapula and humerus"},
+      {"id": "B", "text": "Sternum and scapula"},
+      {"id": "C", "text": "Sternum and humerus"},
+      {"id": "D", "text": "First rib and scapula"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The clavicle (collarbone) articulates medially with the sternum at the sternoclavicular joint and laterally with the acromion of the scapula at the acromioclavicular (AC) joint. It is the only bony connection between the upper extremity and the axial skeleton. The humerus articulates with the scapula at the glenohumeral joint.",
+    "cptCode": "23515"
+  },
+  {
+    "id": 69,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A surgeon performs a Nissen fundoplication for gastroesophageal reflux disease. The operative note describes wrapping the gastric fundus around the lower esophagus.",
+    "questionText": "The lower esophageal sphincter is located at the junction of which two structures?",
+    "answers": [
+      {"id": "A", "text": "Pharynx and esophagus"},
+      {"id": "B", "text": "Esophagus and stomach"},
+      {"id": "C", "text": "Stomach and duodenum"},
+      {"id": "D", "text": "Esophagus and trachea"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The lower esophageal sphincter (LES), also called the cardiac sphincter or gastroesophageal sphincter, is located at the junction of the esophagus and stomach (gastroesophageal junction). It prevents reflux of gastric contents into the esophagus. The upper esophageal sphincter is at the pharynx-esophagus junction. The pyloric sphincter is between the stomach and duodenum.",
+    "cptCode": "43280"
+  },
+  {
+    "id": 70,
+    "section": "anatomy",
+    "subsection": "Nervous System",
+    "scenario": "A neurosurgeon performs a craniotomy to clip a cerebral aneurysm. The operative note describes the aneurysm located at the junction of the anterior communicating artery.",
+    "questionText": "The Circle of Willis is an arterial anastomosis located at the base of the brain. Which of the following is NOT a component?",
+    "answers": [
+      {"id": "A", "text": "Anterior communicating artery"},
+      {"id": "B", "text": "Posterior communicating artery"},
+      {"id": "C", "text": "Middle cerebral artery"},
+      {"id": "D", "text": "Internal carotid artery"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The Circle of Willis consists of the anterior communicating artery, both anterior cerebral arteries, both internal carotid arteries, both posterior communicating arteries, and both posterior cerebral arteries. The middle cerebral artery is a branch of the internal carotid artery but is NOT part of the Circle of Willis itself. It is the most common site of stroke.",
+    "cptCode": "61700"
+  },
+  {
+    "id": 71,
+    "section": "anatomy",
+    "subsection": "Nervous System",
+    "scenario": "A patient undergoes an electromyography (EMG) study of the upper extremity. The neurologist documents testing the muscles innervated by the brachial plexus.",
+    "questionText": "The brachial plexus is formed from the ventral rami of which spinal nerve roots?",
+    "answers": [
+      {"id": "A", "text": "C1-C4"},
+      {"id": "B", "text": "C5-T1"},
+      {"id": "C", "text": "T1-T6"},
+      {"id": "D", "text": "L1-L5"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The brachial plexus is formed from the ventral rami of spinal nerves C5-T1. It provides motor and sensory innervation to the entire upper extremity. C1-C4 form the cervical plexus. L1-L5 contribute to the lumbar plexus. The brachial plexus has roots, trunks, divisions, cords, and terminal branches.",
+    "cptCode": "95907"
+  },
+  {
+    "id": 72,
+    "section": "anatomy",
+    "subsection": "Urinary",
+    "scenario": "A patient undergoes a kidney ultrasound. The radiologist documents the normal anatomical structures of the kidney.",
+    "questionText": "The functional unit of the kidney is called the:",
+    "answers": [
+      {"id": "A", "text": "Glomerulus"},
+      {"id": "B", "text": "Nephron"},
+      {"id": "C", "text": "Renal pelvis"},
+      {"id": "D", "text": "Collecting duct"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The nephron is the functional unit of the kidney, responsible for filtering blood and producing urine. Each kidney contains approximately 1 million nephrons. A nephron consists of the glomerulus (filtering unit), Bowman's capsule, proximal convoluted tubule, loop of Henle, distal convoluted tubule, and collecting duct.",
+    "cptCode": "76770"
+  },
+  {
+    "id": 73,
+    "section": "anatomy",
+    "subsection": "Reproductive",
+    "scenario": "A patient undergoes a bilateral salpingo-oophorectomy. The surgeon documents removing both fallopian tubes and ovaries.",
+    "questionText": "Fertilization of the ovum by sperm normally occurs in which structure?",
+    "answers": [
+      {"id": "A", "text": "Uterus"},
+      {"id": "B", "text": "Ovary"},
+      {"id": "C", "text": "Fallopian tube (ampulla)"},
+      {"id": "D", "text": "Cervix"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "Fertilization normally occurs in the ampulla of the fallopian tube (uterine tube), which is the widest and longest portion of the tube. After fertilization, the zygote travels through the tube to the uterus for implantation. Ectopic pregnancies occur when the fertilized egg implants outside the uterus, most commonly in the fallopian tube.",
+    "cptCode": "58661"
+  },
+  {
+    "id": 74,
+    "section": "anatomy",
+    "subsection": "Integumentary",
+    "scenario": "A dermatologist performs a punch biopsy of a suspicious skin lesion. The pathology report describes the layers of the skin.",
+    "questionText": "Which layer of the epidermis is the deepest and contains actively dividing cells?",
+    "answers": [
+      {"id": "A", "text": "Stratum corneum"},
+      {"id": "B", "text": "Stratum granulosum"},
+      {"id": "C", "text": "Stratum basale"},
+      {"id": "D", "text": "Stratum lucidum"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The stratum basale (stratum germinativum) is the deepest layer of the epidermis, resting on the basement membrane. It contains actively dividing stem cells (keratinocytes) and melanocytes. New cells are pushed upward as they mature through the stratum spinosum, granulosum, lucidum (in thick skin), and corneum (outermost dead cells).",
+    "cptCode": "11104"
+  },
+  {
+    "id": 75,
+    "section": "anatomy",
+    "subsection": "Endocrine",
+    "scenario": "A patient with Graves' disease undergoes a thyroid uptake scan. The endocrinologist discusses the thyroid gland's anatomy and function.",
+    "questionText": "The thyroid gland is located anterior to which structure in the neck?",
+    "answers": [
+      {"id": "A", "text": "Esophagus"},
+      {"id": "B", "text": "Trachea"},
+      {"id": "C", "text": "Carotid artery"},
+      {"id": "D", "text": "Spinal cord"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The thyroid gland is a butterfly-shaped endocrine gland located anterior to the trachea in the lower neck, at approximately the level of C5-T1 vertebrae. It has two lobes connected by an isthmus. The esophagus is posterior to the trachea. The carotid arteries are lateral to the thyroid. The thyroid produces T3, T4, and calcitonin.",
+    "cptCode": "78014"
+  },
+  {
+    "id": 76,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A patient undergoes an echocardiogram. The cardiologist documents the thickness of the interventricular septum and the left ventricular wall.",
+    "questionText": "The interventricular septum separates which two chambers of the heart?",
+    "answers": [
+      {"id": "A", "text": "Right atrium and left atrium"},
+      {"id": "B", "text": "Right ventricle and left ventricle"},
+      {"id": "C", "text": "Right atrium and right ventricle"},
+      {"id": "D", "text": "Left atrium and left ventricle"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The interventricular septum separates the right and left ventricles. The interatrial septum separates the right and left atria. A ventricular septal defect (VSD) is a hole in the interventricular septum and is the most common congenital heart defect. The tricuspid valve separates the right atrium from the right ventricle.",
+    "cptCode": "93306"
+  },
+  {
+    "id": 77,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient with a herniated disc at C5-C6 presents with weakness in the biceps and decreased sensation in the lateral forearm.",
+    "questionText": "The C5-C6 nerve roots primarily innervate which muscle?",
+    "answers": [
+      {"id": "A", "text": "Triceps brachii"},
+      {"id": "B", "text": "Biceps brachii"},
+      {"id": "C", "text": "Deltoid"},
+      {"id": "D", "text": "Hand intrinsic muscles"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The biceps brachii is primarily innervated by the musculocutaneous nerve, which arises from C5-C6 nerve roots. A herniated disc at C5-C6 compresses the C6 nerve root, causing biceps weakness and decreased biceps reflex. The triceps is innervated by C7 (radial nerve). Hand intrinsic muscles are innervated by C8-T1.",
+    "cptCode": "63075"
+  },
+  {
+    "id": 78,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient sustains a fracture of the surgical neck of the humerus. The orthopedic surgeon is concerned about nerve injury.",
+    "questionText": "Which nerve is most at risk with a fracture of the surgical neck of the humerus?",
+    "answers": [
+      {"id": "A", "text": "Radial nerve"},
+      {"id": "B", "text": "Ulnar nerve"},
+      {"id": "C", "text": "Axillary nerve"},
+      {"id": "D", "text": "Median nerve"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The axillary nerve wraps around the surgical neck of the humerus and is most at risk with fractures at this location. Damage causes weakness of the deltoid muscle (inability to abduct the arm) and loss of sensation over the lateral shoulder (regimental badge area). The radial nerve is at risk with midshaft humerus fractures.",
+    "cptCode": "23615"
+  },
+  {
+    "id": 79,
+    "section": "anatomy",
+    "subsection": "Respiratory",
+    "scenario": "A patient undergoes a pulmonary function test. The pulmonologist explains the mechanics of breathing and the role of the diaphragm.",
+    "questionText": "The diaphragm is innervated by which nerve?",
+    "answers": [
+      {"id": "A", "text": "Vagus nerve"},
+      {"id": "B", "text": "Phrenic nerve"},
+      {"id": "C", "text": "Intercostal nerves"},
+      {"id": "D", "text": "Long thoracic nerve"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The diaphragm is innervated by the phrenic nerve, which arises from C3, C4, and C5 nerve roots (mnemonic: C3, 4, 5 keeps the diaphragm alive). The phrenic nerve is the sole motor nerve to the diaphragm. The intercostal nerves innervate the intercostal muscles. The vagus nerve innervates abdominal organs. The long thoracic nerve innervates the serratus anterior.",
+    "cptCode": "94010"
+  },
+  {
+    "id": 80,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A patient undergoes a barium swallow study. The radiologist documents the normal anatomy of the esophagus and its relationship to surrounding structures.",
+    "questionText": "The esophagus passes through the diaphragm at which opening?",
+    "answers": [
+      {"id": "A", "text": "Aortic hiatus"},
+      {"id": "B", "text": "Caval opening"},
+      {"id": "C", "text": "Esophageal hiatus"},
+      {"id": "D", "text": "Foramen of Morgagni"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The esophagus passes through the diaphragm at the esophageal hiatus, located at approximately the T10 vertebral level. The aortic hiatus (T12) transmits the aorta and thoracic duct. The caval opening (T8) transmits the inferior vena cava. A hiatal hernia occurs when the stomach herniates through the esophageal hiatus.",
+    "cptCode": "74220"
+  },
+  {
+    "id": 81,
+    "section": "anatomy",
+    "subsection": "Nervous System",
+    "scenario": "A patient undergoes a lumbar puncture to collect cerebrospinal fluid. The physician inserts the needle between L3 and L4.",
+    "questionText": "During a lumbar puncture, the needle passes through which layers before reaching the subarachnoid space?",
+    "answers": [
+      {"id": "A", "text": "Skin, subcutaneous tissue, ligamentum flavum, epidural space, dura mater, arachnoid mater"},
+      {"id": "B", "text": "Skin, muscle, bone, spinal cord"},
+      {"id": "C", "text": "Skin, subcutaneous tissue, dura mater only"},
+      {"id": "D", "text": "Skin, periosteum, epidural space, pia mater"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "During a lumbar puncture, the needle passes through: skin, subcutaneous tissue, supraspinous ligament, interspinous ligament, ligamentum flavum, epidural space, dura mater, and arachnoid mater to reach the subarachnoid space containing CSF. The procedure is done below L2 to avoid the spinal cord (which ends at L1-L2).",
+    "cptCode": "62270"
+  },
+  {
+    "id": 82,
+    "section": "anatomy",
+    "subsection": "Nervous System",
+    "scenario": "A neurologist evaluates a patient with suspected multiple sclerosis. The MRI shows demyelinating lesions in the brain and spinal cord.",
+    "questionText": "Myelin in the central nervous system is produced by which type of cell?",
+    "answers": [
+      {"id": "A", "text": "Schwann cells"},
+      {"id": "B", "text": "Oligodendrocytes"},
+      {"id": "C", "text": "Astrocytes"},
+      {"id": "D", "text": "Microglia"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Oligodendrocytes produce myelin in the central nervous system (brain and spinal cord). Schwann cells produce myelin in the peripheral nervous system. Astrocytes provide structural support and maintain the blood-brain barrier. Microglia are the immune cells of the CNS. Multiple sclerosis involves destruction of CNS myelin.",
+    "cptCode": "70553"
+  },
+  {
+    "id": 83,
+    "section": "anatomy",
+    "subsection": "Urinary",
+    "scenario": "A patient undergoes a cystoscopy for evaluation of hematuria. The urologist documents the normal anatomy of the bladder trigone.",
+    "questionText": "The trigone of the bladder is defined by which three openings?",
+    "answers": [
+      {"id": "A", "text": "Two ureteral orifices and the internal urethral orifice"},
+      {"id": "B", "text": "Two ureteral orifices and the external urethral orifice"},
+      {"id": "C", "text": "Internal urethral orifice and two urethral gland openings"},
+      {"id": "D", "text": "Two ureteral orifices and the urachus"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The trigone is a smooth triangular area on the internal surface of the bladder, defined by the two ureteral orifices (where the ureters enter the bladder) and the internal urethral orifice (where the urethra exits the bladder). The trigone is clinically significant as it is a common site for bladder infections and tumors.",
+    "cptCode": "52000"
+  },
+  {
+    "id": 84,
+    "section": "anatomy",
+    "subsection": "Reproductive",
+    "scenario": "A urologist performs a vasectomy. The operative note describes isolating and dividing the vas deferens bilaterally.",
+    "questionText": "The vas deferens carries sperm from the epididymis to which structure?",
+    "answers": [
+      {"id": "A", "text": "Prostate gland"},
+      {"id": "B", "text": "Ejaculatory duct"},
+      {"id": "C", "text": "Urethra"},
+      {"id": "D", "text": "Seminal vesicle"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The vas deferens (ductus deferens) carries sperm from the epididymis through the inguinal canal to the ejaculatory duct. The ejaculatory duct is formed by the union of the vas deferens and the duct of the seminal vesicle. It passes through the prostate and opens into the prostatic urethra.",
+    "cptCode": "55250"
+  },
+  {
+    "id": 85,
+    "section": "anatomy",
+    "subsection": "Integumentary",
+    "scenario": "A plastic surgeon performs a Mohs micrographic surgery for a recurrent basal cell carcinoma on the face. The surgeon discusses the importance of skin tension lines.",
+    "questionText": "Which of the following is a function of the dermis?",
+    "answers": [
+      {"id": "A", "text": "Protection from UV radiation"},
+      {"id": "B", "text": "Providing structural strength and elasticity"},
+      {"id": "C", "text": "Producing keratin"},
+      {"id": "D", "text": "Preventing water loss"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The dermis provides structural strength and elasticity to the skin through its collagen and elastin fibers. It also contains blood vessels, nerves, hair follicles, and sweat glands. The epidermis provides protection from UV radiation (via melanocytes), produces keratin, and prevents water loss. The dermis is divided into the papillary and reticular layers.",
+    "cptCode": "17311"
+  },
+  {
+    "id": 86,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A patient undergoes a peripheral arterial angiogram. The interventional radiologist documents the arterial anatomy of the lower extremity.",
+    "questionText": "The femoral artery is a continuation of which vessel?",
+    "answers": [
+      {"id": "A", "text": "Internal iliac artery"},
+      {"id": "B", "text": "External iliac artery"},
+      {"id": "C", "text": "Common iliac artery"},
+      {"id": "D", "text": "Abdominal aorta"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The femoral artery is the continuation of the external iliac artery after it passes beneath the inguinal ligament. The common iliac artery divides into the internal iliac (supplying pelvic organs) and external iliac arteries. The femoral artery is the main blood supply to the lower extremity and is commonly used for arterial access in catheterization procedures.",
+    "cptCode": "36247"
+  },
+  {
+    "id": 87,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient undergoes an MRI of the shoulder. The radiologist documents the glenoid labrum and the biceps tendon anchor.",
+    "questionText": "The glenoid fossa is part of which bone?",
+    "answers": [
+      {"id": "A", "text": "Humerus"},
+      {"id": "B", "text": "Clavicle"},
+      {"id": "C", "text": "Scapula"},
+      {"id": "D", "text": "Sternum"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The glenoid fossa (glenoid cavity) is the shallow socket on the lateral aspect of the scapula that articulates with the head of the humerus to form the glenohumeral (shoulder) joint. The glenoid labrum is a fibrocartilaginous rim that deepens the socket. SLAP tears involve the superior labrum where the biceps tendon attaches.",
+    "cptCode": "73221"
+  },
+  {
+    "id": 88,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A patient undergoes a colonoscopy. The gastroenterologist documents the hepatic flexure and splenic flexure of the colon.",
+    "questionText": "The hepatic flexure of the colon is located near which organ?",
+    "answers": [
+      {"id": "A", "text": "Spleen"},
+      {"id": "B", "text": "Liver"},
+      {"id": "C", "text": "Stomach"},
+      {"id": "D", "text": "Pancreas"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The hepatic flexure (right colic flexure) is the bend between the ascending colon and transverse colon, located near the liver (hepatic = relating to the liver) in the right upper quadrant. The splenic flexure (left colic flexure) is the bend between the transverse colon and descending colon, located near the spleen in the left upper quadrant.",
+    "cptCode": "45378"
+  },
+  {
+    "id": 89,
+    "section": "anatomy",
+    "subsection": "Endocrine",
+    "scenario": "A patient undergoes a parathyroidectomy for primary hyperparathyroidism. The surgeon documents an enlarged parathyroid gland.",
+    "questionText": "Parathyroid hormone (PTH) primarily regulates the blood level of which electrolyte?",
+    "answers": [
+      {"id": "A", "text": "Sodium"},
+      {"id": "B", "text": "Potassium"},
+      {"id": "C", "text": "Calcium"},
+      {"id": "D", "text": "Magnesium"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "Parathyroid hormone (PTH) primarily regulates blood calcium levels. It increases calcium by stimulating bone resorption, increasing renal calcium reabsorption, and promoting vitamin D activation (which increases intestinal calcium absorption). Hyperparathyroidism causes hypercalcemia. Calcitonin from the thyroid gland has the opposite effect, lowering calcium.",
+    "cptCode": "60500"
+  },
+  {
+    "id": 90,
+    "section": "anatomy",
+    "subsection": "Sensory Organs",
+    "scenario": "An ophthalmologist performs a scleral buckle procedure for retinal detachment. The operative note describes the layers of the eye wall.",
+    "questionText": "The three layers of the eye wall, from outermost to innermost, are:",
+    "answers": [
+      {"id": "A", "text": "Retina, choroid, sclera"},
+      {"id": "B", "text": "Sclera, choroid, retina"},
+      {"id": "C", "text": "Cornea, iris, lens"},
+      {"id": "D", "text": "Choroid, sclera, retina"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The three layers of the eye wall from outermost to innermost are: the fibrous layer (sclera and cornea), the vascular layer or uvea (choroid, ciliary body, and iris), and the neural layer (retina). The sclera is the tough white outer coat. The choroid provides blood supply. The retina contains photoreceptors for vision.",
+    "cptCode": "67107"
+  },
+  {
+    "id": 91,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A cardiologist performs a right heart catheterization. The catheter is advanced from the femoral vein through the inferior vena cava into the right heart chambers.",
+    "questionText": "During right heart catheterization, after the right ventricle, the catheter enters which vessel?",
+    "answers": [
+      {"id": "A", "text": "Aorta"},
+      {"id": "B", "text": "Pulmonary artery"},
+      {"id": "C", "text": "Pulmonary vein"},
+      {"id": "D", "text": "Superior vena cava"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "From the right ventricle, blood (and the catheter) passes through the pulmonic valve into the pulmonary artery, which carries deoxygenated blood to the lungs. The pulmonary artery is unique in that it carries deoxygenated blood (unlike other arteries). The pulmonary veins return oxygenated blood from the lungs to the left atrium.",
+    "cptCode": "93451"
+  },
+  {
+    "id": 92,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient undergoes surgical repair of an Achilles tendon rupture. The surgeon documents the tendon's attachment to the calcaneus.",
+    "questionText": "The Achilles tendon is the combined tendon of which muscles?",
+    "answers": [
+      {"id": "A", "text": "Tibialis anterior and tibialis posterior"},
+      {"id": "B", "text": "Gastrocnemius and soleus"},
+      {"id": "C", "text": "Quadriceps femoris"},
+      {"id": "D", "text": "Hamstrings"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The Achilles tendon (calcaneal tendon) is the combined tendon of the gastrocnemius and soleus muscles, collectively known as the triceps surae. It is the strongest and thickest tendon in the body, inserting on the posterior calcaneus. It is essential for plantarflexion of the foot (pushing off during walking).",
+    "cptCode": "27650"
+  },
+  {
+    "id": 93,
+    "section": "anatomy",
+    "subsection": "Respiratory",
+    "scenario": "A patient undergoes a chest X-ray. The radiologist documents the normal position of the diaphragm and the costophrenic angles.",
+    "questionText": "The diaphragm separates which two body cavities?",
+    "answers": [
+      {"id": "A", "text": "Thoracic and abdominal cavities"},
+      {"id": "B", "text": "Abdominal and pelvic cavities"},
+      {"id": "C", "text": "Cranial and spinal cavities"},
+      {"id": "D", "text": "Thoracic and pelvic cavities"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The diaphragm is a dome-shaped muscular partition that separates the thoracic cavity (containing the heart and lungs) from the abdominal cavity (containing the GI organs). It is the primary muscle of respiration. When it contracts, it flattens and increases thoracic volume, creating negative pressure that draws air into the lungs.",
+    "cptCode": "71046"
+  },
+  {
+    "id": 94,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A surgeon performs a total colectomy with ileal pouch-anal anastomosis for ulcerative colitis. The operative note describes the anatomy of the large intestine.",
+    "questionText": "Which of the following is NOT a segment of the large intestine?",
+    "answers": [
+      {"id": "A", "text": "Cecum"},
+      {"id": "B", "text": "Jejunum"},
+      {"id": "C", "text": "Ascending colon"},
+      {"id": "D", "text": "Sigmoid colon"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The jejunum is part of the small intestine, not the large intestine. The large intestine consists of the cecum, ascending colon, transverse colon, descending colon, sigmoid colon, rectum, and anal canal. The appendix is attached to the cecum. The large intestine absorbs water and electrolytes and forms feces.",
+    "cptCode": "44210"
+  },
+  {
+    "id": 95,
+    "section": "anatomy",
+    "subsection": "Nervous System",
+    "scenario": "A patient undergoes a nerve conduction study of the upper extremity. The neurologist documents testing the ulnar nerve at the elbow.",
+    "questionText": "The ulnar nerve passes behind which bony landmark at the elbow, commonly known as the 'funny bone'?",
+    "answers": [
+      {"id": "A", "text": "Lateral epicondyle"},
+      {"id": "B", "text": "Olecranon process"},
+      {"id": "C", "text": "Medial epicondyle"},
+      {"id": "D", "text": "Radial head"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The ulnar nerve passes behind the medial epicondyle of the humerus in the cubital tunnel. This superficial location makes it vulnerable to compression (cubital tunnel syndrome) and trauma, producing the 'funny bone' sensation. The lateral epicondyle is the site of the common extensor tendon origin (tennis elbow). The olecranon is the tip of the elbow.",
+    "cptCode": "95907"
+  },
+  {
+    "id": 96,
+    "section": "anatomy",
+    "subsection": "Urinary",
+    "scenario": "A urologist performs a ureteroscopy to remove a kidney stone. The operative note describes advancing the scope through the urethra, bladder, and into the ureter.",
+    "questionText": "The ureters are approximately how long in adults?",
+    "answers": [
+      {"id": "A", "text": "5-10 cm"},
+      {"id": "B", "text": "10-15 cm"},
+      {"id": "C", "text": "25-30 cm"},
+      {"id": "D", "text": "40-50 cm"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The ureters are approximately 25-30 cm (10-12 inches) long in adults. They are retroperitoneal muscular tubes that transport urine from the renal pelvis to the bladder via peristalsis. There are three natural narrowing points where stones commonly lodge: the ureteropelvic junction, the crossing of the iliac vessels, and the ureterovesical junction.",
+    "cptCode": "52352"
+  },
+  {
+    "id": 97,
+    "section": "anatomy",
+    "subsection": "Reproductive",
+    "scenario": "A patient undergoes a radical prostatectomy for prostate cancer. The surgeon documents the neurovascular bundles adjacent to the prostate.",
+    "questionText": "The prostate gland is located immediately inferior to which structure?",
+    "answers": [
+      {"id": "A", "text": "Urinary bladder"},
+      {"id": "B", "text": "Rectum"},
+      {"id": "C", "text": "Seminal vesicles"},
+      {"id": "D", "text": "Urethra"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The prostate gland is located immediately inferior to (below) the urinary bladder, surrounding the prostatic urethra. It sits anterior to the rectum (which allows digital rectal examination) and inferior to the bladder neck. The seminal vesicles are posterior to the bladder and superior to the prostate.",
+    "cptCode": "55840"
+  },
+  {
+    "id": 98,
+    "section": "anatomy",
+    "subsection": "Lymphatic",
+    "scenario": "A patient with chronic lymphedema of the arm undergoes lymphoscintigraphy. The nuclear medicine physician explains the lymphatic drainage patterns.",
+    "questionText": "Unlike veins, lymphatic vessels have which characteristic?",
+    "answers": [
+      {"id": "A", "text": "They carry oxygenated fluid"},
+      {"id": "B", "text": "They have no valves"},
+      {"id": "C", "text": "They pass through lymph nodes for filtration"},
+      {"id": "D", "text": "They connect directly to arteries"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "A unique characteristic of lymphatic vessels is that lymph passes through lymph nodes for filtration and immune surveillance before returning to the venous system. Lymphatic vessels do have valves (similar to veins) to prevent backflow. They carry lymph (interstitial fluid), not oxygenated blood, and they do not connect to arteries.",
+    "cptCode": "78195"
+  },
+  {
+    "id": 99,
+    "section": "anatomy",
+    "subsection": "Integumentary",
+    "scenario": "A burn patient is evaluated in the emergency department. The physician uses the rule of nines to estimate the total body surface area burned.",
+    "questionText": "According to the rule of nines in adults, each upper extremity represents what percentage of total body surface area?",
+    "answers": [
+      {"id": "A", "text": "4.5%"},
+      {"id": "B", "text": "9%"},
+      {"id": "C", "text": "18%"},
+      {"id": "D", "text": "1%"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "According to the rule of nines, each upper extremity represents 9% of total body surface area (TBSA). The head is 9%, each lower extremity is 18%, the anterior trunk is 18%, the posterior trunk is 18%, and the perineum is 1%. This estimation is used to calculate fluid resuscitation needs in burn patients.",
+    "cptCode": "16020"
+  },
+  {
+    "id": 100,
+    "section": "anatomy",
+    "subsection": "Sensory Organs",
+    "scenario": "An ENT surgeon performs a septoplasty to correct a deviated nasal septum. The operative note describes the cartilaginous and bony components of the septum.",
+    "questionText": "The nasal septum is formed by which two main structures?",
+    "answers": [
+      {"id": "A", "text": "Ethmoid bone perpendicular plate and vomer"},
+      {"id": "B", "text": "Maxilla and palatine bone"},
+      {"id": "C", "text": "Nasal bones and frontal bone"},
+      {"id": "D", "text": "Sphenoid bone and temporal bone"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The nasal septum is formed primarily by two structures: the perpendicular plate of the ethmoid bone (superiorly) and the vomer (inferiorly and posteriorly). The anterior portion is formed by the septal cartilage (quadrangular cartilage). The maxillary crest and palatine bone contribute to the inferior border. A deviated septum can obstruct airflow and cause breathing difficulties.",
+    "cptCode": "30520"
+  },
+  {
+    "id": 101,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A patient undergoes a transvenous endomyocardial biopsy. The cardiologist advances a bioptome through the internal jugular vein into the right ventricle.",
+    "questionText": "The internal jugular vein drains into which vessel?",
+    "answers": [
+      {"id": "A", "text": "Subclavian vein"},
+      {"id": "B", "text": "Brachiocephalic vein"},
+      {"id": "C", "text": "External jugular vein"},
+      {"id": "D", "text": "Superior vena cava directly"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The internal jugular vein joins the subclavian vein to form the brachiocephalic (innominate) vein. The right and left brachiocephalic veins then merge to form the superior vena cava. The external jugular vein drains into the subclavian vein. Understanding venous anatomy is essential for coding central venous access procedures.",
+    "cptCode": "93505"
+  },
+  {
+    "id": 102,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A patient with peripheral arterial disease undergoes an angioplasty of the superficial femoral artery. The interventional radiologist documents the procedure.",
+    "questionText": "The superficial femoral artery is a continuation of which vessel?",
+    "answers": [
+      {"id": "A", "text": "External iliac artery"},
+      {"id": "B", "text": "Common femoral artery"},
+      {"id": "C", "text": "Deep femoral artery"},
+      {"id": "D", "text": "Popliteal artery"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The common femoral artery divides into the superficial femoral artery (SFA) and the deep femoral artery (profunda femoris). The SFA continues distally and becomes the popliteal artery as it passes behind the knee. The common femoral artery itself is a continuation of the external iliac artery after it passes under the inguinal ligament.",
+    "cptCode": "37224"
+  },
+  {
+    "id": 103,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A patient undergoes a cardiac CT angiogram. The radiologist documents the normal origin of the coronary arteries from the aortic root.",
+    "questionText": "The coronary arteries originate from which part of the aorta?",
+    "answers": [
+      {"id": "A", "text": "Aortic arch"},
+      {"id": "B", "text": "Ascending aorta just above the aortic valve (sinuses of Valsalva)"},
+      {"id": "C", "text": "Descending thoracic aorta"},
+      {"id": "D", "text": "Abdominal aorta"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The right and left coronary arteries originate from the aortic root, specifically from the sinuses of Valsalva (aortic sinuses) just above the aortic valve cusps. The left coronary artery arises from the left aortic sinus and quickly divides into the left anterior descending (LAD) and left circumflex (LCx) arteries.",
+    "cptCode": "75574"
+  },
+  {
+    "id": 104,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A vascular surgeon performs an arteriovenous fistula creation in the forearm for hemodialysis access. The operative note describes connecting the radial artery to the cephalic vein.",
+    "questionText": "The cephalic vein runs along which aspect of the upper extremity?",
+    "answers": [
+      {"id": "A", "text": "Medial aspect"},
+      {"id": "B", "text": "Lateral aspect"},
+      {"id": "C", "text": "Posterior aspect"},
+      {"id": "D", "text": "Deep compartment"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The cephalic vein runs along the lateral (thumb side) aspect of the upper extremity, from the dorsum of the hand up the lateral forearm and arm, eventually draining into the axillary vein. The basilic vein runs along the medial (pinky side) aspect. Both are superficial veins commonly used for IV access and dialysis fistula creation.",
+    "cptCode": "36821"
+  },
+  {
+    "id": 105,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient undergoes an MRI of the knee. The radiologist documents a tear of the posterior cruciate ligament.",
+    "questionText": "The posterior cruciate ligament (PCL) primarily prevents which movement?",
+    "answers": [
+      {"id": "A", "text": "Anterior translation of the tibia"},
+      {"id": "B", "text": "Posterior translation of the tibia relative to the femur"},
+      {"id": "C", "text": "Valgus angulation"},
+      {"id": "D", "text": "Varus angulation"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The posterior cruciate ligament (PCL) primarily prevents posterior translation (backward sliding) of the tibia relative to the femur. This is tested clinically with the posterior drawer test. The ACL prevents anterior translation. The medial collateral ligament (MCL) resists valgus stress, and the lateral collateral ligament (LCL) resists varus stress.",
+    "cptCode": "27427"
+  },
+  {
+    "id": 106,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "An orthopedic surgeon performs a total shoulder arthroplasty. The operative note describes replacing the humeral head and glenoid surface.",
+    "questionText": "The glenohumeral joint is classified as which type of joint?",
+    "answers": [
+      {"id": "A", "text": "Hinge joint"},
+      {"id": "B", "text": "Ball-and-socket joint"},
+      {"id": "C", "text": "Pivot joint"},
+      {"id": "D", "text": "Saddle joint"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The glenohumeral (shoulder) joint is a ball-and-socket joint, allowing movement in all planes (flexion, extension, abduction, adduction, rotation, circumduction). The hip joint is also a ball-and-socket joint. Hinge joints include the elbow and knee. Pivot joints include the atlantoaxial joint (C1-C2). The thumb carpometacarpal joint is a saddle joint.",
+    "cptCode": "23472"
+  },
+  {
+    "id": 107,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient presents with a scaphoid fracture after falling on an outstretched hand. The orthopedic surgeon discusses the risk of avascular necrosis.",
+    "questionText": "The scaphoid bone is located in which region of the body?",
+    "answers": [
+      {"id": "A", "text": "Foot (tarsal bones)"},
+      {"id": "B", "text": "Wrist (carpal bones)"},
+      {"id": "C", "text": "Knee"},
+      {"id": "D", "text": "Elbow"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The scaphoid is one of the eight carpal bones in the wrist, located on the radial (thumb) side of the proximal carpal row. It is the most commonly fractured carpal bone. The blood supply enters distally, so fractures of the proximal pole carry a high risk of avascular necrosis. The eight carpal bones are: scaphoid, lunate, triquetrum, pisiform, trapezium, trapezoid, capitate, hamate.",
+    "cptCode": "25624"
+  },
+  {
+    "id": 108,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient undergoes surgical repair of a ruptured patellar tendon. The surgeon documents the tendon connecting the patella to the tibial tuberosity.",
+    "questionText": "The patellar tendon connects the patella to which structure?",
+    "answers": [
+      {"id": "A", "text": "Femoral condyle"},
+      {"id": "B", "text": "Tibial tuberosity"},
+      {"id": "C", "text": "Fibular head"},
+      {"id": "D", "text": "Iliac crest"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The patellar tendon (patellar ligament) connects the inferior pole of the patella to the tibial tuberosity. It is the distal continuation of the quadriceps tendon. The quadriceps muscle group (rectus femoris, vastus lateralis, vastus medialis, vastus intermedius) inserts into the superior pole of the patella via the quadriceps tendon.",
+    "cptCode": "27380"
+  },
+  {
+    "id": 109,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient undergoes a lumbar discectomy at L5-S1. The surgeon documents removing a herniated disc fragment compressing the S1 nerve root.",
+    "questionText": "An L5-S1 disc herniation most commonly compresses which nerve root?",
+    "answers": [
+      {"id": "A", "text": "L4 nerve root"},
+      {"id": "B", "text": "L5 nerve root"},
+      {"id": "C", "text": "S1 nerve root"},
+      {"id": "D", "text": "S2 nerve root"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "A posterolateral disc herniation at L5-S1 most commonly compresses the traversing S1 nerve root. In the lumbar spine, a posterolateral herniation typically affects the nerve root numbered one level below the disc (e.g., L4-L5 disc affects L5 root, L5-S1 disc affects S1 root). S1 radiculopathy causes calf pain, weakness of plantarflexion, and decreased ankle reflex.",
+    "cptCode": "63030"
+  },
+  {
+    "id": 110,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient undergoes an open reduction and internal fixation of a tibial plateau fracture. The surgeon documents the fracture involving the articular surface of the proximal tibia.",
+    "questionText": "The tibial plateau forms the articular surface for which joint?",
+    "answers": [
+      {"id": "A", "text": "Hip joint"},
+      {"id": "B", "text": "Knee joint"},
+      {"id": "C", "text": "Ankle joint"},
+      {"id": "D", "text": "Sacroiliac joint"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The tibial plateau is the flat, weight-bearing surface at the top of the tibia that forms the inferior articular surface of the knee joint. It has medial and lateral condylar surfaces, each covered by a meniscus. The femoral condyles articulate with the tibial plateau. Tibial plateau fractures are intra-articular fractures that can affect knee alignment and function.",
+    "cptCode": "27536"
+  },
+  {
+    "id": 111,
+    "section": "anatomy",
+    "subsection": "Respiratory",
+    "scenario": "A patient undergoes a thoracotomy for decortication of the lung. The surgeon documents removing a thick fibrous peel from the visceral pleura.",
+    "questionText": "The visceral pleura directly covers which structure?",
+    "answers": [
+      {"id": "A", "text": "Chest wall"},
+      {"id": "B", "text": "Lung surface"},
+      {"id": "C", "text": "Diaphragm"},
+      {"id": "D", "text": "Mediastinum"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The visceral pleura directly covers the lung surface, dipping into the fissures between lobes. The parietal pleura lines the chest wall, diaphragm, and mediastinum. The pleural space between them normally contains a thin layer of serous fluid. Decortication involves removing a restrictive fibrous layer (cortex) from the visceral pleura to allow lung re-expansion.",
+    "cptCode": "32320"
+  },
+  {
+    "id": 112,
+    "section": "anatomy",
+    "subsection": "Respiratory",
+    "scenario": "A patient undergoes a CT scan of the chest. The radiologist documents the normal anatomy of the pulmonary vasculature.",
+    "questionText": "The pulmonary arteries carry which type of blood?",
+    "answers": [
+      {"id": "A", "text": "Oxygenated blood from the lungs"},
+      {"id": "B", "text": "Deoxygenated blood from the right ventricle to the lungs"},
+      {"id": "C", "text": "Oxygenated blood from the left ventricle"},
+      {"id": "D", "text": "Mixed venous and arterial blood"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The pulmonary arteries are unique because they carry deoxygenated blood from the right ventricle to the lungs for gas exchange. Conversely, the pulmonary veins carry oxygenated blood from the lungs back to the left atrium. This is the opposite of systemic circulation where arteries carry oxygenated blood and veins carry deoxygenated blood.",
+    "cptCode": "71275"
+  },
+  {
+    "id": 113,
+    "section": "anatomy",
+    "subsection": "Respiratory",
+    "scenario": "An ENT surgeon performs a functional endoscopic sinus surgery (FESS). The operative note describes opening the maxillary, ethmoid, and frontal sinuses.",
+    "questionText": "How many pairs of paranasal sinuses are there?",
+    "answers": [
+      {"id": "A", "text": "Two pairs"},
+      {"id": "B", "text": "Three pairs"},
+      {"id": "C", "text": "Four pairs"},
+      {"id": "D", "text": "Five pairs"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "There are four pairs of paranasal sinuses: maxillary (largest, in the cheekbones), frontal (above the eyes), ethmoid (between the eyes, multiple small air cells), and sphenoid (behind the ethmoid sinuses). They are air-filled cavities lined with mucous membrane that drain into the nasal cavity. FESS codes vary by which sinuses are addressed.",
+    "cptCode": "31256"
+  },
+  {
+    "id": 114,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A surgeon performs a gastrectomy with Roux-en-Y reconstruction. The operative note describes creating a jejunal limb and anastomosing it to the gastric remnant.",
+    "questionText": "In a Roux-en-Y reconstruction, the alimentary limb is created from which part of the small intestine?",
+    "answers": [
+      {"id": "A", "text": "Duodenum"},
+      {"id": "B", "text": "Jejunum"},
+      {"id": "C", "text": "Ileum"},
+      {"id": "D", "text": "Cecum"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "In a Roux-en-Y reconstruction, the jejunum is divided and the distal end (Roux limb or alimentary limb) is brought up and anastomosed to the stomach remnant or esophagus. The proximal jejunal end (biliopancreatic limb) is then connected downstream to the Roux limb. This configuration prevents bile reflux. The cecum is part of the large intestine.",
+    "cptCode": "43644"
+  },
+  {
+    "id": 115,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A patient undergoes a liver biopsy. The physician documents the liver's segmental anatomy based on the Couinaud classification.",
+    "questionText": "The liver is divided into how many functional segments according to the Couinaud classification?",
+    "answers": [
+      {"id": "A", "text": "Four"},
+      {"id": "B", "text": "Six"},
+      {"id": "C", "text": "Eight"},
+      {"id": "D", "text": "Ten"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The Couinaud classification divides the liver into eight functionally independent segments (I-VIII), each with its own portal pedicle (portal vein, hepatic artery, bile duct) and hepatic vein drainage. This classification is essential for surgical planning of liver resections and for accurate coding of partial hepatectomy procedures.",
+    "cptCode": "47100"
+  },
+  {
+    "id": 116,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A patient undergoes an upper GI endoscopy. The gastroenterologist documents the Z-line (squamocolumnar junction) at the gastroesophageal junction.",
+    "questionText": "The Z-line marks the transition between which two types of epithelium?",
+    "answers": [
+      {"id": "A", "text": "Stratified squamous and simple columnar epithelium"},
+      {"id": "B", "text": "Simple squamous and transitional epithelium"},
+      {"id": "C", "text": "Pseudostratified and simple cuboidal epithelium"},
+      {"id": "D", "text": "Keratinized and non-keratinized squamous epithelium"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The Z-line (ora serrata or squamocolumnar junction) marks the transition from the stratified squamous epithelium of the esophagus to the simple columnar epithelium of the stomach. Barrett's esophagus occurs when the squamous epithelium is replaced by intestinal-type columnar epithelium due to chronic acid reflux, increasing cancer risk.",
+    "cptCode": "43235"
+  },
+  {
+    "id": 117,
+    "section": "anatomy",
+    "subsection": "Nervous System",
+    "scenario": "A neurosurgeon performs a microvascular decompression for trigeminal neuralgia. The operative note describes the trigeminal nerve at the brainstem.",
+    "questionText": "The trigeminal nerve (CN V) has three divisions. Which division provides sensation to the lower face and jaw?",
+    "answers": [
+      {"id": "A", "text": "V1 (ophthalmic)"},
+      {"id": "B", "text": "V2 (maxillary)"},
+      {"id": "C", "text": "V3 (mandibular)"},
+      {"id": "D", "text": "V4 (cervical)"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The trigeminal nerve has three divisions: V1 (ophthalmic) provides sensation to the forehead and upper face, V2 (maxillary) provides sensation to the midface and upper teeth, and V3 (mandibular) provides sensation to the lower face, jaw, and lower teeth. V3 is also the only division with motor fibers (muscles of mastication). There is no V4 division.",
+    "cptCode": "61458"
+  },
+  {
+    "id": 118,
+    "section": "anatomy",
+    "subsection": "Nervous System",
+    "scenario": "A patient undergoes a carpal tunnel release. The surgeon documents the course of the median nerve through the carpal tunnel.",
+    "questionText": "The median nerve provides motor innervation to the thenar muscles. The thenar eminence is located at the base of which digit?",
+    "answers": [
+      {"id": "A", "text": "Index finger"},
+      {"id": "B", "text": "Thumb"},
+      {"id": "C", "text": "Little finger"},
+      {"id": "D", "text": "Ring finger"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The thenar eminence is the fleshy mound at the base of the thumb, formed by three muscles: abductor pollicis brevis, flexor pollicis brevis (superficial head), and opponens pollicis. These are innervated by the recurrent branch of the median nerve. The hypothenar eminence is at the base of the little finger and is innervated by the ulnar nerve.",
+    "cptCode": "64721"
+  },
+  {
+    "id": 119,
+    "section": "anatomy",
+    "subsection": "Nervous System",
+    "scenario": "A patient presents with foot drop after a knee injury. The neurologist documents damage to a nerve near the fibular head.",
+    "questionText": "Foot drop is most commonly caused by injury to which nerve?",
+    "answers": [
+      {"id": "A", "text": "Tibial nerve"},
+      {"id": "B", "text": "Common peroneal (fibular) nerve"},
+      {"id": "C", "text": "Femoral nerve"},
+      {"id": "D", "text": "Saphenous nerve"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Foot drop is most commonly caused by injury to the common peroneal (fibular) nerve as it wraps around the fibular head, where it is superficial and vulnerable to trauma or compression. This nerve innervates the anterior compartment muscles (dorsiflexors) and lateral compartment muscles (evertors) of the leg. The tibial nerve innervates the posterior compartment (plantarflexors).",
+    "cptCode": "64704"
+  },
+  {
+    "id": 120,
+    "section": "anatomy",
+    "subsection": "Integumentary",
+    "scenario": "A dermatologist performs a shave biopsy of a suspicious mole on the patient's arm. The pathology report describes the lesion's depth relative to the skin layers.",
+    "questionText": "The dermis is divided into which two layers?",
+    "answers": [
+      {"id": "A", "text": "Papillary and reticular layers"},
+      {"id": "B", "text": "Superficial and deep layers"},
+      {"id": "C", "text": "Cortical and medullary layers"},
+      {"id": "D", "text": "Epidermal and subepidermal layers"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The dermis is divided into two layers: the papillary dermis (thin, superficial layer with dermal papillae that interdigitate with the epidermis) and the reticular dermis (thick, deep layer containing dense irregular connective tissue, hair follicles, sweat glands, and blood vessels). The depth of invasion into these layers affects melanoma staging and treatment.",
+    "cptCode": "11102"
+  },
+  {
+    "id": 121,
+    "section": "anatomy",
+    "subsection": "Integumentary",
+    "scenario": "A patient presents with a second-degree burn on the forearm. The physician documents blistering and damage to the epidermis and upper dermis.",
+    "questionText": "A second-degree (partial-thickness) burn involves damage to which layers?",
+    "answers": [
+      {"id": "A", "text": "Epidermis only"},
+      {"id": "B", "text": "Epidermis and part of the dermis"},
+      {"id": "C", "text": "Full-thickness skin including subcutaneous tissue"},
+      {"id": "D", "text": "Epidermis, dermis, and muscle"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "A second-degree (partial-thickness) burn involves the epidermis and part of the dermis, characterized by blistering, pain, and redness. First-degree burns affect only the epidermis (sunburn). Third-degree (full-thickness) burns destroy the entire epidermis and dermis. Fourth-degree burns extend into deeper structures like muscle and bone. Burn depth determines treatment and coding.",
+    "cptCode": "16020"
+  },
+  {
+    "id": 122,
+    "section": "anatomy",
+    "subsection": "Urinary",
+    "scenario": "A urologist performs a percutaneous nephrolithotomy (PCNL) to remove a large staghorn calculus. The surgeon accesses the kidney through the flank.",
+    "questionText": "The kidney is located in which anatomical space?",
+    "answers": [
+      {"id": "A", "text": "Intraperitoneal space"},
+      {"id": "B", "text": "Retroperitoneal space"},
+      {"id": "C", "text": "Peritoneal cavity"},
+      {"id": "D", "text": "Pelvic cavity"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The kidneys are retroperitoneal organs, meaning they are located behind the peritoneum against the posterior abdominal wall. They lie at the level of T12-L3, with the right kidney slightly lower than the left due to the liver. Other retroperitoneal structures include the ureters, adrenal glands, aorta, IVC, and parts of the duodenum and pancreas.",
+    "cptCode": "50080"
+  },
+  {
+    "id": 123,
+    "section": "anatomy",
+    "subsection": "Urinary",
+    "scenario": "A patient undergoes a renal ultrasound. The radiologist documents the normal internal anatomy of the kidney including the cortex, medulla, and collecting system.",
+    "questionText": "The renal medulla is composed of cone-shaped structures called:",
+    "answers": [
+      {"id": "A", "text": "Renal columns"},
+      {"id": "B", "text": "Renal pyramids"},
+      {"id": "C", "text": "Renal corpuscles"},
+      {"id": "D", "text": "Renal papillae"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The renal medulla is composed of 8-18 cone-shaped renal pyramids. The apex of each pyramid (renal papilla) projects into a minor calyx. Renal columns are extensions of cortical tissue between the pyramids. Renal corpuscles (glomerulus + Bowman's capsule) are found in the cortex. Urine flows from the pyramids through the papillae into the calyces, renal pelvis, and ureter.",
+    "cptCode": "76770"
+  },
+  {
+    "id": 124,
+    "section": "anatomy",
+    "subsection": "Reproductive",
+    "scenario": "A gynecologist performs a laparoscopic ovarian cystectomy. The operative note describes the blood supply to the ovary.",
+    "questionText": "The ovarian artery is a direct branch of which vessel?",
+    "answers": [
+      {"id": "A", "text": "Internal iliac artery"},
+      {"id": "B", "text": "External iliac artery"},
+      {"id": "C", "text": "Abdominal aorta"},
+      {"id": "D", "text": "Uterine artery"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The ovarian arteries are direct branches of the abdominal aorta, arising just below the renal arteries. They descend retroperitoneally and enter the broad ligament to supply the ovaries. The uterine artery (a branch of the internal iliac artery) also contributes to ovarian blood supply through anastomoses. This dual supply is important during gynecologic surgery.",
+    "cptCode": "58661"
+  },
+  {
+    "id": 125,
+    "section": "anatomy",
+    "subsection": "Reproductive",
+    "scenario": "A patient undergoes a transrectal ultrasound-guided prostate biopsy. The urologist documents the zonal anatomy of the prostate.",
+    "questionText": "Most prostate cancers arise from which zone of the prostate?",
+    "answers": [
+      {"id": "A", "text": "Transition zone"},
+      {"id": "B", "text": "Central zone"},
+      {"id": "C", "text": "Peripheral zone"},
+      {"id": "D", "text": "Anterior fibromuscular stroma"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "Approximately 70-80% of prostate cancers arise from the peripheral zone, which is the largest zone and is palpable on digital rectal examination. Benign prostatic hyperplasia (BPH) typically arises from the transition zone. The central zone surrounds the ejaculatory ducts. The anterior fibromuscular stroma is non-glandular. Understanding prostate zonal anatomy is important for coding prostate procedures.",
+    "cptCode": "55700"
+  },
+  {
+    "id": 126,
+    "section": "anatomy",
+    "subsection": "Endocrine",
+    "scenario": "A patient undergoes a subtotal thyroidectomy for multinodular goiter. The surgeon documents preserving the superior and inferior parathyroid glands.",
+    "questionText": "The thyroid gland produces which hormones?",
+    "answers": [
+      {"id": "A", "text": "T3, T4, and calcitonin"},
+      {"id": "B", "text": "Parathyroid hormone and calcitonin"},
+      {"id": "C", "text": "Insulin and glucagon"},
+      {"id": "D", "text": "Cortisol and aldosterone"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The thyroid gland produces triiodothyronine (T3), thyroxine (T4), and calcitonin. T3 and T4 regulate metabolism and are produced by follicular cells. Calcitonin is produced by parafollicular C cells and lowers blood calcium. Parathyroid hormone is produced by the parathyroid glands. Insulin and glucagon come from the pancreas. Cortisol and aldosterone come from the adrenal cortex.",
+    "cptCode": "60220"
+  },
+  {
+    "id": 127,
+    "section": "anatomy",
+    "subsection": "Endocrine",
+    "scenario": "A patient with Addison's disease is evaluated by an endocrinologist. The physician explains that the adrenal cortex is not producing sufficient hormones.",
+    "questionText": "The adrenal cortex is divided into three zones. Which zone produces cortisol?",
+    "answers": [
+      {"id": "A", "text": "Zona glomerulosa"},
+      {"id": "B", "text": "Zona fasciculata"},
+      {"id": "C", "text": "Zona reticularis"},
+      {"id": "D", "text": "Adrenal medulla"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The adrenal cortex has three zones (from outer to inner): zona glomerulosa (produces aldosterone/mineralocorticoids), zona fasciculata (produces cortisol/glucocorticoids), and zona reticularis (produces androgens/sex hormones). The mnemonic 'GFR - Salt, Sugar, Sex' helps remember the zones and their products. The adrenal medulla produces catecholamines.",
+    "cptCode": "60540"
+  },
+  {
+    "id": 128,
+    "section": "anatomy",
+    "subsection": "Endocrine",
+    "scenario": "A patient undergoes a transsphenoidal hypophysectomy for a growth hormone-secreting pituitary adenoma.",
+    "questionText": "The pituitary gland is connected to the hypothalamus by which structure?",
+    "answers": [
+      {"id": "A", "text": "Optic chiasm"},
+      {"id": "B", "text": "Infundibulum (pituitary stalk)"},
+      {"id": "C", "text": "Tentorium cerebelli"},
+      {"id": "D", "text": "Corpus callosum"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The pituitary gland is connected to the hypothalamus by the infundibulum (pituitary stalk), which carries hormonal signals and blood vessels (hypothalamic-hypophyseal portal system) between the two structures. The optic chiasm lies just anterior to the pituitary stalk, which is why pituitary tumors can cause visual field defects (bitemporal hemianopsia).",
+    "cptCode": "61548"
+  },
+  {
+    "id": 129,
+    "section": "anatomy",
+    "subsection": "Lymphatic",
+    "scenario": "A patient undergoes a sentinel lymph node biopsy for melanoma of the trunk. The surgeon uses lymphoscintigraphy to identify the draining lymph node basin.",
+    "questionText": "Lymph nodes contain which type of immune cells that are critical for adaptive immunity?",
+    "answers": [
+      {"id": "A", "text": "Red blood cells"},
+      {"id": "B", "text": "Platelets"},
+      {"id": "C", "text": "Lymphocytes (T cells and B cells)"},
+      {"id": "D", "text": "Neutrophils only"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "Lymph nodes contain lymphocytes, primarily T cells (in the paracortex) and B cells (in the cortical follicles), which are essential for adaptive immune responses. B cells produce antibodies, while T cells coordinate immune responses and kill infected cells. Lymph nodes filter lymph fluid and trap pathogens, cancer cells, and foreign material for immune processing.",
+    "cptCode": "38500"
+  },
+  {
+    "id": 130,
+    "section": "anatomy",
+    "subsection": "Lymphatic",
+    "scenario": "A patient with non-Hodgkin lymphoma undergoes a bone marrow biopsy. The hematologist explains the relationship between the lymphatic system and bone marrow.",
+    "questionText": "B lymphocytes mature in which organ?",
+    "answers": [
+      {"id": "A", "text": "Thymus"},
+      {"id": "B", "text": "Spleen"},
+      {"id": "C", "text": "Bone marrow"},
+      {"id": "D", "text": "Lymph nodes"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "B lymphocytes (B cells) mature in the bone marrow (B for bone marrow). T lymphocytes (T cells) mature in the thymus (T for thymus). Both originate from stem cells in the bone marrow. The spleen and lymph nodes are secondary lymphoid organs where mature lymphocytes encounter antigens and mount immune responses.",
+    "cptCode": "38221"
+  },
+  {
+    "id": 131,
+    "section": "anatomy",
+    "subsection": "Lymphatic",
+    "scenario": "A patient undergoes a thymectomy for myasthenia gravis. The surgeon documents the thymus gland in the anterior mediastinum.",
+    "questionText": "The thymus gland is located in which part of the mediastinum?",
+    "answers": [
+      {"id": "A", "text": "Posterior mediastinum"},
+      {"id": "B", "text": "Middle mediastinum"},
+      {"id": "C", "text": "Anterior mediastinum"},
+      {"id": "D", "text": "Superior mediastinum only"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The thymus gland is located in the anterior mediastinum, behind the sternum and in front of the great vessels and pericardium. It is largest during childhood and gradually involutes (shrinks) after puberty, being replaced by fatty tissue. The thymus is where T lymphocytes mature. Thymectomy is a treatment for myasthenia gravis and thymomas.",
+    "cptCode": "60520"
+  },
+  {
+    "id": 132,
+    "section": "anatomy",
+    "subsection": "Sensory Organs",
+    "scenario": "An ophthalmologist performs a trabeculectomy for glaucoma. The surgeon creates a new drainage pathway for aqueous humor.",
+    "questionText": "Aqueous humor normally drains from the eye through which structure?",
+    "answers": [
+      {"id": "A", "text": "Pupil"},
+      {"id": "B", "text": "Trabecular meshwork and canal of Schlemm"},
+      {"id": "C", "text": "Vitreous body"},
+      {"id": "D", "text": "Optic disc"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Aqueous humor is produced by the ciliary body, flows through the posterior chamber, through the pupil into the anterior chamber, and drains through the trabecular meshwork into the canal of Schlemm at the iridocorneal angle. From there it enters the episcleral venous system. In glaucoma, impaired drainage through this pathway leads to increased intraocular pressure.",
+    "cptCode": "66170"
+  },
+  {
+    "id": 133,
+    "section": "anatomy",
+    "subsection": "Sensory Organs",
+    "scenario": "An ENT surgeon performs a stapedectomy for otosclerosis. The operative note describes replacing the fixed stapes with a prosthesis.",
+    "questionText": "The stapes transmits sound vibrations from the incus to which structure?",
+    "answers": [
+      {"id": "A", "text": "Tympanic membrane"},
+      {"id": "B", "text": "Round window"},
+      {"id": "C", "text": "Oval window"},
+      {"id": "D", "text": "Eustachian tube"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The stapes (stirrup) is the smallest bone in the body and transmits sound vibrations from the incus to the oval window of the inner ear. The footplate of the stapes fits into the oval window. In otosclerosis, abnormal bone growth fixes the stapes in place, causing conductive hearing loss. Stapedectomy replaces the fixed stapes with a prosthesis. The round window is a membrane-covered opening that allows fluid movement in the cochlea.",
+    "cptCode": "69660"
+  },
+  {
+    "id": 134,
+    "section": "anatomy",
+    "subsection": "Sensory Organs",
+    "scenario": "A patient undergoes a dacryocystorhinostomy (DCR) for chronic nasolacrimal duct obstruction. The surgeon creates a new drainage pathway for tears.",
+    "questionText": "Tears drain from the eye through the lacrimal puncta into which structure?",
+    "answers": [
+      {"id": "A", "text": "Lacrimal gland"},
+      {"id": "B", "text": "Nasolacrimal duct"},
+      {"id": "C", "text": "Conjunctival sac"},
+      {"id": "D", "text": "Maxillary sinus"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Tears are produced by the lacrimal gland and drain through the lacrimal puncta (small openings in the medial eyelids) into the lacrimal canaliculi, then into the lacrimal sac, and finally through the nasolacrimal duct into the inferior meatus of the nasal cavity. A DCR creates a bypass from the lacrimal sac directly into the nasal cavity when the nasolacrimal duct is blocked.",
+    "cptCode": "68720"
+  },
+  {
+    "id": 135,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A patient undergoes a carotid duplex ultrasound. The vascular technologist documents the vertebral artery flow.",
+    "questionText": "The vertebral arteries join to form which single vessel at the base of the brain?",
+    "answers": [
+      {"id": "A", "text": "Internal carotid artery"},
+      {"id": "B", "text": "Basilar artery"},
+      {"id": "C", "text": "Middle cerebral artery"},
+      {"id": "D", "text": "Anterior cerebral artery"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The two vertebral arteries ascend through the transverse foramina of the cervical vertebrae and enter the skull through the foramen magnum. They join at the pontomedullary junction to form the basilar artery, which runs along the ventral surface of the pons. The basilar artery then divides into the two posterior cerebral arteries, contributing to the Circle of Willis.",
+    "cptCode": "93880"
+  },
+  {
+    "id": 136,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient undergoes an MRI of the lumbar spine. The radiologist documents the intervertebral disc anatomy.",
+    "questionText": "The intervertebral disc consists of which two main components?",
+    "answers": [
+      {"id": "A", "text": "Cortical bone and cancellous bone"},
+      {"id": "B", "text": "Annulus fibrosus and nucleus pulposus"},
+      {"id": "C", "text": "Hyaline cartilage and elastic cartilage"},
+      {"id": "D", "text": "Synovial membrane and articular cartilage"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The intervertebral disc has two main components: the annulus fibrosus (tough outer ring of fibrocartilage) and the nucleus pulposus (soft, gel-like center). A disc herniation occurs when the nucleus pulposus protrudes through a tear in the annulus fibrosus, potentially compressing adjacent nerve roots. The discs act as shock absorbers between vertebral bodies.",
+    "cptCode": "72148"
+  },
+  {
+    "id": 137,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient undergoes an arthroscopic labral repair of the hip. The surgeon documents a tear of the acetabular labrum.",
+    "questionText": "The acetabular labrum is composed of which type of tissue?",
+    "answers": [
+      {"id": "A", "text": "Bone"},
+      {"id": "B", "text": "Fibrocartilage"},
+      {"id": "C", "text": "Hyaline cartilage"},
+      {"id": "D", "text": "Elastic cartilage"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The acetabular labrum is a ring of fibrocartilage that attaches to the rim of the acetabulum, deepening the hip socket and increasing stability. Similar to the glenoid labrum of the shoulder, it provides a seal that maintains negative intra-articular pressure. Labral tears can cause hip pain, clicking, and limited range of motion.",
+    "cptCode": "29916"
+  },
+  {
+    "id": 138,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A surgeon performs a splenectomy for idiopathic thrombocytopenic purpura. The operative note describes the splenic hilum and its vascular supply.",
+    "questionText": "The splenic artery is a branch of which vessel?",
+    "answers": [
+      {"id": "A", "text": "Superior mesenteric artery"},
+      {"id": "B", "text": "Inferior mesenteric artery"},
+      {"id": "C", "text": "Celiac trunk"},
+      {"id": "D", "text": "Left renal artery"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The splenic artery is one of the three branches of the celiac trunk (along with the left gastric artery and common hepatic artery). It is the largest branch and follows a tortuous course along the superior border of the pancreas to reach the splenic hilum. The splenic vein joins the superior mesenteric vein to form the portal vein.",
+    "cptCode": "38100"
+  },
+  {
+    "id": 139,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A patient undergoes a small bowel resection for Crohn's disease. The surgeon documents the blood supply to the small intestine.",
+    "questionText": "The superior mesenteric artery supplies blood to which portions of the GI tract?",
+    "answers": [
+      {"id": "A", "text": "Esophagus and stomach"},
+      {"id": "B", "text": "Distal duodenum through the transverse colon"},
+      {"id": "C", "text": "Descending colon and rectum"},
+      {"id": "D", "text": "Stomach and proximal duodenum only"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The superior mesenteric artery (SMA) supplies the distal duodenum, jejunum, ileum, cecum, ascending colon, and most of the transverse colon. The celiac trunk supplies the foregut (esophagus to proximal duodenum, liver, spleen, pancreas). The inferior mesenteric artery supplies the distal transverse colon, descending colon, sigmoid colon, and upper rectum.",
+    "cptCode": "44120"
+  },
+  {
+    "id": 140,
+    "section": "anatomy",
+    "subsection": "Nervous System",
+    "scenario": "A neurosurgeon performs a posterior fossa craniotomy to remove a cerebellar tumor. The operative note describes the cerebellum's location and function.",
+    "questionText": "The cerebellum is primarily responsible for which function?",
+    "answers": [
+      {"id": "A", "text": "Language comprehension"},
+      {"id": "B", "text": "Coordination of movement, balance, and posture"},
+      {"id": "C", "text": "Vision processing"},
+      {"id": "D", "text": "Emotional regulation"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The cerebellum is primarily responsible for coordination of voluntary movements, balance, posture, and motor learning. It is located in the posterior fossa, inferior to the cerebrum and posterior to the brainstem. Cerebellar damage causes ataxia (uncoordinated movements), dysmetria, intention tremor, and gait instability. The cerebellum does not initiate movement but fine-tunes it.",
+    "cptCode": "61510"
+  },
+  {
+    "id": 141,
+    "section": "anatomy",
+    "subsection": "Nervous System",
+    "scenario": "A patient undergoes an MRI of the brain. The radiologist documents the normal anatomy of the brainstem.",
+    "questionText": "The brainstem consists of which three structures, from superior to inferior?",
+    "answers": [
+      {"id": "A", "text": "Midbrain, pons, medulla oblongata"},
+      {"id": "B", "text": "Thalamus, hypothalamus, pons"},
+      {"id": "C", "text": "Cerebellum, pons, medulla oblongata"},
+      {"id": "D", "text": "Midbrain, cerebellum, spinal cord"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The brainstem consists of three parts from superior to inferior: the midbrain (mesencephalon), pons, and medulla oblongata. The brainstem connects the cerebrum to the spinal cord and contains vital centers for breathing, heart rate, and consciousness. Most cranial nerves (III-XII) originate from the brainstem. The thalamus and hypothalamus are part of the diencephalon, not the brainstem.",
+    "cptCode": "70553"
+  },
+  {
+    "id": 142,
+    "section": "anatomy",
+    "subsection": "Urinary",
+    "scenario": "A urologist performs a radical cystectomy with ileal conduit urinary diversion for bladder cancer.",
+    "questionText": "The urinary bladder receives its blood supply primarily from which artery?",
+    "answers": [
+      {"id": "A", "text": "External iliac artery"},
+      {"id": "B", "text": "Internal iliac artery (superior and inferior vesical arteries)"},
+      {"id": "C", "text": "Common iliac artery"},
+      {"id": "D", "text": "Abdominal aorta directly"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The urinary bladder receives its primary blood supply from branches of the internal iliac artery, specifically the superior vesical arteries (from the patent part of the umbilical artery) and inferior vesical arteries. In females, the vaginal artery also contributes. The internal iliac artery is the main blood supply to pelvic organs.",
+    "cptCode": "51590"
+  },
+  {
+    "id": 143,
+    "section": "anatomy",
+    "subsection": "Reproductive",
+    "scenario": "A patient undergoes a laparoscopic myomectomy for uterine fibroids. The surgeon documents the blood supply to the uterus.",
+    "questionText": "The uterine artery is a branch of which vessel?",
+    "answers": [
+      {"id": "A", "text": "External iliac artery"},
+      {"id": "B", "text": "Internal iliac artery"},
+      {"id": "C", "text": "Ovarian artery"},
+      {"id": "D", "text": "Abdominal aorta"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The uterine artery is a branch of the internal iliac artery (anterior division). It crosses over the ureter at the level of the cervix ('water under the bridge' - ureter passes under the uterine artery). This relationship is surgically important because the ureter can be inadvertently injured during hysterectomy. The uterine artery anastomoses with the ovarian artery.",
+    "cptCode": "58140"
+  },
+  {
+    "id": 144,
+    "section": "anatomy",
+    "subsection": "Reproductive",
+    "scenario": "A patient undergoes an orchiectomy for testicular cancer. The surgeon documents the anatomy of the spermatic cord.",
+    "questionText": "The spermatic cord contains which of the following structures?",
+    "answers": [
+      {"id": "A", "text": "Vas deferens, testicular artery, and pampiniform plexus"},
+      {"id": "B", "text": "Ureter, testicular vein, and epididymis"},
+      {"id": "C", "text": "Prostate gland, seminal vesicle, and vas deferens"},
+      {"id": "D", "text": "Bladder, urethra, and testicular artery"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The spermatic cord is a bundle of structures that passes through the inguinal canal and contains: the vas deferens, testicular artery, pampiniform venous plexus (which becomes the testicular vein), cremasteric artery, artery of the vas deferens, genital branch of the genitofemoral nerve, lymphatic vessels, and the processus vaginalis remnant.",
+    "cptCode": "54520"
+  },
+  {
+    "id": 145,
+    "section": "anatomy",
+    "subsection": "Integumentary",
+    "scenario": "A dermatologist evaluates a patient with alopecia. The physician discusses the anatomy of hair follicles.",
+    "questionText": "Hair follicles are located in which layer of the skin?",
+    "answers": [
+      {"id": "A", "text": "Epidermis only"},
+      {"id": "B", "text": "Dermis (extending into subcutaneous tissue)"},
+      {"id": "C", "text": "Subcutaneous tissue only"},
+      {"id": "D", "text": "Stratum corneum"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Hair follicles are rooted in the dermis and may extend into the subcutaneous tissue. The hair bulb at the base of the follicle contains the hair matrix (actively dividing cells) and the dermal papilla (which provides blood supply). The arrector pili muscle attaches to the follicle and causes 'goosebumps.' Sebaceous glands are associated with hair follicles.",
+    "cptCode": "11976"
+  },
+  {
+    "id": 146,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A patient undergoes a venous ablation procedure for varicose veins. The vascular surgeon documents the anatomy of the leg veins.",
+    "questionText": "The small (short) saphenous vein drains into which vessel?",
+    "answers": [
+      {"id": "A", "text": "Common femoral vein"},
+      {"id": "B", "text": "Popliteal vein"},
+      {"id": "C", "text": "Great saphenous vein"},
+      {"id": "D", "text": "Anterior tibial vein"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The small (short) saphenous vein runs along the posterior calf and drains into the popliteal vein behind the knee at the saphenopopliteal junction. The great (long) saphenous vein runs along the medial leg and thigh and drains into the common femoral vein at the saphenofemoral junction in the groin. Both are superficial veins commonly affected by varicosities.",
+    "cptCode": "36475"
+  },
+  {
+    "id": 147,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient undergoes an open repair of a distal biceps tendon rupture at the elbow.",
+    "questionText": "The distal biceps tendon inserts on which structure?",
+    "answers": [
+      {"id": "A", "text": "Olecranon process of the ulna"},
+      {"id": "B", "text": "Radial tuberosity"},
+      {"id": "C", "text": "Lateral epicondyle of the humerus"},
+      {"id": "D", "text": "Coronoid process of the ulna"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The distal biceps tendon inserts on the radial tuberosity, a bony prominence on the proximal radius. The biceps brachii has two functions at the elbow: flexion and supination (turning the palm upward). Rupture of the distal biceps tendon results in weakness of both flexion and supination. The triceps tendon inserts on the olecranon process of the ulna.",
+    "cptCode": "24342"
+  },
+  {
+    "id": 148,
+    "section": "anatomy",
+    "subsection": "Respiratory",
+    "scenario": "A patient undergoes a sleep study for suspected obstructive sleep apnea. The sleep medicine physician discusses upper airway anatomy.",
+    "questionText": "The oropharynx extends from the soft palate to which structure?",
+    "answers": [
+      {"id": "A", "text": "Vocal cords"},
+      {"id": "B", "text": "Epiglottis"},
+      {"id": "C", "text": "Cricoid cartilage"},
+      {"id": "D", "text": "Nasopharynx"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The pharynx is divided into three parts: nasopharynx (behind the nasal cavity, from skull base to soft palate), oropharynx (from the soft palate to the epiglottis, including the tonsils and base of tongue), and laryngopharynx/hypopharynx (from the epiglottis to the cricoid cartilage). The oropharynx is the most common site of obstruction in sleep apnea.",
+    "cptCode": "95810"
+  },
+  {
+    "id": 149,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A surgeon performs an inguinal hernia repair. The operative note describes the inguinal canal anatomy and the hernia contents.",
+    "questionText": "The inguinal canal in males contains which major structure?",
+    "answers": [
+      {"id": "A", "text": "Femoral artery"},
+      {"id": "B", "text": "Spermatic cord"},
+      {"id": "C", "text": "Sciatic nerve"},
+      {"id": "D", "text": "Ureter"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The inguinal canal in males contains the spermatic cord (which includes the vas deferens, testicular artery, pampiniform plexus, and other structures). In females, it contains the round ligament of the uterus. Inguinal hernias occur when abdominal contents protrude through the inguinal canal. Direct hernias pass through Hesselbach's triangle; indirect hernias pass through the deep inguinal ring.",
+    "cptCode": "49505"
+  },
+  {
+    "id": 150,
+    "section": "anatomy",
+    "subsection": "Nervous System",
+    "scenario": "A neurologist evaluates a patient with Horner syndrome. The patient has ptosis, miosis, and anhidrosis on one side of the face.",
+    "questionText": "Horner syndrome results from disruption of which part of the nervous system?",
+    "answers": [
+      {"id": "A", "text": "Parasympathetic nervous system"},
+      {"id": "B", "text": "Sympathetic nervous system"},
+      {"id": "C", "text": "Somatic motor nervous system"},
+      {"id": "D", "text": "Central nervous system only"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Horner syndrome results from disruption of the sympathetic nervous system pathway to the face and eye. The classic triad is ptosis (drooping eyelid due to loss of sympathetic innervation to Mueller's muscle), miosis (constricted pupil), and anhidrosis (decreased sweating on the affected side). Causes include Pancoast tumor, carotid dissection, and brainstem stroke."
+  },
+  {
+    "id": 151,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A patient undergoes a cardiac catheterization with measurement of pressures in all four chambers. The cardiologist documents normal hemodynamics.",
+    "questionText": "In normal cardiac physiology, which chamber has the highest pressure?",
+    "answers": [
+      {"id": "A", "text": "Right atrium"},
+      {"id": "B", "text": "Right ventricle"},
+      {"id": "C", "text": "Left atrium"},
+      {"id": "D", "text": "Left ventricle"}
+    ],
+    "correctAnswerId": "D",
+    "explanation": "The left ventricle generates the highest pressure of all four chambers (systolic pressure ~120 mmHg) because it must pump blood through the systemic circulation. The right ventricle generates much lower pressure (~25 mmHg systolic) as it only pumps blood through the low-resistance pulmonary circulation. Left atrial pressure is ~8-12 mmHg, and right atrial pressure is ~2-6 mmHg.",
+    "cptCode": "93453"
+  },
+  {
+    "id": 152,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A patient undergoes an aortic valve replacement. The surgeon documents a bicuspid aortic valve as the cause of severe aortic stenosis.",
+    "questionText": "A normal aortic valve has how many cusps (leaflets)?",
+    "answers": [
+      {"id": "A", "text": "Two"},
+      {"id": "B", "text": "Three"},
+      {"id": "C", "text": "Four"},
+      {"id": "D", "text": "Five"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "A normal aortic valve has three cusps (tricuspid): right coronary, left coronary, and non-coronary cusps. A bicuspid aortic valve (two cusps) is the most common congenital heart defect, occurring in 1-2% of the population. It predisposes to early aortic stenosis and aortic regurgitation. The mitral valve has two leaflets (bicuspid), and the tricuspid valve has three.",
+    "cptCode": "33405"
+  },
+  {
+    "id": 153,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient undergoes a fasciotomy for acute compartment syndrome of the lower leg. The surgeon documents opening all four compartments.",
+    "questionText": "How many fascial compartments does the lower leg have?",
+    "answers": [
+      {"id": "A", "text": "Two"},
+      {"id": "B", "text": "Three"},
+      {"id": "C", "text": "Four"},
+      {"id": "D", "text": "Five"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The lower leg has four fascial compartments: anterior (dorsiflexors, deep peroneal nerve), lateral (evertors, superficial peroneal nerve), superficial posterior (plantarflexors - gastrocnemius, soleus), and deep posterior (tibialis posterior, flexor digitorum longus, tibial nerve). Compartment syndrome requires emergent fasciotomy to prevent muscle necrosis and nerve damage.",
+    "cptCode": "27602"
+  },
+  {
+    "id": 154,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient undergoes a bone density scan (DEXA). The endocrinologist explains the types of bone tissue.",
+    "questionText": "The two types of bone tissue are:",
+    "answers": [
+      {"id": "A", "text": "Cortical (compact) and cancellous (spongy)"},
+      {"id": "B", "text": "Lamellar and woven"},
+      {"id": "C", "text": "Endochondral and intramembranous"},
+      {"id": "D", "text": "Periosteal and endosteal"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The two types of bone tissue are cortical (compact) bone, which forms the dense outer layer, and cancellous (spongy/trabecular) bone, which forms the inner meshwork. Cortical bone provides strength and protection. Cancellous bone is lighter and contains bone marrow. Osteoporosis primarily affects cancellous bone. DEXA scans measure bone mineral density at sites rich in both types.",
+    "cptCode": "77080"
+  },
+  {
+    "id": 155,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient undergoes a trigger finger release. The surgeon documents the A1 pulley at the base of the finger.",
+    "questionText": "The pulley system of the fingers is important for which function?",
+    "answers": [
+      {"id": "A", "text": "Extension of the fingers"},
+      {"id": "B", "text": "Keeping flexor tendons close to the bone during flexion"},
+      {"id": "C", "text": "Blood supply to the fingers"},
+      {"id": "D", "text": "Sensation to the fingertips"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The pulley system (annular pulleys A1-A5 and cruciate pulleys C1-C3) keeps the flexor tendons close to the phalanges during finger flexion, preventing bowstringing. Trigger finger occurs when the A1 pulley becomes thickened and constricts the flexor tendon, causing catching or locking during flexion. Trigger finger release involves surgically dividing the A1 pulley.",
+    "cptCode": "26055"
+  },
+  {
+    "id": 156,
+    "section": "anatomy",
+    "subsection": "Respiratory",
+    "scenario": "A patient undergoes a chest tube placement for a tension pneumothorax. The surgeon inserts the tube in the safe triangle of the chest.",
+    "questionText": "The 'safe triangle' for chest tube insertion is bordered by which structures?",
+    "answers": [
+      {"id": "A", "text": "Sternum, clavicle, and first rib"},
+      {"id": "B", "text": "Anterior border of latissimus dorsi, lateral border of pectoralis major, and a line superior to the horizontal level of the nipple"},
+      {"id": "C", "text": "Scapula, spine, and posterior axillary line"},
+      {"id": "D", "text": "Diaphragm, sternum, and midaxillary line"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The safe triangle for chest tube insertion is bordered by the anterior border of the latissimus dorsi posteriorly, the lateral border of the pectoralis major anteriorly, and a line superior to the horizontal level of the nipple (approximately the 5th intercostal space) inferiorly. This area minimizes risk of injury to internal organs and major vessels.",
+    "cptCode": "32551"
+  },
+  {
+    "id": 157,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A patient undergoes a paracentesis for ascites. The physician inserts a needle into the peritoneal cavity to drain fluid.",
+    "questionText": "The peritoneum is a serous membrane that lines which body cavity?",
+    "answers": [
+      {"id": "A", "text": "Thoracic cavity"},
+      {"id": "B", "text": "Abdominal and pelvic cavities"},
+      {"id": "C", "text": "Cranial cavity"},
+      {"id": "D", "text": "Spinal canal"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The peritoneum is a serous membrane that lines the abdominal and pelvic cavities. The parietal peritoneum lines the cavity walls, and the visceral peritoneum covers the organs. The peritoneal cavity is the potential space between them. Ascites is the accumulation of fluid in the peritoneal cavity. The pleura lines the thoracic cavity, and the meninges line the cranial cavity.",
+    "cptCode": "49083"
+  },
+  {
+    "id": 158,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A surgeon performs a right hemicolectomy for colon cancer. The operative note describes the blood supply to the right colon.",
+    "questionText": "The ileocolic artery is a branch of which vessel?",
+    "answers": [
+      {"id": "A", "text": "Celiac trunk"},
+      {"id": "B", "text": "Superior mesenteric artery"},
+      {"id": "C", "text": "Inferior mesenteric artery"},
+      {"id": "D", "text": "Internal iliac artery"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The ileocolic artery is a branch of the superior mesenteric artery (SMA) and supplies the terminal ileum, cecum, and proximal ascending colon. Other SMA branches include the right colic artery and middle colic artery. A right hemicolectomy requires ligation of these branches. The inferior mesenteric artery supplies the left colon.",
+    "cptCode": "44160"
+  },
+  {
+    "id": 159,
+    "section": "anatomy",
+    "subsection": "Nervous System",
+    "scenario": "A patient undergoes a vagus nerve stimulator implantation for refractory epilepsy. The surgeon documents the left vagus nerve in the neck.",
+    "questionText": "The vagus nerve (CN X) innervates structures in which body regions?",
+    "answers": [
+      {"id": "A", "text": "Head and neck only"},
+      {"id": "B", "text": "Head, neck, thorax, and abdomen"},
+      {"id": "C", "text": "Lower extremities only"},
+      {"id": "D", "text": "Upper extremities and chest"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The vagus nerve (CN X) has the widest distribution of any cranial nerve, innervating structures in the head, neck, thorax, and abdomen. It provides parasympathetic innervation to the heart (slows heart rate), lungs (bronchoconstriction), and GI tract (increases motility and secretions). It also innervates the larynx (voice) and pharynx (swallowing). 'Vagus' means wandering.",
+    "cptCode": "64568"
+  },
+  {
+    "id": 160,
+    "section": "anatomy",
+    "subsection": "Endocrine",
+    "scenario": "A patient with a pheochromocytoma undergoes preoperative alpha-blockade before adrenalectomy. The endocrinologist discusses the fight-or-flight response.",
+    "questionText": "The sympathetic nervous system's 'fight-or-flight' response causes which effect on the heart?",
+    "answers": [
+      {"id": "A", "text": "Decreased heart rate and decreased contractility"},
+      {"id": "B", "text": "Increased heart rate and increased contractility"},
+      {"id": "C", "text": "No effect on the heart"},
+      {"id": "D", "text": "Decreased heart rate and increased contractility"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The sympathetic nervous system's fight-or-flight response increases heart rate (chronotropic effect) and contractility (inotropic effect) through the release of epinephrine and norepinephrine acting on beta-1 adrenergic receptors in the heart. It also causes bronchodilation, pupil dilation, and vasoconstriction. The parasympathetic system (vagus nerve) has the opposite effect, slowing the heart.",
+    "cptCode": "60650"
+  },
+  {
+    "id": 161,
+    "section": "anatomy",
+    "subsection": "Lymphatic",
+    "scenario": "A patient undergoes a tonsillectomy for recurrent tonsillitis. The surgeon documents the palatine tonsils between the anterior and posterior tonsillar pillars.",
+    "questionText": "The palatine tonsils are located between which two structures?",
+    "answers": [
+      {"id": "A", "text": "Soft palate and hard palate"},
+      {"id": "B", "text": "Anterior tonsillar pillar (palatoglossal arch) and posterior tonsillar pillar (palatopharyngeal arch)"},
+      {"id": "C", "text": "Tongue base and epiglottis"},
+      {"id": "D", "text": "Uvula and pharyngeal wall"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The palatine tonsils are located in the tonsillar fossa between the anterior tonsillar pillar (palatoglossal arch) and the posterior tonsillar pillar (palatopharyngeal arch). They are part of Waldeyer's ring of lymphoid tissue. The blood supply is primarily from the tonsillar branch of the facial artery. Tonsillectomy is coded as CPT 42820-42826.",
+    "cptCode": "42820"
+  },
+  {
+    "id": 162,
+    "section": "anatomy",
+    "subsection": "Sensory Organs",
+    "scenario": "An ophthalmologist performs a pterygium excision with conjunctival autograft. The surgeon documents the lesion growing from the conjunctiva onto the cornea.",
+    "questionText": "The conjunctiva covers which surfaces of the eye?",
+    "answers": [
+      {"id": "A", "text": "The entire front surface of the eye including the cornea"},
+      {"id": "B", "text": "The sclera (bulbar conjunctiva) and inner eyelids (palpebral conjunctiva), but NOT the cornea"},
+      {"id": "C", "text": "Only the inner surface of the eyelids"},
+      {"id": "D", "text": "Only the posterior surface of the eye"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The conjunctiva is a thin, transparent mucous membrane that covers the anterior sclera (bulbar conjunctiva) and lines the inner surface of the eyelids (palpebral conjunctiva). It does NOT cover the cornea. A pterygium is a wedge-shaped growth of conjunctival tissue that extends onto the cornea, potentially affecting vision. The conjunctival fornix is where the bulbar and palpebral portions meet.",
+    "cptCode": "65426"
+  },
+  {
+    "id": 163,
+    "section": "anatomy",
+    "subsection": "Sensory Organs",
+    "scenario": "An ENT surgeon performs a mastoidectomy for chronic mastoiditis. The operative note describes the mastoid air cells.",
+    "questionText": "The mastoid process is part of which bone?",
+    "answers": [
+      {"id": "A", "text": "Frontal bone"},
+      {"id": "B", "text": "Temporal bone"},
+      {"id": "C", "text": "Occipital bone"},
+      {"id": "D", "text": "Parietal bone"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The mastoid process is a conical projection of the temporal bone, located behind the ear. It contains air cells that communicate with the middle ear through the mastoid antrum. Mastoiditis is infection of these air cells, usually as a complication of otitis media. The facial nerve (CN VII) passes through the temporal bone near the mastoid, making it vulnerable during mastoid surgery.",
+    "cptCode": "69502"
+  },
+  {
+    "id": 164,
+    "section": "anatomy",
+    "subsection": "Urinary",
+    "scenario": "A patient undergoes a renal transplant. The surgeon documents placing the donor kidney in the iliac fossa and anastomosing the renal artery to the external iliac artery.",
+    "questionText": "A transplanted kidney is typically placed in which location?",
+    "answers": [
+      {"id": "A", "text": "Native kidney fossa (retroperitoneal, upper abdomen)"},
+      {"id": "B", "text": "Iliac fossa (lower abdomen, extraperitoneal)"},
+      {"id": "C", "text": "Pelvis, behind the bladder"},
+      {"id": "D", "text": "Right upper quadrant, next to the liver"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "A transplanted kidney is typically placed in the iliac fossa (right or left lower abdomen) in an extraperitoneal position. The renal artery is anastomosed to the external iliac artery, the renal vein to the external iliac vein, and the ureter is implanted into the bladder. The native kidneys are usually left in place unless there is a specific indication for removal.",
+    "cptCode": "50360"
+  },
+  {
+    "id": 165,
+    "section": "anatomy",
+    "subsection": "Reproductive",
+    "scenario": "A patient undergoes a hysterosalpingogram (HSG) for infertility evaluation. The radiologist documents the uterine cavity and fallopian tube patency.",
+    "questionText": "The fallopian tube has four anatomical segments. Which segment is closest to the ovary?",
+    "answers": [
+      {"id": "A", "text": "Intramural (interstitial) segment"},
+      {"id": "B", "text": "Isthmus"},
+      {"id": "C", "text": "Ampulla"},
+      {"id": "D", "text": "Infundibulum (with fimbriae)"}
+    ],
+    "correctAnswerId": "D",
+    "explanation": "The fallopian tube segments from uterus to ovary are: intramural (passes through the uterine wall), isthmus (narrow segment), ampulla (widest segment, where fertilization occurs), and infundibulum (funnel-shaped end with finger-like fimbriae that capture the released ovum). The fimbriae of the infundibulum are closest to the ovary.",
+    "cptCode": "74740"
+  },
+  {
+    "id": 166,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A patient undergoes a thoracic aortic aneurysm repair. The surgeon documents the anatomy of the aortic arch.",
+    "questionText": "The three great vessels arising from the aortic arch, from right to left, are:",
+    "answers": [
+      {"id": "A", "text": "Right common carotid, left common carotid, left subclavian"},
+      {"id": "B", "text": "Brachiocephalic trunk, left common carotid, left subclavian"},
+      {"id": "C", "text": "Right subclavian, right common carotid, left common carotid"},
+      {"id": "D", "text": "Brachiocephalic trunk, left subclavian, left common carotid"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The three great vessels arising from the aortic arch, from right to left, are: the brachiocephalic trunk (innominate artery, which divides into the right common carotid and right subclavian), the left common carotid artery, and the left subclavian artery. This is the most common anatomical configuration. Variations exist in approximately 20-30% of the population.",
+    "cptCode": "33870"
+  },
+  {
+    "id": 167,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient undergoes an Achilles tendon lengthening procedure. The surgeon documents the anatomy of the ankle joint.",
+    "questionText": "The ankle joint (talocrural joint) is formed by the articulation of which bones?",
+    "answers": [
+      {"id": "A", "text": "Tibia, fibula, and talus"},
+      {"id": "B", "text": "Tibia, fibula, and calcaneus"},
+      {"id": "C", "text": "Talus and calcaneus only"},
+      {"id": "D", "text": "Tibia and talus only"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The ankle joint (talocrural joint) is formed by the articulation of three bones: the tibia (medial malleolus and tibial plafond), fibula (lateral malleolus), and talus. The tibia and fibula form the ankle mortise that grips the talus. The subtalar joint (between the talus and calcaneus) is a separate joint responsible for inversion and eversion of the foot.",
+    "cptCode": "27650"
+  },
+  {
+    "id": 168,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A patient undergoes an endoscopic ultrasound (EUS) of the pancreas. The gastroenterologist documents the relationship of the pancreas to surrounding structures.",
+    "questionText": "The uncinate process of the pancreas hooks behind which vessel?",
+    "answers": [
+      {"id": "A", "text": "Celiac trunk"},
+      {"id": "B", "text": "Superior mesenteric artery and vein"},
+      {"id": "C", "text": "Inferior vena cava"},
+      {"id": "D", "text": "Portal vein"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The uncinate process is a hook-like extension of the pancreatic head that projects posteriorly and medially, passing behind the superior mesenteric artery (SMA) and superior mesenteric vein (SMV). This anatomical relationship is important in pancreatic surgery, as tumors involving the uncinate process may encase these vessels, affecting resectability.",
+    "cptCode": "43242"
+  },
+  {
+    "id": 169,
+    "section": "anatomy",
+    "subsection": "Nervous System",
+    "scenario": "A patient undergoes a spinal cord stimulator implantation for chronic pain. The surgeon places electrodes in the epidural space.",
+    "questionText": "The epidural space is located between which two structures?",
+    "answers": [
+      {"id": "A", "text": "Dura mater and arachnoid mater"},
+      {"id": "B", "text": "Vertebral periosteum (bone) and dura mater"},
+      {"id": "C", "text": "Arachnoid mater and pia mater"},
+      {"id": "D", "text": "Pia mater and spinal cord"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The epidural space is located between the vertebral periosteum (inner surface of the vertebral canal) and the dura mater (outermost meningeal layer). It contains fat, blood vessels, and nerve roots. Epidural anesthesia and spinal cord stimulators are placed in this space. The subdural space is between the dura and arachnoid. The subarachnoid space (containing CSF) is between the arachnoid and pia mater.",
+    "cptCode": "63650"
+  },
+  {
+    "id": 170,
+    "section": "anatomy",
+    "subsection": "Integumentary",
+    "scenario": "A plastic surgeon performs a tissue expander placement for breast reconstruction after mastectomy.",
+    "questionText": "In breast reconstruction, tissue expanders are typically placed in which anatomical plane?",
+    "answers": [
+      {"id": "A", "text": "Subcutaneous (above the pectoralis major muscle)"},
+      {"id": "B", "text": "Subpectoral (beneath the pectoralis major muscle)"},
+      {"id": "C", "text": "Intraperitoneal"},
+      {"id": "D", "text": "Within the breast parenchyma"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Tissue expanders for breast reconstruction are typically placed in the subpectoral (submuscular) plane, beneath the pectoralis major muscle. This provides better soft tissue coverage over the implant, reducing the risk of implant exposure and capsular contracture. Some surgeons use a dual-plane technique with partial muscle coverage. The breast parenchyma has been removed during mastectomy.",
+    "cptCode": "19357"
+  },
+  {
+    "id": 171,
+    "section": "anatomy",
+    "subsection": "Endocrine",
+    "scenario": "A patient with acromegaly undergoes a glucose tolerance test. The endocrinologist explains that growth hormone is produced by the anterior pituitary.",
+    "questionText": "Which of the following hormones is NOT produced by the anterior pituitary gland?",
+    "answers": [
+      {"id": "A", "text": "Growth hormone (GH)"},
+      {"id": "B", "text": "Thyroid-stimulating hormone (TSH)"},
+      {"id": "C", "text": "Antidiuretic hormone (ADH/vasopressin)"},
+      {"id": "D", "text": "Adrenocorticotropic hormone (ACTH)"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "Antidiuretic hormone (ADH/vasopressin) is produced by the hypothalamus and stored/released by the posterior pituitary gland, not the anterior pituitary. The anterior pituitary produces GH, TSH, ACTH, FSH, LH, and prolactin. The posterior pituitary also releases oxytocin. Understanding pituitary anatomy is important for coding pituitary surgery and endocrine disorders.",
+    "cptCode": "83003"
+  },
+  {
+    "id": 172,
+    "section": "anatomy",
+    "subsection": "Lymphatic",
+    "scenario": "A patient undergoes a bone marrow aspiration and biopsy from the posterior iliac crest. The hematologist explains the role of bone marrow in blood cell production.",
+    "questionText": "The process of blood cell formation in the bone marrow is called:",
+    "answers": [
+      {"id": "A", "text": "Hemostasis"},
+      {"id": "B", "text": "Hematopoiesis"},
+      {"id": "C", "text": "Hemolysis"},
+      {"id": "D", "text": "Homeostasis"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Hematopoiesis is the process of blood cell formation, occurring primarily in the red bone marrow. All blood cells (red blood cells, white blood cells, and platelets) originate from hematopoietic stem cells. In adults, active red marrow is found in the pelvis, vertebrae, sternum, ribs, and proximal long bones. Hemostasis is blood clotting. Hemolysis is red blood cell destruction.",
+    "cptCode": "38220"
+  },
+  {
+    "id": 173,
+    "section": "anatomy",
+    "subsection": "Sensory Organs",
+    "scenario": "A patient undergoes a corneal transplant (keratoplasty) for keratoconus. The ophthalmologist documents the corneal anatomy.",
+    "questionText": "The cornea is the transparent anterior portion of the eye's outer layer. It is avascular, meaning it:",
+    "answers": [
+      {"id": "A", "text": "Has a rich blood supply"},
+      {"id": "B", "text": "Has no blood vessels"},
+      {"id": "C", "text": "Has only venous drainage"},
+      {"id": "D", "text": "Has only lymphatic vessels"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The cornea is avascular, meaning it has no blood vessels. It receives oxygen and nutrients from the aqueous humor (posteriorly), tear film (anteriorly), and limbal blood vessels (peripherally). This avascularity is essential for corneal transparency and clear vision. It also makes corneal transplantation relatively successful because the lack of blood vessels reduces immune rejection.",
+    "cptCode": "65730"
+  },
+  {
+    "id": 174,
+    "section": "anatomy",
+    "subsection": "Urinary",
+    "scenario": "A patient undergoes a urodynamic study for urinary incontinence. The urologist discusses the anatomy of the pelvic floor.",
+    "questionText": "The levator ani muscle is the primary muscle of which structure?",
+    "answers": [
+      {"id": "A", "text": "Abdominal wall"},
+      {"id": "B", "text": "Pelvic floor (pelvic diaphragm)"},
+      {"id": "C", "text": "Diaphragm"},
+      {"id": "D", "text": "Perineum only"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The levator ani is the primary muscle of the pelvic floor (pelvic diaphragm). It consists of three parts: pubococcygeus, puborectalis, and iliococcygeus. It supports the pelvic organs (bladder, uterus, rectum), maintains urinary and fecal continence, and plays a role in childbirth. Weakness of the pelvic floor can lead to pelvic organ prolapse and incontinence.",
+    "cptCode": "51729"
+  },
+  {
+    "id": 175,
+    "section": "anatomy",
+    "subsection": "Reproductive",
+    "scenario": "A patient undergoes a breast biopsy. The surgeon documents the quadrant system used to describe breast lesion locations.",
+    "questionText": "Breast cancer most commonly occurs in which quadrant?",
+    "answers": [
+      {"id": "A", "text": "Upper outer quadrant"},
+      {"id": "B", "text": "Upper inner quadrant"},
+      {"id": "C", "text": "Lower outer quadrant"},
+      {"id": "D", "text": "Lower inner quadrant"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "Breast cancer most commonly occurs in the upper outer quadrant (approximately 50% of cases), because this quadrant contains the greatest amount of breast tissue, including the axillary tail of Spence. The breast is divided into four quadrants (upper outer, upper inner, lower outer, lower inner) plus the central/subareolar region for documentation and coding purposes.",
+    "cptCode": "19081"
+  },
+  {
+    "id": 176,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A patient undergoes a cardiac MRI. The radiologist documents the four pulmonary veins draining into the left atrium.",
+    "questionText": "How many pulmonary veins typically drain into the left atrium?",
+    "answers": [
+      {"id": "A", "text": "Two"},
+      {"id": "B", "text": "Three"},
+      {"id": "C", "text": "Four"},
+      {"id": "D", "text": "Six"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "Typically four pulmonary veins drain into the left atrium: two from the right lung (right superior and right inferior) and two from the left lung (left superior and left inferior). They carry oxygenated blood from the lungs. Anomalous pulmonary venous return is a congenital condition where some or all pulmonary veins drain into the right atrium or its tributaries instead.",
+    "cptCode": "75557"
+  },
+  {
+    "id": 177,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient undergoes a wrist arthroscopy. The surgeon documents the triangular fibrocartilage complex (TFCC) tear.",
+    "questionText": "The TFCC is located on which side of the wrist?",
+    "answers": [
+      {"id": "A", "text": "Radial (thumb) side"},
+      {"id": "B", "text": "Ulnar (pinky) side"},
+      {"id": "C", "text": "Dorsal surface"},
+      {"id": "D", "text": "Palmar surface"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The triangular fibrocartilage complex (TFCC) is located on the ulnar (pinky) side of the wrist, between the distal ulna and the carpal bones (lunate and triquetrum). It acts as a cushion and stabilizer for the distal radioulnar joint. TFCC tears cause ulnar-sided wrist pain and can result from trauma or degeneration. Arthroscopic repair is coded as CPT 29846.",
+    "cptCode": "29846"
+  },
+  {
+    "id": 178,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient undergoes a hip arthroscopy for femoroacetabular impingement (FAI). The surgeon documents cam-type impingement.",
+    "questionText": "In cam-type femoroacetabular impingement, the abnormality is located on which structure?",
+    "answers": [
+      {"id": "A", "text": "Acetabular rim"},
+      {"id": "B", "text": "Femoral head-neck junction"},
+      {"id": "C", "text": "Labrum only"},
+      {"id": "D", "text": "Greater trochanter"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "In cam-type FAI, there is an abnormal bony bump on the femoral head-neck junction that causes impingement against the acetabular rim during hip flexion and rotation. In pincer-type FAI, the abnormality is acetabular over-coverage. Many patients have mixed (cam + pincer) impingement. Cam lesions are more common in young males and athletes.",
+    "cptCode": "29914"
+  },
+  {
+    "id": 179,
+    "section": "anatomy",
+    "subsection": "Respiratory",
+    "scenario": "A patient undergoes a flexible bronchoscopy with bronchoalveolar lavage. The pulmonologist documents the anatomy of the bronchial tree.",
+    "questionText": "The right lung has how many segmental bronchi?",
+    "answers": [
+      {"id": "A", "text": "Eight"},
+      {"id": "B", "text": "Ten"},
+      {"id": "C", "text": "Twelve"},
+      {"id": "D", "text": "Fifteen"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The right lung has 10 segmental (tertiary) bronchi, corresponding to 10 bronchopulmonary segments: 3 in the upper lobe, 2 in the middle lobe, and 5 in the lower lobe. The left lung has 8-10 segmental bronchi (some segments are often combined). Each bronchopulmonary segment is a functionally independent unit with its own bronchus and blood supply.",
+    "cptCode": "31624"
+  },
+  {
+    "id": 180,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A patient undergoes a hemorrhoidectomy. The surgeon documents internal hemorrhoids above the dentate line.",
+    "questionText": "The dentate (pectinate) line in the anal canal marks the boundary between which two types of epithelium?",
+    "answers": [
+      {"id": "A", "text": "Stratified squamous and simple columnar epithelium"},
+      {"id": "B", "text": "Keratinized and non-keratinized epithelium"},
+      {"id": "C", "text": "Transitional and simple squamous epithelium"},
+      {"id": "D", "text": "Pseudostratified and stratified squamous epithelium"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The dentate (pectinate) line marks the transition from simple columnar epithelium (above, rectal mucosa) to stratified squamous epithelium (below, anal skin). Internal hemorrhoids arise above the dentate line (painless, covered by mucosa), while external hemorrhoids arise below it (painful, covered by skin). This distinction affects both treatment and coding.",
+    "cptCode": "46260"
+  },
+  {
+    "id": 181,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A surgeon performs a distal pancreatectomy with splenectomy. The operative note describes the tail of the pancreas extending toward the splenic hilum.",
+    "questionText": "The pancreas is divided into which anatomical parts?",
+    "answers": [
+      {"id": "A", "text": "Head, neck, body, and tail"},
+      {"id": "B", "text": "Fundus, body, and antrum"},
+      {"id": "C", "text": "Superior, middle, and inferior"},
+      {"id": "D", "text": "Cortex and medulla"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The pancreas is divided into four anatomical parts: head (nestled in the duodenal C-loop, includes the uncinate process), neck (overlying the superior mesenteric vessels), body (extending to the left), and tail (extending to the splenic hilum). The main pancreatic duct (of Wirsung) runs the length of the gland. Fundus, body, and antrum describe the stomach.",
+    "cptCode": "48140"
+  },
+  {
+    "id": 182,
+    "section": "anatomy",
+    "subsection": "Nervous System",
+    "scenario": "A patient undergoes a temporal lobectomy for medically refractory epilepsy. The neurosurgeon documents the hippocampus within the temporal lobe.",
+    "questionText": "The hippocampus is primarily involved in which function?",
+    "answers": [
+      {"id": "A", "text": "Motor coordination"},
+      {"id": "B", "text": "Memory formation and consolidation"},
+      {"id": "C", "text": "Visual processing"},
+      {"id": "D", "text": "Speech production"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The hippocampus, located in the medial temporal lobe, is primarily involved in memory formation and consolidation, particularly converting short-term memories to long-term memories. It is also involved in spatial navigation. Damage to the hippocampus (as in Alzheimer's disease) causes anterograde amnesia. The cerebellum coordinates movement, the occipital lobe processes vision, and Broca's area produces speech.",
+    "cptCode": "61537"
+  },
+  {
+    "id": 183,
+    "section": "anatomy",
+    "subsection": "Nervous System",
+    "scenario": "A patient undergoes a selective dorsal rhizotomy for spasticity. The neurosurgeon documents cutting selected sensory nerve rootlets.",
+    "questionText": "Dorsal (posterior) nerve roots carry which type of nerve fibers?",
+    "answers": [
+      {"id": "A", "text": "Motor (efferent) fibers"},
+      {"id": "B", "text": "Sensory (afferent) fibers"},
+      {"id": "C", "text": "Both motor and sensory fibers"},
+      {"id": "D", "text": "Autonomic fibers only"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Dorsal (posterior) nerve roots carry sensory (afferent) fibers that transmit information from the body to the spinal cord. Ventral (anterior) nerve roots carry motor (efferent) fibers from the spinal cord to the muscles. This is known as the Bell-Magendie law. The dorsal root ganglion contains the cell bodies of sensory neurons. Spinal nerves (formed by the union of dorsal and ventral roots) carry both types.",
+    "cptCode": "63185"
+  },
+  {
+    "id": 184,
+    "section": "anatomy",
+    "subsection": "Endocrine",
+    "scenario": "A patient undergoes a fine needle aspiration biopsy of a thyroid nodule. The endocrinologist discusses thyroid anatomy.",
+    "questionText": "The isthmus of the thyroid gland typically overlies which tracheal rings?",
+    "answers": [
+      {"id": "A", "text": "1st and 2nd"},
+      {"id": "B", "text": "2nd through 4th"},
+      {"id": "C", "text": "5th and 6th"},
+      {"id": "D", "text": "7th and 8th"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The isthmus of the thyroid gland typically overlies the 2nd through 4th tracheal rings, connecting the right and left lobes. The thyroid gland is located anterior to the trachea in the lower neck. A pyramidal lobe (a remnant of the thyroglossal duct) is present in about 50% of people, extending superiorly from the isthmus. Tracheostomy is typically performed below the isthmus.",
+    "cptCode": "60100"
+  },
+  {
+    "id": 185,
+    "section": "anatomy",
+    "subsection": "Lymphatic",
+    "scenario": "A patient undergoes a PET/CT scan for staging of lung cancer. The oncologist documents mediastinal lymph node stations.",
+    "questionText": "The subcarinal lymph nodes (station 7) are located at which anatomical landmark?",
+    "answers": [
+      {"id": "A", "text": "Above the aortic arch"},
+      {"id": "B", "text": "Below the carina (tracheal bifurcation)"},
+      {"id": "C", "text": "In the axilla"},
+      {"id": "D", "text": "Along the internal mammary vessels"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Subcarinal lymph nodes (station 7) are located below the carina, the point where the trachea bifurcates into the right and left main bronchi. They are important in lung cancer staging because involvement indicates at least N2 disease. The mediastinal lymph node stations are numbered 1-14 and are used in the TNM staging system for lung cancer.",
+    "cptCode": "78816"
+  },
+  {
+    "id": 186,
+    "section": "anatomy",
+    "subsection": "Sensory Organs",
+    "scenario": "An ophthalmologist performs a strabismus surgery. The surgeon documents adjusting the medial rectus muscle of the eye.",
+    "questionText": "How many extraocular muscles control each eye's movement?",
+    "answers": [
+      {"id": "A", "text": "Four"},
+      {"id": "B", "text": "Five"},
+      {"id": "C", "text": "Six"},
+      {"id": "D", "text": "Eight"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "Six extraocular muscles control each eye's movement: four rectus muscles (superior, inferior, medial, lateral) and two oblique muscles (superior and inferior). The lateral rectus is innervated by CN VI (abducens), the superior oblique by CN IV (trochlear), and all others by CN III (oculomotor). Strabismus surgery adjusts the tension of these muscles to correct eye alignment.",
+    "cptCode": "67311"
+  },
+  {
+    "id": 187,
+    "section": "anatomy",
+    "subsection": "Sensory Organs",
+    "scenario": "An ENT surgeon performs a parotidectomy for a parotid gland tumor. The surgeon carefully identifies and preserves the facial nerve.",
+    "questionText": "The parotid gland is the largest of which type of glands?",
+    "answers": [
+      {"id": "A", "text": "Endocrine glands"},
+      {"id": "B", "text": "Salivary glands"},
+      {"id": "C", "text": "Lymph glands"},
+      {"id": "D", "text": "Sweat glands"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The parotid gland is the largest of the three paired major salivary glands (parotid, submandibular, sublingual). It is located anterior to the ear and produces serous (watery) saliva. The facial nerve (CN VII) passes through the parotid gland, dividing it into superficial and deep lobes. This relationship makes facial nerve preservation critical during parotidectomy.",
+    "cptCode": "42410"
+  },
+  {
+    "id": 188,
+    "section": "anatomy",
+    "subsection": "Urinary",
+    "scenario": "A urologist performs a partial nephrectomy for a small renal mass. The surgeon clamps the renal hilum during the procedure.",
+    "questionText": "The structures entering and exiting the kidney at the hilum include, from anterior to posterior:",
+    "answers": [
+      {"id": "A", "text": "Renal artery, renal vein, ureter"},
+      {"id": "B", "text": "Renal vein, renal artery, ureter"},
+      {"id": "C", "text": "Ureter, renal artery, renal vein"},
+      {"id": "D", "text": "Renal artery, ureter, renal vein"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "At the renal hilum, from anterior to posterior, the structures are: renal vein (most anterior), renal artery (middle), and ureter/renal pelvis (most posterior). The mnemonic 'VAU' (Vein, Artery, Ureter) from anterior to posterior helps remember this arrangement. During partial nephrectomy, the renal artery is often clamped to create a bloodless field.",
+    "cptCode": "50240"
+  },
+  {
+    "id": 189,
+    "section": "anatomy",
+    "subsection": "Reproductive",
+    "scenario": "A patient undergoes a loop electrosurgical excision procedure (LEEP) of the cervix for cervical dysplasia.",
+    "questionText": "The transformation zone of the cervix is the area where:",
+    "answers": [
+      {"id": "A", "text": "The cervix meets the vagina"},
+      {"id": "B", "text": "Squamous epithelium meets columnar epithelium"},
+      {"id": "C", "text": "The endometrium meets the myometrium"},
+      {"id": "D", "text": "The cervical canal meets the uterine cavity"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The transformation zone of the cervix is the area where the squamous epithelium of the ectocervix meets the columnar epithelium of the endocervix (squamocolumnar junction). This zone is the most common site for cervical dysplasia and cervical cancer because the actively dividing cells in this area are most susceptible to HPV infection. Pap smears sample this zone.",
+    "cptCode": "57460"
+  },
+  {
+    "id": 190,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A patient undergoes a lower extremity arterial bypass. The vascular surgeon harvests the great saphenous vein as a conduit.",
+    "questionText": "The great saphenous vein originates from which structure on the foot?",
+    "answers": [
+      {"id": "A", "text": "Lateral malleolus"},
+      {"id": "B", "text": "Dorsal venous arch of the foot, anterior to the medial malleolus"},
+      {"id": "C", "text": "Plantar surface of the foot"},
+      {"id": "D", "text": "Posterior to the lateral malleolus"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The great saphenous vein originates from the medial end of the dorsal venous arch of the foot, passing anterior to the medial malleolus and ascending along the medial aspect of the leg and thigh. It is the longest vein in the body. It drains into the common femoral vein at the saphenofemoral junction. It is commonly harvested for coronary and peripheral bypass grafts.",
+    "cptCode": "35556"
+  },
+  {
+    "id": 191,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient undergoes a spinal fusion with instrumentation. The surgeon documents placing pedicle screws through the vertebral pedicles.",
+    "questionText": "The vertebral pedicle connects which two parts of a vertebra?",
+    "answers": [
+      {"id": "A", "text": "Vertebral body and spinous process"},
+      {"id": "B", "text": "Vertebral body and lamina (posterior arch)"},
+      {"id": "C", "text": "Transverse process and spinous process"},
+      {"id": "D", "text": "Superior and inferior articular processes"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The vertebral pedicle is a short, thick bony projection that connects the vertebral body (anteriorly) to the lamina and posterior arch (posteriorly). The pedicles form the lateral walls of the vertebral foramen. Pedicle screws are placed through the pedicles into the vertebral body for spinal fixation. The laminae form the posterior wall, and the spinous process projects posteriorly from the junction of the laminae.",
+    "cptCode": "22842"
+  },
+  {
+    "id": 192,
+    "section": "anatomy",
+    "subsection": "Digestive",
+    "scenario": "A patient undergoes a Billroth II gastrectomy. The surgeon documents the reconstruction involving a gastrojejunostomy.",
+    "questionText": "In a Billroth II reconstruction, the gastric remnant is anastomosed to which structure?",
+    "answers": [
+      {"id": "A", "text": "Duodenum"},
+      {"id": "B", "text": "Jejunum"},
+      {"id": "C", "text": "Ileum"},
+      {"id": "D", "text": "Esophagus"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "In a Billroth II reconstruction, the gastric remnant is anastomosed to a loop of jejunum (gastrojejunostomy), bypassing the duodenum. In a Billroth I reconstruction, the gastric remnant is anastomosed directly to the duodenum (gastroduodenostomy). Billroth II is used when the duodenum cannot be used for anastomosis. Understanding these reconstructions is essential for coding gastric surgery.",
+    "cptCode": "43632"
+  },
+  {
+    "id": 193,
+    "section": "anatomy",
+    "subsection": "Nervous System",
+    "scenario": "A patient undergoes a deep brain stimulation (DBS) implantation for Parkinson's disease. The neurosurgeon targets the subthalamic nucleus.",
+    "questionText": "Parkinson's disease is primarily caused by degeneration of dopaminergic neurons in which brain structure?",
+    "answers": [
+      {"id": "A", "text": "Cerebellum"},
+      {"id": "B", "text": "Hippocampus"},
+      {"id": "C", "text": "Substantia nigra"},
+      {"id": "D", "text": "Thalamus"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "Parkinson's disease is caused by degeneration of dopaminergic neurons in the substantia nigra pars compacta, located in the midbrain. This leads to dopamine deficiency in the basal ganglia, causing the cardinal symptoms: tremor, rigidity, bradykinesia, and postural instability. Deep brain stimulation of the subthalamic nucleus or globus pallidus internus can improve symptoms.",
+    "cptCode": "61863"
+  },
+  {
+    "id": 194,
+    "section": "anatomy",
+    "subsection": "Integumentary",
+    "scenario": "A dermatologist evaluates a patient with melanoma. The pathologist reports the Breslow thickness of the lesion.",
+    "questionText": "Breslow thickness measures the depth of melanoma from which anatomical landmark?",
+    "answers": [
+      {"id": "A", "text": "From the stratum basale to the deepest tumor cell"},
+      {"id": "B", "text": "From the granular layer of the epidermis to the deepest tumor cell"},
+      {"id": "C", "text": "From the skin surface to the subcutaneous tissue"},
+      {"id": "D", "text": "From the dermis to the muscle fascia"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "Breslow thickness measures the depth of melanoma from the granular layer of the epidermis (or the base of an ulcer if present) to the deepest identifiable tumor cell. It is the most important prognostic factor for melanoma. Thicknesses are categorized as: less than 1mm (thin), 1-2mm, 2-4mm, and greater than 4mm (thick). Breslow thickness determines the recommended excision margins.",
+    "cptCode": "88305"
+  },
+  {
+    "id": 195,
+    "section": "anatomy",
+    "subsection": "Endocrine",
+    "scenario": "A patient undergoes a bilateral adrenalectomy. The surgeon documents the anatomy of the adrenal glands and their relationship to the kidneys.",
+    "questionText": "The right adrenal gland is closely related to which major vessel?",
+    "answers": [
+      {"id": "A", "text": "Abdominal aorta"},
+      {"id": "B", "text": "Inferior vena cava"},
+      {"id": "C", "text": "Portal vein"},
+      {"id": "D", "text": "Superior mesenteric artery"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The right adrenal gland is closely related to the inferior vena cava (IVC), with the right adrenal vein draining directly into the IVC (very short vein). The left adrenal vein drains into the left renal vein. This anatomical difference is surgically important because the short right adrenal vein can be easily torn during right adrenalectomy, causing significant hemorrhage.",
+    "cptCode": "60540"
+  },
+  {
+    "id": 196,
+    "section": "anatomy",
+    "subsection": "Lymphatic",
+    "scenario": "A patient undergoes a radical neck dissection for metastatic squamous cell carcinoma. The surgeon documents removing lymph node levels I through V.",
+    "questionText": "The cervical lymph nodes are classified into how many levels?",
+    "answers": [
+      {"id": "A", "text": "Three"},
+      {"id": "B", "text": "Five"},
+      {"id": "C", "text": "Six (I through VI)"},
+      {"id": "D", "text": "Eight"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The cervical lymph nodes are classified into six levels (I through VI), plus level VII (superior mediastinal). Level I includes submental and submandibular nodes. Level II-IV are along the internal jugular vein (upper, middle, lower). Level V is the posterior triangle. Level VI is the anterior compartment (pretracheal, paratracheal). This classification guides surgical planning and coding.",
+    "cptCode": "38720"
+  },
+  {
+    "id": 197,
+    "section": "anatomy",
+    "subsection": "Sensory Organs",
+    "scenario": "An ophthalmologist performs a vitrectomy. The surgeon documents the vitreous humor filling the posterior segment of the eye.",
+    "questionText": "The vitreous humor fills which space in the eye?",
+    "answers": [
+      {"id": "A", "text": "Anterior chamber (between cornea and iris)"},
+      {"id": "B", "text": "Posterior chamber (between iris and lens)"},
+      {"id": "C", "text": "Vitreous chamber (between lens and retina)"},
+      {"id": "D", "text": "Subretinal space"}
+    ],
+    "correctAnswerId": "C",
+    "explanation": "The vitreous humor is a clear, gel-like substance that fills the vitreous chamber (posterior segment), the space between the lens and the retina. It makes up about 80% of the eye's volume and helps maintain the eye's shape. The anterior chamber (between cornea and iris) and posterior chamber (between iris and lens) contain aqueous humor. Vitrectomy removes the vitreous for various retinal conditions.",
+    "cptCode": "67036"
+  },
+  {
+    "id": 198,
+    "section": "anatomy",
+    "subsection": "Urinary",
+    "scenario": "A urologist performs a circumcision. The surgeon documents the anatomy of the foreskin.",
+    "questionText": "The external urethral meatus in males is located at which anatomical site?",
+    "answers": [
+      {"id": "A", "text": "Base of the penis"},
+      {"id": "B", "text": "Tip of the glans penis"},
+      {"id": "C", "text": "Perineum"},
+      {"id": "D", "text": "Scrotum"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The external urethral meatus (opening) in males is located at the tip of the glans penis. Hypospadias is a congenital condition where the meatus opens on the ventral (underside) surface of the penis. Epispadias is when it opens on the dorsal (top) surface. The location of the meatus is important for coding urethral and penile procedures.",
+    "cptCode": "54150"
+  },
+  {
+    "id": 199,
+    "section": "anatomy",
+    "subsection": "Cardiovascular",
+    "scenario": "A patient undergoes a cardiac electrophysiology study. The cardiologist maps the electrical conduction system of the heart.",
+    "questionText": "The normal cardiac conduction pathway, in order, is:",
+    "answers": [
+      {"id": "A", "text": "AV node, SA node, bundle of His, Purkinje fibers"},
+      {"id": "B", "text": "SA node, AV node, bundle of His, bundle branches, Purkinje fibers"},
+      {"id": "C", "text": "Purkinje fibers, bundle of His, AV node, SA node"},
+      {"id": "D", "text": "SA node, Purkinje fibers, AV node, bundle of His"}
+    ],
+    "correctAnswerId": "B",
+    "explanation": "The normal cardiac conduction pathway is: SA node (pacemaker, in the right atrium) generates the impulse, which travels through the atria to the AV node (at the interatrial septum), then through the bundle of His, right and left bundle branches, and finally the Purkinje fibers, which stimulate ventricular contraction. The SA node normally fires at 60-100 beats per minute.",
+    "cptCode": "93600"
+  },
+  {
+    "id": 200,
+    "section": "anatomy",
+    "subsection": "Musculoskeletal",
+    "scenario": "A patient undergoes a total elbow arthroplasty. The surgeon documents the three bones that form the elbow joint complex.",
+    "questionText": "The elbow joint is formed by the articulation of which three bones?",
+    "answers": [
+      {"id": "A", "text": "Humerus, radius, and ulna"},
+      {"id": "B", "text": "Humerus, scapula, and radius"},
+      {"id": "C", "text": "Radius, ulna, and scaphoid"},
+      {"id": "D", "text": "Humerus, clavicle, and ulna"}
+    ],
+    "correctAnswerId": "A",
+    "explanation": "The elbow joint complex is formed by three bones: the humerus, radius, and ulna. It consists of three articulations within a single joint capsule: the humeroulnar joint (hinge, flexion/extension), the humeroradial joint (rotation), and the proximal radioulnar joint (pronation/supination). The trochlea of the humerus articulates with the ulna, and the capitellum articulates with the radial head.",
+    "cptCode": "24363"
+  }
+]

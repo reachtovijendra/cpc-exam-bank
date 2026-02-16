@@ -1,0 +1,162 @@
+@if (result(); as examResult) {
+  <div class="results-container">
+    <!-- Score Header -->
+    <header class="score-header" [class]="getScoreClass()">
+      <div class="score-content">
+        <div class="score-icon">
+          <i class="fa-solid" [class]="getScoreIcon()"></i>
+        </div>
+        <h1>{{ getScoreMessage() }}</h1>
+        <p class="section-name">{{ examResult.sectionName }}</p>
+
+        <div class="score-display">
+          <div class="score-circle">
+            <span class="score-number">{{ examResult.score }}%</span>
+            <span class="score-label">Score</span>
+          </div>
+        </div>
+
+        <div class="score-stats">
+          <div class="stat">
+            <span class="stat-value">{{ examResult.correctAnswers }}</span>
+            <span class="stat-label">Correct</span>
+          </div>
+          <div class="stat-divider"></div>
+          <div class="stat">
+            <span class="stat-value">{{ examResult.totalQuestions - examResult.correctAnswers }}</span>
+            <span class="stat-label">Incorrect</span>
+          </div>
+          <div class="stat-divider"></div>
+          <div class="stat">
+            <span class="stat-value">{{ examResult.totalQuestions }}</span>
+            <span class="stat-label">Total</span>
+          </div>
+          <div class="stat-divider"></div>
+          <div class="stat">
+            <span class="stat-value">70%</span>
+            <span class="stat-label">Passing</span>
+          </div>
+        </div>
+
+        <div class="header-actions">
+          <button class="action-btn new-test" (click)="newTest()">
+            <i class="fa-solid fa-shuffle"></i> New Test
+          </button>
+          <button class="action-btn retake" (click)="retakeExam()">
+            <i class="fa-solid fa-rotate-right"></i> Retake Exam
+          </button>
+          <button class="action-btn home" (click)="goHome()">
+            <i class="fa-solid fa-house"></i> Back to Sections
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <!-- Answer Review -->
+    <main class="review-section">
+      <div class="review-header">
+        <h2>Answer Review</h2>
+        <div class="review-actions">
+          <button class="toggle-btn" (click)="showAllExplanations()">
+            <i class="fa-solid fa-eye"></i> Show All Explanations
+          </button>
+          <button class="toggle-btn" (click)="hideAllExplanations()">
+            <i class="fa-solid fa-eye-slash"></i> Hide All
+          </button>
+        </div>
+      </div>
+
+      @for (qr of examResult.questionResults; track qr.question.id; let i = $index) {
+        <div class="review-card" [class.correct]="qr.isCorrect" [class.incorrect]="!qr.isCorrect">
+          <div class="review-card-header">
+            <div class="review-status">
+              @if (qr.isCorrect) {
+                <span class="status-badge correct">
+                  <i class="fa-solid fa-check"></i> Correct
+                </span>
+              } @else {
+                <span class="status-badge incorrect">
+                  <i class="fa-solid fa-xmark"></i> Incorrect
+                </span>
+              }
+              <span class="question-label">Question {{ i + 1 }}</span>
+              @if (qr.question.cptCode) {
+                <span class="cpt-badge">CPT {{ qr.question.cptCode }}</span>
+              }
+              <span class="subsection-badge">{{ qr.question.subsection }}</span>
+            </div>
+          </div>
+
+          <div class="review-scenario">
+            <p>{{ qr.question.scenario }}</p>
+          </div>
+
+          <div class="review-question">
+            <p>{{ qr.question.questionText }}</p>
+          </div>
+
+          <div class="review-answers">
+            @for (answer of qr.question.answers; track answer.id) {
+              <div
+                class="review-answer"
+                [class.correct-answer]="answer.id === qr.question.correctAnswerId"
+                [class.wrong-answer]="answer.id === qr.selectedAnswerId && !qr.isCorrect"
+                [class.not-selected]="answer.id !== qr.selectedAnswerId && answer.id !== qr.question.correctAnswerId">
+                <span class="review-letter">{{ answer.id }}</span>
+                <span class="review-answer-text">{{ answer.text }}</span>
+                @if (answer.id === qr.question.correctAnswerId) {
+                  <span class="answer-badge correct-badge">
+                    <i class="fa-solid fa-check"></i> Correct Answer
+                  </span>
+                }
+                @if (answer.id === qr.selectedAnswerId && !qr.isCorrect) {
+                  <span class="answer-badge wrong-badge">
+                    <i class="fa-solid fa-xmark"></i> Your Answer
+                  </span>
+                }
+                @if (answer.id === qr.selectedAnswerId && qr.isCorrect) {
+                  <span class="answer-badge correct-badge">
+                    <i class="fa-solid fa-check"></i> Your Answer
+                  </span>
+                }
+              </div>
+            }
+
+            @if (!qr.selectedAnswerId) {
+              <div class="no-answer-warning">
+                <i class="fa-solid fa-triangle-exclamation"></i> You did not answer this question.
+              </div>
+            }
+          </div>
+
+          <button class="explanation-toggle" (click)="toggleExplanation(qr.question.id)">
+            <i class="fa-solid" [class]="isExplanationVisible(qr.question.id) ? 'fa-chevron-up' : 'fa-chevron-down'"></i>
+            {{ isExplanationVisible(qr.question.id) ? 'Hide' : 'Show' }} Explanation
+          </button>
+
+          @if (isExplanationVisible(qr.question.id)) {
+            <div class="explanation">
+              <div class="explanation-content">
+                <i class="fa-solid fa-lightbulb"></i>
+                <p>{{ qr.question.explanation }}</p>
+              </div>
+            </div>
+          }
+        </div>
+      }
+    </main>
+
+    <!-- Bottom Actions -->
+    <footer class="bottom-actions">
+      <button class="action-btn new-test" (click)="newTest()">
+        <i class="fa-solid fa-shuffle"></i> New Test
+      </button>
+      <button class="action-btn retake" (click)="retakeExam()">
+        <i class="fa-solid fa-rotate-right"></i> Retake This Section
+      </button>
+      <button class="action-btn home" (click)="goHome()">
+        <i class="fa-solid fa-house"></i> Choose Another Section
+      </button>
+    </footer>
+  </div>
+}

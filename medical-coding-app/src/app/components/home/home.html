@@ -1,0 +1,42 @@
+<div class="home-container">
+  <header class="hero-section">
+    <div class="hero-content">
+      <div class="badge">AAPC CPC Exam Prep</div>
+      <h1>Medical Coding Practice</h1>
+      <p class="subtitle">Anatomy & Medical Terminology</p>
+      <p class="description">
+        Prepare for your CPC certification exam with realistic practice questions.
+        Each test draws 10 random questions from a larger pool. Use "New Test" to get a fresh set of questions.
+      </p>
+    </div>
+  </header>
+
+  <main class="sections-container">
+    <h2 class="sections-title">Choose a Section</h2>
+    <div class="sections-grid">
+      @for (section of sections; track section.id) {
+        <div class="section-card" (click)="startExam(section.id)">
+          <div class="card-icon">
+            <i class="fa-solid" [class]="getSectionIcon(section.icon)"></i>
+          </div>
+          <div class="card-content">
+            <h3>{{ section.name }}</h3>
+            <p class="cpt-range">{{ section.cptRange }}</p>
+            <p class="card-description">{{ section.description }}</p>
+            <div class="card-footer">
+              <span class="question-count">{{ section.questionCount }} Questions per Test ({{ section.totalPoolSize }} in pool)</span>
+              <span class="start-btn">Start Practice <i class="fa-solid fa-arrow-right"></i></span>
+            </div>
+          </div>
+        </div>
+      }
+    </div>
+
+    <div class="full-exam-section">
+      <button class="full-exam-btn" (click)="startFullExam()">
+        <i class="fa-solid fa-clipboard-list"></i>
+        Take Full Exam (Both Sections - 20 Questions)
+      </button>
+    </div>
+  </main>
+</div>

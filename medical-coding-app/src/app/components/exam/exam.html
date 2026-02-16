@@ -1,0 +1,161 @@
+<div class="exam-container">
+  <!-- Header -->
+  <header class="exam-header">
+    <div class="header-left">
+      <button class="back-btn" (click)="goHome()">
+        <i class="fa-solid fa-arrow-left"></i> Back
+      </button>
+      <div class="header-info">
+        <h1>{{ sectionName() }}</h1>
+        <p class="exam-meta">
+          Question {{ currentQuestionIndex() + 1 }} of {{ totalQuestions() }}
+          &bull; {{ answeredCount() }} answered
+        </p>
+      </div>
+    </div>
+    <div class="header-right">
+      <button class="new-test-btn" (click)="newTest()">
+        <i class="fa-solid fa-shuffle"></i> New Test
+      </button>
+      <button
+        class="submit-btn"
+        [class.ready]="allAnswered()"
+        (click)="confirmSubmit()"
+        [disabled]="answeredCount() === 0">
+        <i class="fa-solid fa-paper-plane"></i> Submit Exam
+      </button>
+    </div>
+  </header>
+
+  <!-- Progress Bar -->
+  <div class="progress-bar-container">
+    <div class="progress-bar" [style.width.%]="progress()"></div>
+  </div>
+
+  @if (currentQuestion(); as question) {
+    <div class="exam-body">
+      <!-- Question Navigator -->
+      <aside class="question-nav">
+        <h3>Questions</h3>
+        <div class="nav-grid">
+          @for (q of questions(); track q.id; let i = $index) {
+            <button
+              class="nav-btn"
+              [class.active]="i === currentQuestionIndex()"
+              [class.answered]="isQuestionAnswered(i)"
+              (click)="goToQuestion(i)">
+              {{ i + 1 }}
+            </button>
+          }
+        </div>
+        <div class="nav-legend">
+          <span class="legend-item"><span class="dot current"></span> Current</span>
+          <span class="legend-item"><span class="dot answered"></span> Answered</span>
+          <span class="legend-item"><span class="dot unanswered"></span> Unanswered</span>
+        </div>
+      </aside>
+
+      <!-- Question Content -->
+      <main class="question-area">
+        <div class="question-card">
+          <div class="question-number">
+            Question {{ currentQuestionIndex() + 1 }}
+            <span class="subsection-badge">{{ question.subsection }}</span>
+          </div>
+
+          <div class="scenario">
+            <h4><i class="fa-solid fa-file-medical"></i> Clinical Scenario</h4>
+            <p>{{ question.scenario }}</p>
+          </div>
+
+          <div class="question-text">
+            <p>{{ question.questionText }}</p>
+          </div>
+
+          <div class="answers-list">
+            @for (answer of question.answers; track answer.id) {
+              <button
+                class="answer-option"
+                [class.selected]="isAnswerSelected(question.id, answer.id)"
+                (click)="selectAnswer(question.id, answer.id)">
+                <span class="answer-letter">{{ answer.id }}</span>
+                <span class="answer-text">{{ answer.text }}</span>
+                @if (isAnswerSelected(question.id, answer.id)) {
+                  <i class="fa-solid fa-check check-icon"></i>
+                }
+              </button>
+            }
+          </div>
+        </div>
+
+        <!-- Navigation Buttons -->
+        <div class="question-navigation">
+          <button
+            class="nav-action-btn prev"
+            (click)="previousQuestion()"
+            [disabled]="currentQuestionIndex() === 0">
+            <i class="fa-solid fa-chevron-left"></i> Previous
+          </button>
+
+          @if (currentQuestionIndex() < totalQuestions() - 1) {
+            <button class="nav-action-btn next" (click)="nextQuestion()">
+              Next <i class="fa-solid fa-chevron-right"></i>
+            </button>
+          } @else {
+            <button
+              class="nav-action-btn submit"
+              (click)="confirmSubmit()"
+              [disabled]="answeredCount() === 0">
+              <i class="fa-solid fa-paper-plane"></i> Submit Exam
+            </button>
+          }
+        </div>
+      </main>
+    </div>
+  }
+
+  <!-- Confirm Submit Dialog -->
+  @if (showConfirmDialog()) {
+    <div class="dialog-overlay" (click)="cancelSubmit()">
+      <div class="dialog" (click)="$event.stopPropagation()">
+        <div class="dialog-icon">
+          <i class="fa-solid fa-clipboard-check"></i>
+        </div>
+        <h2>Submit Exam?</h2>
+        @if (!allAnswered()) {
+          <div class="dialog-warning">
+            <i class="fa-solid fa-triangle-exclamation"></i>
+            You have answered {{ answeredCount() }} of {{ totalQuestions() }} questions.
+            Unanswered questions will be marked as incorrect.
+          </div>
+        } @else {
+          <p>You have answered all {{ totalQuestions() }} questions. Ready to see your results?</p>
+        }
+        <div class="dialog-actions">
+          <button class="dialog-btn cancel" (click)="cancelSubmit()">Continue Exam</button>
+          <button class="dialog-btn confirm" (click)="submitExam()">Submit Now</button>
+        </div>
+      </div>
+    </div>
+  }
+
+  <!-- Confirm New Test Dialog -->
+  @if (showNewTestDialog()) {
+    <div class="dialog-overlay" (click)="cancelNewTest()">
+      <div class="dialog" (click)="$event.stopPropagation()">
+        <div class="dialog-icon new-test">
+          <i class="fa-solid fa-shuffle"></i>
+        </div>
+        <h2>Start New Test?</h2>
+        <div class="dialog-warning">
+          <i class="fa-solid fa-triangle-exclamation"></i>
+          You have {{ answeredCount() }} answered question(s). Starting a new test will discard your current progress and load a fresh set of random questions.
+        </div>
+        <div class="dialog-actions">
+          <button class="dialog-btn cancel" (click)="cancelNewTest()">Keep Current Test</button>
+          <button class="dialog-btn confirm new-test" (click)="confirmNewTest()">New Test</button>
+        </div>
+      </div>
+    </div>
+  }
+</div>
