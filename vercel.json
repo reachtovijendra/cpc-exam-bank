@@ -1,5 +1,6 @@
 {
-  "buildCommand": "cd medical-coding-app && npm install && npx ng build --configuration production",
+  "installCommand": "cd medical-coding-app && npm install --registry https://registry.npmjs.org/",
+  "buildCommand": "cd medical-coding-app && npx ng build --configuration production",
   "outputDirectory": "medical-coding-app/dist/medical-coding-app/browser",
   "framework": null,
   "rewrites": [
